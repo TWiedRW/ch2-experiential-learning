@@ -1,0 +1,89 @@
+---
+format: 
+  pdf:
+    linestretch: 2
+    cite-method: natbib
+bibliography: references.bib
+---
+
+```{=tex}
+\begin{center}
+Tyler Wiederich
+
+AGRO 803
+
+March 5th, 2024
+
+\end{center}
+```
+
+
+<!--
+# Outline
+
+A.  Introductory statistics courses typically consist of elementary methods and textbook examples of their application. [@carver] [@Tintle2021]
+
+B.  One shortfall of such courses, albeit not unheard of, is that students seldom have the opportunity to participate in a statistical experiment. [@mcgowan2011] [@ashaari2011]
+
+C.  Graphical displays of data are an important aspect of statistics and have well-established guidelines. [@cleveland1984] [@heer2010] [@loy2021a]
+
+D.  However, the current state of 3D visualizations is mainly limited to their 2D projections, providing an opportunity for experiential learning in a novel area of true 3D graphics. [@kraus2020] [@fisher1997] [@barfield1989]
+
+E.  In this paper, we discuss the use of a graphical study in an introductory statistics classroom environment and its application as an educational tool.
+-->
+
+
+
+
+# Introduction
+
+Students in introductory statistics courses are mainly exposed to elementary methods and textbook examples of their applications. 
+This is in part due to the field's emphasis on teaching students to think statistically using real data [@carver]. 
+Many textbooks, such as @Tintle2021, take a single scenario and ask students to perform its corresponding inferential test.
+This process is then repeated over the course content without much deviation. 
+
+
+
+In some cases, students have the opportunity to participate in well-designed experiments in the classroom [@mcgowan2011].
+This can expose students to concepts such as randomization and let students see the specifics of experimental design through their participation.
+@loy2021a demonstrated that student participants often recalled their experiment in later concepts, showing some evidence that students can benefit from the hands-on experience.
+
+
+<!--  
+Data visualization
+-->
+
+
+One key aspect in the statistics classroom is teaching students to interpret data through visualizations. 
+Nearly 40 years ago, @cleveland1984 began the process of establishing good practices for making graphs.
+While Cleveland and McGill's findings have been replicated [@heer2010], there are many areas in data visualization that remain underdeveloped, such as 3D graphs. 
+The current mantra is to avoid 3D graphs when possible and studies around the 1990s seem to provide some valid skepticism of their use.
+@barfield1989 showed that 3D graphs were sometimes better than 2D graphs depending on the participant's experience level, but that participants were most confident with their answers for 2D graphs.
+@fisher1997 also observed a preference for 2D graphs over 3D graphs when extracting information while simultaneously showing no preference for visual appeal for either graph type. 
+A major limitation of these studies is that the 3D graphs were 2D projections and not "true" 3D graphs.
+This is somewhat addressed by @kraus2020 with the use of virtual reality, but effectively rendering "true" 3D graphs is largely unexplored. 
+
+
+<!--
+Here, you want to talk about the specific problem you worked on in this sub-project. Based on our recent discussion, it would be something like: It is unclear how students will receive this new approach to teaching using experiential learning and how it might change their perspective on statistics. 
+-->
+
+This underdeveloped area of 3D graphs provides a unique opportunity to be used as an experiential learning opportunity for statistics students. 
+Not only can students benefit from the exposure to different graph types, but they can also see how research is conducted through the lens of a participant and researcher.
+While it is unclear how students will respond to active research as a teaching method, it may be beneficial for reinforcing statistical thinking.
+
+
+In this paper, we discuss the use of an experiential learning module in an introductory statistics classroom environment and its potential application as an educational tool.
+
+
+
+
+
+
+
+# References
+
+Link to journal citation style: [here](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=ujse21#refs)
+
+::: {#refs}
+:::

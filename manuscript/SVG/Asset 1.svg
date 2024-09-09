@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1262.26 633.32">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: #00a651;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9 {
+        fill: #662d91;
+      }
+
+      .cls-10 {
+        fill: #ed1c24;
+      }
+
+      .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-12 {
+        fill: #fff200;
+      }
+
+      .cls-13 {
+        fill: #f15a29;
+      }
+
+      .cls-14 {
+        fill: #27aae1;
+      }
+
+      .cls-15 {
+        fill: #2b3990;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        fill: none;
+      }
+
+      .cls-18 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        font-size: 18px;
+      }
+    </style>
+    <image id="image" width="650" height="500" xlink:href="../../../../../../Documents/R Directory/2024-hcii-escaping-flatland/image/Type3-Rep01.png"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <rect class="cls-11" x=".5" y="202.82" width="70" height="430"/>
+        <rect class="cls-10" x="10.5" y="212.82" width="50" height="50"/>
+        <rect class="cls-9" x="10.5" y="572.82" width="50" height="50"/>
+        <rect class="cls-15" x="10.5" y="512.82" width="50" height="50"/>
+        <rect class="cls-14" x="10.5" y="452.82" width="50" height="50"/>
+        <rect class="cls-8" x="10.5" y="392.82" width="50" height="50"/>
+        <rect class="cls-12" x="10.5" y="332.82" width="50" height="50"/>
+        <rect class="cls-13" x="10.5" y="272.82" width="50" height="50"/>
+      </g>
+      <g>
+        <rect class="cls-11" x="196.13" y="262.82" width="70" height="310"/>
+        <rect class="cls-10" x="206.13" y="272.82" width="50" height="50"/>
+        <rect class="cls-13" x="206.13" y="512.82" width="50" height="50"/>
+        <rect class="cls-9" x="206.13" y="452.82" width="50" height="50"/>
+        <rect class="cls-14" x="206.13" y="392.82" width="50" height="50"/>
+        <rect class="cls-8" x="206.13" y="332.82" width="50" height="50"/>
+      </g>
+      <g>
+        <image width="1512" height="936" transform="translate(531.76 .5) scale(.1 .16)" xlink:href="../../../../../../Documents/R Directory/2024-hcii-escaping-flatland/image/id04-type1-rep01-rendered.png"/>
+        <use transform="translate(231.76 .5) scale(.23 .3)" xlink:href="#image"/>
+        <g>
+          <rect class="cls-16" x="231.76" y=".5" width="150" height="150" transform="translate(231.26 382.26) rotate(-90)"/>
+          <rect class="cls-16" x="381.76" y=".5" width="150" height="150" transform="translate(381.26 532.26) rotate(-90)"/>
+          <rect class="cls-16" x="531.76" y=".5" width="150" height="150" transform="translate(531.26 682.26) rotate(-90)"/>
+          <rect class="cls-16" x="681.76" y=".5" width="150" height="150" transform="translate(681.26 832.26) rotate(-90)"/>
+        </g>
+        <image width="4032" height="3024" transform="translate(684.26 3) scale(.04 .05)" xlink:href="../../../../../../Documents/R Directory/2024-hcii-escaping-flatland/image/PXL_20240121_173704159.jpg"/>
+        <image width="1155" height="1173" transform="translate(384.26 3) scale(.13)" xlink:href="../../../../../../Documents/R Directory/3d_barcharts_app/3dExperimentApp/Plots/static3d/static3d-8-1.png"/>
+      </g>
+      <g>
+        <g>
+          <rect class="cls-11" x="391.76" y="262.43" width="70" height="310"/>
+          <rect class="cls-10" x="401.76" y="272.43" width="50" height="50"/>
+          <rect class="cls-13" x="401.76" y="512.43" width="50" height="50"/>
+          <rect class="cls-9" x="401.76" y="452.43" width="50" height="50"/>
+          <rect class="cls-14" x="401.76" y="392.43" width="50" height="50"/>
+          <rect class="cls-8" x="401.76" y="332.43" width="50" height="50"/>
+        </g>
+        <g>
+          <rect class="cls-11" x="461.76" y="262.43" width="70" height="310"/>
+          <rect class="cls-10" x="471.76" y="272.43" width="50" height="50"/>
+          <rect class="cls-13" x="471.76" y="512.43" width="50" height="50"/>
+          <rect class="cls-9" x="471.76" y="452.43" width="50" height="50"/>
+          <rect class="cls-14" x="471.76" y="392.43" width="50" height="50"/>
+          <rect class="cls-8" x="471.76" y="332.43" width="50" height="50"/>
+        </g>
+        <g>
+          <rect class="cls-11" x="531.76" y="262.43" width="70" height="310"/>
+          <rect class="cls-10" x="541.76" y="272.43" width="50" height="50"/>
+          <rect class="cls-13" x="541.76" y="512.43" width="50" height="50"/>
+          <rect class="cls-9" x="541.76" y="452.43" width="50" height="50"/>
+          <rect class="cls-14" x="541.76" y="392.43" width="50" height="50"/>
+          <rect class="cls-8" x="541.76" y="332.43" width="50" height="50"/>
+        </g>
+        <g>
+          <rect class="cls-11" x="601.76" y="262.43" width="70" height="310"/>
+          <rect class="cls-10" x="611.76" y="272.43" width="50" height="50"/>
+          <rect class="cls-13" x="611.76" y="512.43" width="50" height="50"/>
+          <rect class="cls-9" x="611.76" y="452.43" width="50" height="50"/>
+          <rect class="cls-14" x="611.76" y="392.43" width="50" height="50"/>
+          <rect class="cls-8" x="611.76" y="332.43" width="50" height="50"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <rect class="cls-16" x="831.76" y="262.82" width="150" height="150"/>
+          <rect class="cls-16" x="831.76" y="422.82" width="150" height="150"/>
+          <image width="650" height="500" transform="translate(831.76 262.82) scale(.23 .3)" xlink:href="../../../../../../Documents/R Directory/2024-hcii-escaping-flatland/image/Type1-Rep01.png"/>
+          <use transform="translate(831.76 422.82) scale(.23 .3)" xlink:href="#image"/>
+        </g>
+        <rect class="cls-16" x="781.76" y="262.82" width="50" height="150"/>
+        <rect class="cls-16" x="781.76" y="422.82" width="50" height="150"/>
+        <text class="cls-4" transform="translate(810.52 383.59) rotate(-90)"><tspan class="cls-6" x="0" y="0">A</tspan><tspan x="10.8" y="0">dja</tspan><tspan class="cls-7" x="34" y="0">c</tspan><tspan x="41.96" y="0">e</tspan><tspan class="cls-17" x="50.98" y="0">n</tspan><tspan x="60.89" y="0">t </tspan><tspan class="cls-18" x="70.67" y="0">(</tspan><tspan class="cls-5" x="75.58" y="0">A</tspan><tspan x="86.44" y="0">)</tspan></text>
+        <text class="cls-4" transform="translate(810.52 547.44) rotate(-90)"><tspan class="cls-19" x="0" y="0">S</tspan><tspan class="cls-1" x="8.98" y="0">epa</tspan><tspan class="cls-20" x="36.92" y="0">r</tspan><tspan class="cls-17" x="42.71" y="0">a</tspan><tspan class="cls-7" x="51.32" y="0">t</tspan><tspan class="cls-1" x="57.17" y="0">ed (S)</tspan></text>
+      </g>
+      <g>
+        <g>
+          <g>
+            <rect class="cls-11" x="981.76" y="262.82" width="70" height="310"/>
+            <rect class="cls-10" x="991.76" y="272.82" width="50" height="50"/>
+            <rect class="cls-13" x="991.76" y="512.82" width="50" height="50"/>
+            <rect class="cls-9" x="991.76" y="452.82" width="50" height="50"/>
+            <rect class="cls-14" x="991.76" y="392.82" width="50" height="50"/>
+            <rect class="cls-8" x="991.76" y="332.82" width="50" height="50"/>
+          </g>
+          <g>
+            <rect class="cls-11" x="1051.76" y="262.82" width="70" height="310"/>
+            <rect class="cls-10" x="1061.76" y="272.82" width="50" height="50"/>
+            <rect class="cls-13" x="1061.76" y="512.82" width="50" height="50"/>
+            <rect class="cls-9" x="1061.76" y="452.82" width="50" height="50"/>
+            <rect class="cls-14" x="1061.76" y="392.82" width="50" height="50"/>
+            <rect class="cls-8" x="1061.76" y="332.82" width="50" height="50"/>
+          </g>
+          <g>
+            <rect class="cls-11" x="1121.76" y="262.82" width="70" height="310"/>
+            <rect class="cls-10" x="1131.76" y="272.82" width="50" height="50"/>
+            <rect class="cls-13" x="1131.76" y="512.82" width="50" height="50"/>
+            <rect class="cls-9" x="1131.76" y="452.82" width="50" height="50"/>
+            <rect class="cls-14" x="1131.76" y="392.82" width="50" height="50"/>
+            <rect class="cls-8" x="1131.76" y="332.82" width="50" height="50"/>
+          </g>
+          <g>
+            <rect class="cls-11" x="1191.76" y="262.82" width="70" height="310"/>
+            <rect class="cls-10" x="1201.76" y="272.82" width="50" height="50"/>
+            <rect class="cls-13" x="1201.76" y="512.82" width="50" height="50"/>
+            <rect class="cls-9" x="1201.76" y="452.82" width="50" height="50"/>
+            <rect class="cls-14" x="1201.76" y="392.82" width="50" height="50"/>
+            <rect class="cls-8" x="1201.76" y="332.82" width="50" height="50"/>
+          </g>
+        </g>
+        <text class="cls-2" transform="translate(1149.41 488.22)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-2" transform="translate(1080.08 306.99)"><tspan x="0" y="0">S</tspan></text>
+        <text class="cls-2" transform="translate(1009.41 306.44)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-2" transform="translate(1150.84 306.44)"><tspan x="0" y="0">S</tspan></text>
+        <text class="cls-2" transform="translate(1080.84 488.22)"><tspan x="0" y="0">S</tspan></text>
+        <text class="cls-2" transform="translate(1219.41 306.44)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-2" transform="translate(1010.84 366.27)"><tspan x="0" y="0">S</tspan></text>
+        <text class="cls-2" transform="translate(1079.41 366.27)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-2" transform="translate(1219.41 366.27)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-2" transform="translate(1008.6 429.2)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-2" transform="translate(1009.41 546.69)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-2" transform="translate(1010.84 488.22)"><tspan x="0" y="0">S</tspan></text>
+        <text class="cls-2" transform="translate(1150.84 366.51)"><tspan x="0" y="0">S</tspan></text>
+        <text class="cls-2" transform="translate(1078.6 429.2)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-2" transform="translate(1150.84 429.2)"><tspan x="0" y="0">S</tspan></text>
+        <text class="cls-2" transform="translate(1220.84 429.2)"><tspan x="0" y="0">S</tspan></text>
+        <text class="cls-2" transform="translate(1220.84 488.22)"><tspan x="0" y="0">S</tspan></text>
+        <text class="cls-2" transform="translate(1079.41 546.69)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-2" transform="translate(1149.41 546.69)"><tspan x="0" y="0">A</tspan></text>
+        <text class="cls-2" transform="translate(1221.14 545.28)"><tspan x="0" y="0">S</tspan></text>
+      </g>
+      <g>
+        <path class="cls-16" d="M83.31,417.43h92.94"/>
+        <polygon class="cls-3" points="183.31 417.43 173.36 421.49 175.73 417.43 173.36 413.36 183.31 417.43"/>
+      </g>
+      <g>
+        <path class="cls-16" d="M278.94,417.43h92.94"/>
+        <polygon class="cls-3" points="378.94 417.43 368.99 421.49 371.35 417.43 368.99 413.36 378.94 417.43"/>
+      </g>
+      <g>
+        <path class="cls-16" d="M676.76,477.43c12.75-10.97,26.37-20.63,36.14-34.8,10.77-15.33,13.76-36.14,18.3-53.92,6.5-26.8,17.89-38.66,39.05-48.15"/>
+        <polygon class="cls-3" points="776.76 337.82 769.23 345.49 769.79 340.83 766.01 338.03 776.76 337.82"/>
+      </g>
+      <g>
+        <path class="cls-16" d="M676.76,337.82c12.75,10.97,26.37,20.63,36.14,34.8,10.77,15.33,13.76,36.14,18.3,53.92,6.5,26.8,17.89,38.66,39.05,48.15"/>
+        <polygon class="cls-3" points="776.76 477.43 766.01 477.22 769.79 474.42 769.23 469.75 776.76 477.43"/>
+      </g>
+      <text class="cls-2" transform="translate(120.34 455.72)"><tspan x="0" y="0">(1)</tspan></text>
+      <text class="cls-2" transform="translate(315.97 452.82)"><tspan x="0" y="0">(2)</tspan></text>
+      <text class="cls-2" transform="translate(713.78 528.84)"><tspan x="0" y="0">(3)</tspan></text>
+      <g>
+        <path class="cls-16" d="M306.76,156.46c0,94.29,114.01,6.86,119.77,92.94"/>
+        <polygon class="cls-3" points="426.76 256.46 422.32 246.67 426.47 248.88 430.44 246.37 426.76 256.46"/>
+      </g>
+      <g>
+        <path class="cls-16" d="M456.76,156.46c0,94.29,38,6.86,39.92,92.94"/>
+        <polygon class="cls-3" points="496.76 256.46 492.56 246.57 496.65 248.88 500.69 246.46 496.76 256.46"/>
+      </g>
+      <g>
+        <path class="cls-16" d="M606.76,156.46c0,94.29-38,6.86-39.92,92.94"/>
+        <polygon class="cls-3" points="566.76 256.46 562.82 246.46 566.86 248.88 570.95 246.57 566.76 256.46"/>
+      </g>
+      <g>
+        <path class="cls-16" d="M756.76,156.46c0,94.29-114.01,6.86-119.77,92.94"/>
+        <polygon class="cls-3" points="636.76 256.46 633.07 246.37 637.04 248.88 641.19 246.67 636.76 256.46"/>
+      </g>
+    </g>
+  </g>
+</svg>

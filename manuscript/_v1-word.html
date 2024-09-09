@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.545">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>v1-word</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="_v1-word_files/libs/clipboard/clipboard.min.js"></script>
+<script src="_v1-word_files/libs/quarto-html/quarto.js"></script>
+<script src="_v1-word_files/libs/quarto-html/popper.min.js"></script>
+<script src="_v1-word_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="_v1-word_files/libs/quarto-html/anchor.min.js"></script>
+<link href="_v1-word_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="_v1-word_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="_v1-word_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="_v1-word_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="_v1-word_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="_v1-word_files/libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="_v1-word_files/libs/lightable-0.0.1/lightable.css" rel="stylesheet">
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="title-experiential-learning-with-3d-data-visualizations-in-an-introductory-statistics-course" class="level1">
+<h1>Title: Experiential learning with 3D data visualizations in an introductory statistics course</h1>
+</section>
+<section id="abstract" class="level1">
+<h1>Abstract</h1>
+<p>A key component of statistics courses is to teach students how to interpret data visualizations. Although many research-based recommendations exist for creating graphs, the technological advances for creating such graphs have outpaced studies that evaluate their effectiveness to the status quo, especially with 3D graphs. Here, we describe a process of integrating an experiment on 3D graphs as a project for students enrolled in an introductory statistics course and gather responses as students reflect on their positions as both experiment participants and reviewers of empirical evidence. A total of 82 students participated in our graphics project and displayed a pattern of not fully grasping research objectives as experiment participants; as students reviewed material from our pilot study of the same design, they tended to gain a clearer understanding about the purpose of the experiment and its role in the realm of data visualizations. The project we presented to students shows promise as an educational tool for helping students gain a more holistic view of statistical research.</p>
+</section>
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<p>Students in introductory statistics courses are mainly exposed to elementary methods and textbook examples of their applications. This is in part due to the field’s emphasis on teaching students to think statistically using real data <span class="citation" data-cites="carver">[@carver]</span>. Many textbooks, such as <span class="citation" data-cites="Tintle2021">@Tintle2021</span>, take a single scenario and ask students to perform its corresponding inferential test. This process is then repeated over the course content without much deviation.</p>
+<p>In some cases, students have the opportunity to participate in well-designed experiments in the classroom <span class="citation" data-cites="mcgowan2011">[@mcgowan2011]</span>. This can expose students to concepts such as randomization and let students see the specifics of experimental design through their participation. <span class="citation" data-cites="loy2021a">@loy2021a</span> demonstrated that student participants often recalled their experiment in later concepts, showing some evidence that students can benefit from the hands-on experience.</p>
+<!--  
+Data visualization
+-->
+<p>One key aspect in the statistics classroom is teaching students to interpret data through visualizations. Nearly 40 years ago, <span class="citation" data-cites="cleveland1984">@cleveland1984</span> began the process of establishing good practices for making graphs. While Cleveland and McGill’s findings have been replicated <span class="citation" data-cites="heer2010">[@heer2010]</span>, there are many areas in data visualization that remain underdeveloped, such as 3D graphs. The current mantra is to avoid 3D graphs when possible and studies around the 1990s seem to provide some valid skepticism of their use. <span class="citation" data-cites="barfield1989">@barfield1989</span> showed that 3D graphs were sometimes better than 2D graphs depending on the participant’s experience level, but that participants were most confident with their answers for 2D graphs. <span class="citation" data-cites="fisher1997">@fisher1997</span> also observed a preference for 2D graphs over 3D graphs when extracting information while simultaneously showing no preference for visual appeal for either graph type. A major limitation of these studies is that the 3D graphs were 2D projections and not “true” 3D graphs. This is somewhat addressed by <span class="citation" data-cites="kraus2020">@kraus2020</span> with the use of virtual reality, but effectively rendering “true” 3D graphs is largely unexplored.</p>
+<!--
+Here, you want to talk about the specific problem you worked on in this sub-project. Based on our recent discussion, it would be something like: It is unclear how students will receive this new approach to teaching using experiential learning and how it might change their perspective on statistics. 
+-->
+<p>This underdeveloped area of 3D graphs provides a unique opportunity to be used as an experiential learning opportunity for statistics students. Not only can students benefit from the exposure to different graph types, but they can also see how research is conducted through the lens of a participant and researcher. While it is unclear how students will respond to active research as a teaching method, it may be beneficial for reinforcing statistical thinking.</p>
+<p>In this paper, we discuss the use of an experiential learning module in an introductory statistics classroom environment and its potential application as an educational tool.</p>
+</section>
+<section id="methods" class="level1">
+<h1>Methods</h1>
+<p>We introduced students enrolled in STAT 218, the introductory statistics course at University of Nebraska-Lincoln, to a graphics project that contained an experiment and progressively revealing components that illustrate the experiment’s research objectives. The project started by providing students with minimal information about the research objectives before revealing the scope of the experiment through an extended abstract and presentation. The goal of the graphics project is to observe how students think statistically about experiments from the viewpoint of participants and researchers.</p>
+<section id="experiential-learning" class="level2">
+<h2 class="anchored" data-anchor-id="experiential-learning">Experiential Learning</h2>
+<p>The classroom integration of the graphics experiment project was split into two stages: research participation and reflection of the overall research objectives. In the research participation stage, students participated in the experiment with the understanding that the experiment is testing for how people perceive statistical graphics. Students were not informed of the specific research hypotheses when participating in the experiment. After participating in the experiment, students were provided materials that cover the research objectives and reflected on their new understanding of the experiment’s purpose.</p>
+<!---
+informed consent, pre-experiment reflection, experiment participation, post-experiment reflection, abstract reflection, and presentation reflection. 
+--->
+<p>Within the research participation stage, students completed four modules: informed consent, pre-experiment reflection, experiment participation, and post-experiment reflection. The informed consent asked students if they consent to their responses being shared with the researchers and if they are 19 years of age or older. Within the informed consent module, students were informed that their data would be anonymized and that the experiment was carried out in accordance to the institutional review board (Project ID: 22579). In the pre-experiment reflection, students were asked to write a paragraph about how they think the process of scientific investigation looks from the perspective of researchers and the general public. The experiment participation module asked students to paste the code generated from the experiment, which is detailed in the next section. For the post-experiment reflection, students were asked five questions about the purpose of the experiment. These include questions on the hypotheses being tested, sources of error, variables of interest, and elements of experimental design.</p>
+<p>After completing the experiment reflections, students moved to the reflection of the overall research objectives. Students were first directed to read a two-page extended abstract that we submitted as a contributed paper for the Symposium on Data Science &amp; Statistics (SDSS) conference in 2023. The extended abstract outlined the experiment’s purpose and procedures, but not the results from our initial pilot study. After reading the extended abstract, students were asked to write a paragraph about what they found clearer about the experiment’s purpose than when they were a participant. Finally, students were directed to watch a 12-minute pre-recorded presentation based on an abbreviated version given at SDSS. The video contains the same material as the extended abstract and included the results from our pilot study. The presentation reflection asked students four questions about the experiment and how information was presented differently than in the extended abstract.</p>
+<p>Except for the informed consent and experiment participation modules, all student responses were open-ended. Each question and its corresponding module can be found in Table 1.</p>
+<p>Instructors for STAT 218 were recruited for Summer 2023 and Fall 2023 to administer the graphics project into their classroom. The instructors were given the option of administering the project as coursework material or extra credit, along with the liberty of grading at their own discretion. While all students were given the option to participate in the graphics project, we were only able to collect responses when the informed consent was obtained and if the student was 19 years of age.</p>
+</section>
+<section id="graphics-experiment" class="level2">
+<h2 class="anchored" data-anchor-id="graphics-experiment">Graphics Experiment</h2>
+<!---
+A.  We draw inspiration from Cleveland and McGill’s seminal work on graphical perception to design our graphics study. (Cleveland and McGill 1984).
+B.  We used a Our modernization of the 1984 study led us to create a Shiny app to collect data and administer the digital graphs for the modern version of the 1984 study . (Chang et al. 2023).
+•   Figure 1: Screenshot from the Shiny app used to administer the experiment.
+C.  Due to (what type of?) limitations in modern software packages, multiple sources were required to create each graph type of graph. (Microsoft Corporation 2018) (Murdoch and Adler 2023) (Wickham 2016)
+D.  With 42 treatment combinations, we opted to use an incomplete block design to select five of the seven possible ratios and use each plot graph type for each ratio.
+•   Figure 2: Visual display of the experimental design for students who participated in the 3D bar charts experiment.
+E.  When administering the experiment, participants are asked to randomly select a bag containing the 3D printed graphs.
+--->
+<p>We took inspiration from Cleveland and McGill’s seminal work <span class="citation" data-cites="cleveland1984">[-@cleveland1984]</span> on graphical perception to design our graphics study. Participants were presented with a series of bar graphs where two bars are marked with either a circle or triangle. The heights of the bars were chosen from the following equation:</p>
+<p><span id="eq-vals"><span class="math display">\[s_i=10\cdot 10^{(i-1)/12}, \qquad i=1,...,10 \tag{1}\]</span></span></p>
+<p>Values from <a href="#eq-vals" class="quarto-xref">Equation&nbsp;1</a> were then paired such that the ratio of the smaller value to the larger value yield the ratios of 17.8, 26.1, 38.3, 46.4, 56.2, 68.1, and 82.5. Each bar graph has two groupings of five bars. The value pairs for each ratio were either placed in the first grouping on the second and third bars (adjacent), or placed on the second bars in each grouping (separated). This follows the Type 1 and Type 3 graphs from Cleveland and McGill’s position-length experiment, respectively.</p>
+<p>Deviating from Cleveland and McGill, we introduced four plot types: 2D digital, 3D digital (static), 3D digital (interactive), and 3D printed. There was no single software package that could create all four plot types, so we carefully constructed graphs from different software packages to be as similar as possible. The 2D digital plots were rendered with the <code>ggplot2</code> package <span class="citation" data-cites="ggplot2">[@ggplot2]</span>. Microsoft Excel was used to render the 3D digital (static) plots <span class="citation" data-cites="msexcel">[@msexcel]</span>. The 3D digital (interactive) and 3D printed plots were created with OpenSCAD <span class="citation" data-cites="kintelOpenSCADDocumentation2023">[@kintelOpenSCADDocumentation2023]</span>, where the generated STL files for the 3D digital (interactive) plots were rendered with the <code>rgl</code> package <span class="citation" data-cites="rgl">[@rgl]</span>.</p>
+<p>With 56 treatment combinations, we opted to use an incomplete block design to provide participants with 15-20 graphs. Kits of graphs were constructed so that five of the seven ratios are equally represented, resulting in 21 different kits. Within each kit, all graph types appeared for each ratio and the comparison type was randomly assigned. A visual layout of the experiment is shown in Figure 1. All kits received a unique identifier and a set of instructions for accessing the experiment.</p>
+<p>A Shiny application <span class="citation" data-cites="shiny">[@shiny]</span> was designed to administer the experiment. Students were directed to randomly select a kit of graphs and visit the Shiny application’s url linked on the instructions. For students enrolled in the online sections of STAT 218, the url was provided by the instructor and they were prompted in the application to select that they were an online participant. After students provided a kit identifier (if applicable), students were presented graphs in a randomized order. If the student marked that they were an online participant, the 3D printed graphs were removed from their experiment lineup. Each graph asked the students to first identify the larger marked bar and then to guess the height of the smaller marked bar if the larger marked bar was 100 units tall using a slider widget. After completing the experiment, students were provided with a code to copy and paste into the experiment participation module.</p>
+</section>
+<section id="data-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="data-analysis">Data Analysis</h2>
+<p>Since nearly all of the student responses to the project modules are open-ended, the analysis of the project is qualitative in nature. We will extract selected responses that we feel highlight common themes among the students or other points of interest. For paragraph responses, bigrams are used to illustrate word pairs after removing stop words (e.g., “the” and “and”). This will help in establishing common themes that appear in student responses. We opt to reserve the results of the graphics experiment for another paper so that we can clearly differentiate between our findings in graphics project and the experiment’s role in a classroom environment.</p>
+</section>
+</section>
+<section id="results" class="level1">
+<h1>Results</h1>
+<!--A.  Given the nature of the recruitment method, we were only able to recruit a few instructors for Summer and Fall semesters in 2023.
+    -   Table 2: Number of valid student participants by semester.
+-->
+<p>Given the nature of the recruitment method, we were only able to recruit 3 instructors for summer and fall semesters in 2023. Each instructor offered the project as extra credit and student participation was entirely voluntary. A total of 82 students participated in the project; a summary of student participation is presented in Table 1. There were 9 students who did not complete the project in its entirety.</p>
+<section id="selected-responses-from-reflections" class="level2">
+<h2 class="anchored" data-anchor-id="selected-responses-from-reflections">Selected Responses from Reflections</h2>
+<p>Prior to the experiment, students generally understood the purpose scientific research by connecting the ideas of hypothesis testing and publishing results. Students wrote about scientific research starting from the place of a question, followed by conducting an experiment and relaying the results to the public. A bigram plot from the Pre-Experiment Reflection is shown in Figure 3, which highlights the recurring trends and patterns in the student paragraph responses.</p>
+<p>Some students correctly identified parts of the questions asked in the post-experiment reflection, but many missed key components.</p>
+<p><strong>What do you think the purpose of the experiment was?</strong></p>
+<ul>
+<li><p>“They could be trying to determine how different genders, ages, etc. perceive the sizes of the bars in the graph. Demographics could make a pretty significant difference.”</p></li>
+<li><p>“I think the purpose of this experiment was for the researcher to gather data on how people perceive, interpret, and understand 3D graphs.”</p></li>
+<li><p>“I think this experiment aimed to test if it was easier to compare two graphs in 2D or 3D.”</p></li>
+<li><p>“To gage students skills at estimating relative size ratios.”</p></li>
+</ul>
+<p><strong>What hypotheses might the experimenters have been testing?</strong></p>
+<ul>
+<li><p>“Do students change their answers when asked the same question over and over?”</p></li>
+<li><p>“How taking Statistics 218 effects how you can compare two groups.”</p></li>
+<li><p>“That 2d is preferred over 3d. It cleans up the data presentation.”</p></li>
+<li><p>“They might have been testing if a 2D model is easier to estimate its relative size to another when compared to a 3D model of it.”</p></li>
+</ul>
+<p><strong>What sources of error are involved in this experiment?</strong></p>
+<ul>
+<li><p>“Misunderstanding of task, technical issues”</p></li>
+<li><p>“If people are just randomly picking answers.”</p></li>
+<li><p>“Fatigue effect over the course of making many judgements, learning patterns from seeing the same ratios multiple times, possibly difference in eyesight among participants.”</p></li>
+<li><p>“As far as I know, there wasn’t much random sampling involved or there may be some bias of sorts. The results may apply for students in STATS 218 here at UNL, but maybe not for other students taking a similar statistics class elsewhere.”</p></li>
+</ul>
+<p><strong>What elements of experimental design, such as randomization or the use of a control group, do you think were present in the experiment? Why?</strong></p>
+<ul>
+<li><p>“random students in the stats class”</p></li>
+<li><p>“Randomization: The survey used an experimental design where in the survey there were different sets of 3D charts and maybe by a randomization process each participant was shown a different set of charts to see the differences in interpretations of the charts based on which set was assigned. Control Group: Since this survey aimed to only understand how participants interpret 3D charts without comparison to other chart types, then no control group was needed.”</p></li>
+<li><p>“Randomization was not used because it was offered as an extra credit assignment in class.”</p></li>
+<li><p>“Randomization was used because the ever person got a different graph.”</p></li>
+</ul>
+<p>The abstract unveiled the scope of the study to students, many of whom did not realize the underlying complexities. Nearly all students responded with statements about gaining clarity about the purpose the experiment and its role in testing the differences between 2D and 3D graphs. A bigram plot of the student responses to the abstract reflection prompt is shown in Figure 4.</p>
+<p>Lastly, more than half of the students (78.5%) responded that they preferred the presentation over the extended abstract.</p>
+<ul>
+<li><p>“I am a visual learner so I would have rather heard about in through the presentation. It also broke down the steps which is easier for me to understand. I think the presentation as a whole would be better for determining how the experiment is designed.”</p></li>
+<li><p>“I would prefer the presentation because it gives the audience more information about the experiment rather than the extended abstract. The presentation goes over the results of the experiment and explains what they mean using graphs and other visuals.[…]”</p></li>
+<li><p>“Personally I like the abstract better. If I get confused on something it is so much easier to go back and reread to understand what is going on. If I ask myself questions about it, it is much easier to go back and find answers to the questions as well.”</p></li>
+</ul>
+</section>
+</section>
+<section id="discussion" class="level1">
+<h1>Discussion</h1>
+<p>Our goal was to provide students of an introductory statistics course the opportunity to reflect on active research. Students generally appreciated the progressively revealing nature of the graphics project, which is evident from the abstract and presentation reflections. When provided with the post-experiment reflections, students often either missed the research objective of the experiment or had partially correct responses. The abstract reflection received many responses indicating that students had moments of realization about the true nature of our research goals, which was further expanded in the presentation reflection prompts. The reflections indicated that students were thoughtful, and sometimes amusing, with their responses and that they were on the path of statistical thinking.</p>
+<p>A limitation of this study is the use of open-ended responses that do not assess student learning. While the student responses were useful in gathering insight, the responses are widely varied and do not have direct comparisons of statistical thinking throughout the modules. Another limiting factor is tiered layering of convenience sampling, with instructors being recruited first before recruiting students. This makes it impossible to generalize our results to statistics students, let alone the students at University of Nebraska-Lincoln.</p>
+<p>In future studies, we plan to use a similar framework to conduct experiments on more typical 3-dimensional data, such as heatmaps. The use of graphical experiments in the classroom not only provides a readily available convenience sample, but also adheres to the recommendations of the Guidelines for Assessment and Instruction in Statistics Education (GAISE) College Report <span class="citation" data-cites="carver">[@carver]</span>. With the framework we provided in this paper, we aim to make adjustments to further improve the graphics experiment and corresponding project as an experiential learning opportunity.</p>
+</section>
+<section id="references" class="level1">
+<h1>References</h1>
+<p>Link to journal citation style: <a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=ujse21#refs">here</a></p>
+<div id="refs" role="list">
+
+</div>
+</section>
+<section id="figures" class="level1">
+<h1>Figures</h1>
+<p>Figure 1: Visual display of the experimental design for students who participated in the 3D bar charts experiment. Kits of graphs were created by first choosing five ratios from nine available options (1). Each ratio then uses all graph types, with the exception of the 3D printed graphs for online students (2). Finally, all graphs were randomly assigned to have the marked bars as adjacent or separated (3).</p>
+<p>Figure 2: Bigram of student responses to the pre-experiment prompt. Each line represents pairs of words that appeared together where each pair occurred at least twice. Students generally understood that science is about investigating research questions and collecting data.</p>
+<p>Figure 3: Bigram of student responses to the abstract reflection prompt. Each line represents pairs of words that appeared together where each pair occurred at least twice. Students generally understood that science is about investigating research questions and collecting data.</p>
+</section>
+<section id="tables" class="level1">
+<h1>Tables</h1>
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-sm table-striped small" data-quarto-postprocess="true">
+<caption>Questions provided to students in each project module.</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">Reflection</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Question</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Prompt</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left; width: 9em;">Pre-Experiment</td>
+<td style="text-align: left; width: 6em;">Q3</td>
+<td style="text-align: left; width: 25em;">In this class, you'll be learning about the process of scientific investigation. What do you think that process looks like, from the perspective of a researcher, compared to what it looks like from the perspective of someone in the general public who is a consumer of scientific results? Write a paragraph (at least 3-5 sentences) about how you think science happens.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; width: 9em;">Post-Experiment</td>
+<td style="text-align: left; width: 6em;">Q5</td>
+<td style="text-align: left; width: 25em;">What do you think the purpose of the experiment was?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; width: 9em;">Post-Experiment</td>
+<td style="text-align: left; width: 6em;">Q6</td>
+<td style="text-align: left; width: 25em;">What hypotheses might the experimenter have been testing?</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; width: 9em;">Post-Experiment</td>
+<td style="text-align: left; width: 6em;">Q7</td>
+<td style="text-align: left; width: 25em;">What sources of error are involved in this experiment?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; width: 9em;">Post-Experiment</td>
+<td style="text-align: left; width: 6em;">Q8</td>
+<td style="text-align: left; width: 25em;">What variables were examined? For each variable, identify whether it was quantitative or categorical.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; width: 9em;">Post-Experiment</td>
+<td style="text-align: left; width: 6em;">Q9</td>
+<td style="text-align: left; width: 25em;">What elements of experimental design, such as randomization or the use of a control group, do you think were present in the experiment? Why?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; width: 9em;">Abstract</td>
+<td style="text-align: left; width: 6em;">Q10</td>
+<td style="text-align: left; width: 25em;">What components of the experiment are clearer now than they were as a participant? What questions do you still have for the experimenter? Write 3-5 sentences reflecting on the abstract.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; width: 9em;">Presentation</td>
+<td style="text-align: left; width: 6em;">Q11</td>
+<td style="text-align: left; width: 25em;">How did the information you gained from the components of this project (participation, post-study reflection, extended abstract, presentation) differ?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; width: 9em;">Presentation</td>
+<td style="text-align: left; width: 6em;">Q12</td>
+<td style="text-align: left; width: 25em;">What components were emphasized in the presentation that weren't emphasized in the abstract? Why do you think that is?</td>
+</tr>
+<tr class="even">
+<td style="text-align: left; width: 9em;">Presentation</td>
+<td style="text-align: left; width: 6em;">Q13</td>
+<td style="text-align: left; width: 25em;">What critiques do you have of this study and its design? What would have made the study better?</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left; width: 9em;">Presentation</td>
+<td style="text-align: left; width: 6em;">Q14</td>
+<td style="text-align: left; width: 25em;">If you had to hear about this study using only the extended abstract or only the presentation, which one would you prefer? Which one would be better for determining whether the experiment was well designed?</td>
+</tr>
+</tbody>
+</table>
+
+
+</div>
+</div>
+<div class="cell">
+<div class="cell-output-display">
+<table class="table table-sm table-striped small" data-quarto-postprocess="true">
+<caption>Number of valid student participants by semester.</caption>
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">Semester</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">Number of Sections</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">Number of Students</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Summer 2023 (May-June)</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">17</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Summer 2023 (July-Aug)</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">23</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Fall 2023 (May-June)</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">42</td>
+</tr>
+</tbody><tfoot>
+<tr class="even">
+<td style="text-align: left; padding: 0; border: 0;"><sup></sup> Students under 19 years of age or did not consent were exluded from data collection. To comply with IRB, no demographic information was collected in order to keep students anonymous.</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+</tfoot>
+
+</table>
+
+
+</div>
+</div>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

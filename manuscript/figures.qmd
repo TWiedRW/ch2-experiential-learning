@@ -1,0 +1,137 @@
+---
+format: 
+  pdf:
+    fontsize: "12"
+    linestretch: "2"
+    link-citations: true
+editor: visual
+bibliography: references.bib
+knitr:
+  opts_chunk:
+    fig-path: figures/
+    dpi: 600
+    echo: false
+    message: false
+    warning: false
+  
+    
+---
+
+```{=tex}
+\begin{center}
+  Tyler Wiederich
+  
+  AGRO 803
+  
+  2/21/2024
+\end{center}
+```
+
+
+
+```{r, eval=FALSE}
+library(tidytext)
+library(ggraph)
+q3 <- df %>% 
+  dplyr::select(text = in_this_class_youll_be_learning_about_the_process_of_scientific_investigation_what_do_you_think_that_process_looks_like_from_the_perspective_of_a_researcher_compared_to_what_it_looks_like_from_the_perspective_of_someone_in_the_general_public_who_is_a_consumer_of_scientific_results_write_a_paragraph_at_least_3_5_sentences_about_how_you_think_science_happens) %>% 
+  unnest_tokens(output = word,
+                input = text) %>% 
+  anti_join(stop_words, by = 'word') %>% 
+  mutate(stem = SnowballC::wordStem(word)) %>% 
+  count(stem)
+```
+
+
+```{r}
+#| label: fig-exp-design
+#| fig-width: 6
+
+pdf('figures/exp-design.pdf', width = 6)
+knitr::include_graphics("figures/Asset 3.pdf")
+dev.off()
+```
+
+
+
+```{r}
+#| label: fig-q3-bigram
+#| fig-width: 6
+#| fig-height: 3
+#| fig-cap: "Bigram of student responses to the pre-experiment prompt. Each line represents pairs of words that appeared together where each pair occured at least twice. Students generally understood that science is about investigating research questions and collecting data."
+
+library(tidyverse)
+library(tidytext)
+library(ggraph)
+df <- read.csv('responsesAGRO.csv')
+q3.bigram <- df %>% 
+  dplyr::select(text = in_this_class_youll_be_learning_about_the_process_of_scientific_investigation_what_do_you_think_that_process_looks_like_from_the_perspective_of_a_researcher_compared_to_what_it_looks_like_from_the_perspective_of_someone_in_the_general_public_who_is_a_consumer_of_scientific_results_write_a_paragraph_at_least_3_5_sentences_about_how_you_think_science_happens) %>% 
+  unnest_tokens(output = bigram,
+                input = text, token = 'ngrams', n = 2) %>% 
+  separate(col = bigram,
+           into = c('word1', 'word2'),
+           sep = ' ') %>% 
+  filter(!(word1 %in% stop_words$word),
+         !(word2 %in% stop_words$word)) %>% 
+  count(word1, word2, sort = T) %>% 
+  filter(!is.na(word1) | !is.na(word2))
+
+graph <- q3.bigram %>% 
+  filter(n > 1) %>% 
+  igraph::graph_from_data_frame()
+graph %>% 
+  ggraph(layout = 'kk') + 
+  geom_edge_link(alpha = 1/4) +
+  geom_node_point(size = 1) +
+  geom_node_text(aes(label = name),
+                 size = 2.5,
+                 vjust = 1.5, hjust = 0.5,
+                 color = 'darkblue') +
+  theme(plot.background = element_rect(fill = 'white'),
+        panel.background = element_rect(fill = 'white'))
+
+```
+
+
+
+```{r}
+#| label: fig-q10-bigram
+#| fig-width: 6
+#| fig-height: 3
+#| fig-cap: "Bigram of student responses to the abstract reflection prompt. Each line represents pairs of words that appeared together where each pair occured at least twice. Students generally understood that science is about investigating research questions and collecting data."
+
+library(tidyverse)
+library(tidytext)
+library(ggraph)
+df <- read.csv('responsesAGRO.csv')
+q10.bigram <- df %>% 
+  dplyr::select(text = what_components_of_the_experiment_are_clearer_now_than_they_were_as_a_participant_what_questions_do_you_still_have_for_the_experimenter_write_3_5_sentences_reflecting_on_the_abstract) %>% 
+  unnest_tokens(output = bigram,
+                input = text, token = 'ngrams', n = 2) %>% 
+  separate(col = bigram,
+           into = c('word1', 'word2'),
+           sep = ' ') %>% 
+  filter(!(word1 %in% stop_words$word),
+         !(word2 %in% stop_words$word)) %>%
+  count(word1, word2, sort = T) %>% 
+  filter(!is.na(word1) | !is.na(word2))
+
+graph <- q10.bigram %>% 
+  filter(n > 1) %>% 
+  igraph::graph_from_data_frame()
+graph %>% 
+  ggraph(layout = 'kk') + 
+  geom_edge_link(alpha = 1/4) +
+  geom_node_point(size = 1) +
+  geom_node_text(aes(label = name),
+                 size = 2.5,
+                 vjust = 1.5, hjust = 0.5,
+                 color = 'darkblue') +
+  theme(plot.background = element_rect(fill = 'white'),
+        panel.background = element_rect(fill = 'white'))
+
+```
+
+
+
+
+

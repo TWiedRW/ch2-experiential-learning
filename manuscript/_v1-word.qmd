@@ -1,0 +1,316 @@
+---
+format: docx
+---
+
+# Title: Experiential learning with 3D data visualizations in an introductory statistics course
+
+# Abstract
+
+A key component of statistics courses is to teach students how to interpret data visualizations.
+Although many research-based recommendations exist for creating graphs, the technological advances for creating such graphs have outpaced studies that evaluate their effectiveness to the status quo, especially with 3D graphs.
+Here, we describe a process of integrating an experiment on 3D graphs as a project for students enrolled in an introductory statistics course and gather responses as students reflect on their positions as both experiment participants and reviewers of empirical evidence.
+A total of 82 students participated in our graphics project and displayed a pattern of not fully grasping research objectives as experiment participants; as students reviewed material from our pilot study of the same design, they tended to gain a clearer understanding about the purpose of the experiment and its role in the realm of data visualizations.
+The project we presented to students shows promise as an educational tool for helping students gain a more holistic view of statistical research.
+
+
+
+# Introduction
+
+Students in introductory statistics courses are mainly exposed to elementary methods and textbook examples of their applications. 
+This is in part due to the field's emphasis on teaching students to think statistically using real data [@carver]. 
+Many textbooks, such as @Tintle2021, take a single scenario and ask students to perform its corresponding inferential test.
+This process is then repeated over the course content without much deviation. 
+
+
+
+In some cases, students have the opportunity to participate in well-designed experiments in the classroom [@mcgowan2011].
+This can expose students to concepts such as randomization and let students see the specifics of experimental design through their participation.
+@loy2021a demonstrated that student participants often recalled their experiment in later concepts, showing some evidence that students can benefit from the hands-on experience.
+
+
+<!--  
+Data visualization
+-->
+
+
+One key aspect in the statistics classroom is teaching students to interpret data through visualizations. 
+Nearly 40 years ago, @cleveland1984 began the process of establishing good practices for making graphs.
+While Cleveland and McGill's findings have been replicated [@heer2010], there are many areas in data visualization that remain underdeveloped, such as 3D graphs. 
+The current mantra is to avoid 3D graphs when possible and studies around the 1990s seem to provide some valid skepticism of their use.
+@barfield1989 showed that 3D graphs were sometimes better than 2D graphs depending on the participant's experience level, but that participants were most confident with their answers for 2D graphs.
+@fisher1997 also observed a preference for 2D graphs over 3D graphs when extracting information while simultaneously showing no preference for visual appeal for either graph type. 
+A major limitation of these studies is that the 3D graphs were 2D projections and not "true" 3D graphs.
+This is somewhat addressed by @kraus2020 with the use of virtual reality, but effectively rendering "true" 3D graphs is largely unexplored. 
+
+
+
+This underdeveloped area of 3D graphs provides a unique opportunity to be used as an experiential learning opportunity for statistics students. 
+Not only can students benefit from the exposure to different graph types, but they can also see how research is conducted through the lens of a participant and researcher.
+While it is unclear how students will respond to active research as a teaching method, it may be beneficial for reinforcing statistical thinking.
+
+
+In this paper, we discuss the use of an experiential learning module in an introductory statistics classroom environment and its potential application as an educational tool.
+
+# Methods
+
+We introduced students enrolled in STAT 218, the introductory statistics course at University of Nebraska-Lincoln, to a graphics project that contained an experiment and progressively revealing components that illustrate the experiment's research objectives. 
+The project started by providing students with minimal information about the research objectives before revealing the scope of the experiment through an extended abstract and presentation.
+The goal of the graphics project is to observe how students think statistically about experiments from the viewpoint of participants and researchers.
+
+
+## Experiential Learning
+
+The classroom integration of the graphics experiment project was split into two stages: research participation and reflection of the overall research objectives.
+In the research participation stage, students participated in the experiment with the understanding that the experiment is testing for how people perceive statistical graphics. 
+Students were not informed of the specific research hypotheses when participating in the experiment.
+After participating in the experiment, students were provided materials that cover the research objectives and reflected on their new understanding of the experiment's purpose.
+
+
+
+
+Within the research participation stage, students completed four modules: informed consent, pre-experiment reflection, experiment participation, and post-experiment reflection.
+The informed consent asked students if they consent to their responses being shared with the researchers and if they are 19 years of age or older. 
+Within the informed consent module, students were informed that their data would be anonymized and that the experiment was carried out in accordance to the institutional review board (Project ID: 22579).
+In the pre-experiment reflection, students were asked to write a paragraph about how they think the process of scientific investigation looks from the perspective of researchers and the general public.
+The experiment participation module asked students to paste the code generated from the experiment, which is detailed in the next section.
+For the post-experiment reflection, students were asked five questions about the purpose of the experiment. These include questions on the hypotheses being tested, sources of error, variables of interest, and elements of experimental design.
+
+After completing the experiment reflections, students moved to the reflection of the overall research objectives.
+Students were first directed to read a two-page extended abstract that we submitted as a contributed paper for the Symposium on Data Science & Statistics (SDSS) conference in 2023.
+The extended abstract outlined the experiment's purpose and procedures, but not the results from our initial pilot study.
+After reading the extended abstract, students were asked to write a paragraph about what they found clearer about the experiment's purpose than when they were a participant.
+Finally, students were directed to watch a 12-minute pre-recorded presentation based on an abbreviated version given at SDSS.
+The video contains the same material as the extended abstract and included the results from our pilot study.
+The presentation reflection asked students four questions about the experiment and how information was presented differently than in the extended abstract.
+
+Except for the informed consent and experiment participation modules, all student responses were open-ended. 
+Each question and its corresponding module can be found in Table 1.
+
+Instructors for STAT 218 were recruited for Summer 2023 and Fall 2023 to administer the graphics project into their classroom.
+The instructors were given the option of administering the project as coursework material or extra credit, along with the liberty of grading at their own discretion.
+While all students were given the option to participate in the graphics project, we were only able to collect responses when the informed consent was obtained and if the student was 19 years of age.
+
+
+
+
+## Graphics Experiment
+
+
+
+We took inspiration from Cleveland and McGill's seminal work [-@cleveland1984] on graphical perception to design our graphics study.
+Participants were presented with a series of bar graphs where two bars are marked with either a circle or triangle. 
+The heights of the bars were chosen from the following equation:
+
+$$s_i=10\cdot 10^{(i-1)/12}, \qquad i=1,...,10$$ {#eq-vals}
+
+Values from @eq-vals were then paired such that the ratio of the smaller value to the larger value yield the ratios of 17.8, 26.1, 38.3, 46.4, 56.2, 68.1, and 82.5. 
+Each bar graph has two groupings of five bars. 
+The value pairs for each ratio were either placed in the first grouping on the second and third bars (adjacent), or placed on the second bars in each grouping (separated).
+This follows the Type 1 and Type 3 graphs from Cleveland and McGill's position-length experiment, respectively.
+
+Deviating from Cleveland and McGill, we introduced four plot types: 2D digital, 3D digital (static), 3D digital (interactive), and 3D printed. 
+There was no single software package that could create all four plot types, so we carefully constructed graphs from different software packages to be as similar as possible.
+The 2D digital plots were rendered with the `ggplot2` package [@ggplot2]. 
+Microsoft Excel was used to render the 3D digital (static) plots [@msexcel]. 
+The 3D digital (interactive) and 3D printed plots were created with OpenSCAD [@kintelOpenSCADDocumentation2023], where the generated STL files for the 3D digital (interactive) plots were rendered with the `rgl` package [@rgl].
+
+With 56 treatment combinations, we opted to use an incomplete block design to provide participants with 15-20 graphs.
+Kits of graphs were constructed so that five of the seven ratios are equally represented, resulting in 21 different kits. 
+Within each kit, all graph types appeared for each ratio and the comparison type was randomly assigned. 
+A visual layout of the experiment is shown in Figure 1.
+All kits received a unique identifier and a set of instructions for accessing the experiment.
+
+A Shiny application [@shiny] was designed to administer the experiment.
+Students were directed to randomly select a kit of graphs and visit the Shiny application's url linked on the instructions.
+For students enrolled in the online sections of STAT 218, the url was provided by the instructor and they were prompted in the application to select that they were an online participant.
+After students provided a kit identifier (if applicable), students were presented graphs in a randomized order.
+If the student marked that they were an online participant, the 3D printed graphs were removed from their experiment lineup.
+Each graph asked the students to first identify the larger marked bar and then to guess the height of the smaller marked bar if the larger marked bar was 100 units tall using a slider widget.
+After completing the experiment, students were provided with a code to copy and paste into the experiment participation module.
+
+
+## Data Analysis
+
+Since nearly all of the student responses to the project modules are open-ended, the analysis of the project is qualitative in nature. 
+We will extract selected responses that we feel highlight common themes among the students or other points of interest.
+For paragraph responses, bigrams are used to illustrate word pairs after removing stop words (e.g., "the" and "and"). 
+This will help in establishing common themes that appear in student responses.
+We opt to reserve the results of the graphics experiment for another paper so that we can clearly differentiate between our findings in graphics project and the experiment's role in a classroom environment.
+
+
+# Results
+
+```{r}
+#| label: data
+#| warning: false
+#| echo: false
+#| include: false
+#| message: false
+
+# Options
+knitr::opts_chunk$set(echo = F, warning = F, message = F)
+
+# Read data
+library(tidyverse)
+res <- read_csv('responsesAGRO.csv')
+```
+
+
+<!--A.  Given the nature of the recruitment method, we were only able to recruit a few instructors for Summer and Fall semesters in 2023.
+    -   Table 2: Number of valid student participants by semester.
+-->
+
+```{r}
+#| label: student-missing-responses
+
+student.missing.res1 <- res %>% 
+  mutate(across(all_of(1:ncol(res)), as.character)) %>% 
+  filter(instructor == 1) %>% 
+  janitor::remove_empty(which = 'cols') %>% 
+  pivot_longer(6:12, names_to = "question", values_to = "response") %>% 
+  group_by(instructor, id) %>% 
+  summarise(tot.missing = sum(is.na(response)),
+            prop.missing = mean(is.na(response))) %>% 
+  filter(tot.missing > 0)
+
+student.missing.res23 <- res %>% 
+  mutate(across(all_of(1:ncol(res)), as.character)) %>% 
+  filter(instructor != 1) %>% 
+  # janitor::remove_empty(which = 'cols') %>% 
+  pivot_longer(6:17, names_to = "question", values_to = "response") %>% 
+  group_by(instructor, id) %>% 
+  summarise(tot.missing = sum(is.na(response)),
+            prop.missing = mean(is.na(response))) %>% 
+  filter(tot.missing > 0)
+
+
+student.missing.res <- bind_rows(student.missing.res1, student.missing.res23)
+
+```
+
+
+```{r}
+#| label: questions-missing-responses
+
+question.missing.res1 <- res %>% 
+  mutate(across(all_of(1:ncol(res)), as.character)) %>% 
+  filter(instructor == 1) %>% 
+  janitor::remove_empty(which = 'cols') %>% 
+  pivot_longer(6:12, names_to = "question", values_to = "response")
+
+question.missing.res23 <- res %>% 
+  mutate(across(all_of(1:ncol(res)), as.character)) %>% 
+  filter(instructor != 1) %>% 
+  # janitor::remove_empty(which = 'cols') %>% 
+  pivot_longer(6:17, names_to = "question", values_to = "response")
+
+question.missing <- bind_rows(question.missing.res1, question.missing.res23) %>% 
+  group_by(question) %>% 
+  summarise(tot.missing = sum(is.na(response)),
+            prop.missing = mean(is.na(response))) %>% 
+  arrange(desc(tot.missing))
+```
+
+
+Given the nature of the recruitment method, we were only able to recruit `r length(unique(res$instructor))` instructors for summer and fall semesters in 2023. 
+Each instructor offered the project as extra credit and student participation was entirely voluntary. 
+A total of `r nrow(res)` students participated in the project; a summary of student participation is presented in Table 1. 
+There were `r nrow(student.missing.res)` students who did not complete the project in its entirety.
+
+
+
+
+## Selected Responses from Reflections
+
+Prior to the experiment, students generally understood the purpose scientific research by connecting the ideas of hypothesis testing and publishing results. Students wrote about scientific research starting from the place of a question, followed by conducting an experiment and relaying the results to the public. A bigram plot from the Pre-Experiment Reflection is shown in Figure 3, which highlights the recurring trends and patterns in the student paragraph responses.
+
+
+Some students correctly identified parts of the questions asked in the post-experiment reflection, but many missed key components.
+
+**What do you think the purpose of the experiment was?**
+
+- "They could be trying to determine how different genders, ages, etc. perceive the sizes of the bars in the graph. Demographics could make a pretty significant difference."
+
+- "I think the purpose of this experiment was for the researcher to gather data on how people perceive, interpret, and understand 3D graphs."
+
+- "I think this experiment aimed to test if it was easier to compare two graphs in 2D or 3D."
+
+- "To gage students skills at estimating relative size ratios."
+
+
+
+**What hypotheses might the experimenters have been testing?**
+
+- "Do students change their answers when asked the same question over and over?"
+
+- "How taking Statistics 218 effects how you can compare two groups."
+
+- "That 2d is preferred over 3d. It cleans up the data presentation."
+
+- "They might have been testing if a 2D model is easier to estimate its relative size to another when compared to a 3D model of it."
+
+**What sources of error are involved in this experiment?**
+
+- "Misunderstanding of task, technical issues"
+
+- "If people are just randomly picking answers."
+
+- "Fatigue effect over the course of making many judgements, learning patterns from seeing the same ratios multiple times, possibly difference in eyesight among participants."
+
+- "As far as I know, there wasn't much random sampling involved or there may be some bias of sorts. The results may apply for students in STATS 218 here at UNL, but maybe not for other students taking a similar statistics class elsewhere."
+
+**What elements of experimental design, such as randomization or the use of a control group, do you think were present in the experiment? Why?**
+
+- "random students in the stats class"
+
+- "Randomization: The survey used an experimental design where in the survey there were different sets of 3D charts and maybe by a randomization process each participant was shown a different set of charts to see the differences in interpretations of the charts based on which set was assigned. Control Group: Since this survey aimed to only understand how participants interpret 3D charts without comparison to other chart types, then no control group was needed."
+
+- "Randomization was not used because it was offered as an extra credit assignment in class."
+
+- "Randomization was used because the ever person got a different graph."
+
+
+The abstract unveiled the scope of the study to students, many of whom did not realize the underlying complexities. 
+Nearly all students responded with statements about gaining clarity about the purpose the experiment and its role in testing the differences between 2D and 3D graphs. 
+A bigram plot of the student responses to the abstract reflection prompt is shown in Figure 4.
+
+
+Lastly, more than half of the students (`r round(51/65,3)*100`%) responded that they preferred the presentation over the extended abstract. 
+
+- "I am a visual learner so I would have rather heard about in through the presentation. It also broke down the steps which is easier for me to understand. I think the presentation as a whole would be better for determining how the experiment is designed."
+
+- "I would prefer the presentation because it gives the audience more information about the experiment rather than the extended abstract. The presentation goes over the results of the experiment and explains what they mean using graphs and other visuals.[...]"
+
+- "Personally I like the abstract better. If I get confused on something it is so much easier to go back and reread to understand what is going on. If I ask myself questions about it, it is much easier to go back and find answers to the questions as well."
+
+
+# Discussion
+
+Our goal was to provide students of an introductory statistics course the opportunity to reflect on active research. Students generally appreciated the progressively revealing nature of the graphics project, which is evident from the abstract and presentation reflections. When provided with the post-experiment reflections, students often either missed the research objective of the experiment or had partially correct responses. The abstract reflection received many responses indicating that students had moments of realization about the true nature of our research goals, which was further expanded in the presentation reflection prompts.
+The reflections indicated that students were thoughtful, and sometimes amusing, with their responses and that they were on the path of statistical thinking.
+
+A limitation of this study is the use of open-ended responses that do not assess student learning. While the student responses were useful in gathering insight, the responses are widely varied and do not have direct comparisons of statistical thinking throughout the modules. Another limiting factor is tiered layering of convenience sampling, with instructors being recruited first before recruiting students. This makes it impossible to generalize our results to statistics students, let alone the students at University of Nebraska-Lincoln. 
+
+In future studies, we plan to use a similar framework to conduct experiments on more typical 3-dimensional data, such as heatmaps. 
+The use of graphical experiments in the classroom not only provides a readily available convenience sample, but also adheres to the recommendations of the Guidelines for Assessment and Instruction in Statistics Education (GAISE) College Report [@carver]. 
+With the framework we provided in this paper, we aim to make adjustments to further improve the graphics experiment and corresponding project as an experiential learning opportunity.
+
+
+# References
+
+Link to journal citation style: [here](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=ujse21#refs)
+
+::: {#refs}
+:::
+
+
+
+# Figures
+
+Figure 1: Visual display of the experimental design for students who participated in the 3D bar charts experiment. Kits of graphs were created by first choosing five ratios from nine available options (1). Each ratio then uses all graph types, with the exception of the 3D printed graphs for online students (2). Finally, all graphs were randomly assigned to have the marked bars as adjacent or separated (3).
+
+Figure 2: Bigram of student responses to the pre-experiment prompt. Each line represents pairs of words that appeared together where each pair occurred at least twice. Students generally understood that science is about investigating research questions and collecting data.
+
+Figure 3: Bigram of student responses to the abstract reflection prompt. Each line represents pairs of words that appeared together where each pair occurred at least twice. Students generally understood that science is about investigating research questions and collecting data.
+
+# Tables

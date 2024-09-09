@@ -1,0 +1,91 @@
+---
+format: 
+  pdf:
+    fontsize: "12"
+    linestretch: "1.25"
+    link-citations: true
+editor: visual
+bibliography: references.bib
+---
+
+```{=tex}
+\begin{center}
+  Tyler Wiederich
+  
+  AGRO 803
+  
+  2/21/2024
+\end{center}
+```
+
+
+# Introduction
+
+A.  Introductory statistics courses typically consist of elementary methods and textbook examples of their application. [@carver] [@Tintle2021]
+
+B.  One shortfall of such courses, albeit not unheard of, is that students seldom have the opportunity to participate in a statistical experiment. [@mcgowan2011] [@ashaari2011]
+
+C.  Graphical displays of data are an important aspect of statistics and have well-established guidelines. [@cleveland1984] [@heer2010] [@loy2021a]
+
+D.  However, the current state of 3D visualizations is mainly limited to their 2D projections, providing an opportunity for experiential learning in a novel area of true 3D graphics. [@kraus2020] [@fisher1997] [@barfield1989]
+
+E.  In this paper, we discuss the use of a graphical study in an introductory statistics classroom environment and its application as an educational tool.
+
+# Methods
+
+## Designing a Graphics Experiment
+
+A.  We draw inspiration from Cleveland and McGill's seminal work on graphical perception to design our graphics study. [@cleveland1984]
+
+B.  Our modernization of the 1984 study led us to create a Shiny app to collect data and administer the digital graphs. [@shiny]
+
+    -   Figure 1: Screenshot from the Shiny app used to administer the experiment.
+
+C.  Due to limitations in modern software packages, multiple sources were required to create each graph type. [@msexcel] [@rgl] [@ggplot2]
+
+D.  With 42 treatment combinations, we opted to use an incomplete block design to select five of the seven possible ratios and use each plot type for each ratio.
+
+    -   Figure 2: Visual display of the experimental design for students who participated in the 3D bar charts experiment.
+
+E.  When administering the experiment, participants are asked to randomly select a bag containing the 3D printed graphs.
+
+## Experiential Learning
+
+A.  Our experiment and classroom integration were split into six stages: informed consent, pre-experiment reflection, experiment participation, post-experiment reflection, abstract reflection, and presentation reflection.
+
+    -   Table 1: List of questions for each module that students completed.
+
+B.  Instructors for STAT 218, the introductory statistics course at University of Nebraska-Lincoln, were recruited for Summer 2023, Fall 2023, and Spring 2024 to administer the graphics project into their classroom.
+
+# Results
+
+## Student Participation
+
+A.  Given the nature of the recruitment method, we were only able to recruit a few instructors for Summer and Fall semesters in 2023.
+    -   Table 2: Number of valid student participants by semester.
+
+## Selected Responses from Reflections
+
+A.  Prior to the experiment, students generally understood the purpose scientific research.
+
+    -   Figure 3: Word cloud for student responses to the pre-experiment prompt.
+
+B.  Some students correctly identified parts of the questions asked in the post-experiment reflection, but many missed key components.
+
+C.  The abstract unveiled the scope of the study to students, many of whom did not realize the underlying complexities.
+
+D.  Lastly, students tended to favor the presentation over the abstract.
+
+# Discussion
+
+A.  Our results show that students generally appreciated the progressively revealing nature of the graphics project.
+
+B.  We acknowledge that our study is not without its limitations.
+
+    <!-- Limited instructors for Summer and Fall, extra credit, etc.  -->
+
+C.  In future studies, we plan to use a similar framework to conduct experiments on more typical 3-dimensional data, such as heatmaps.
+
+# References
+
+Link to journal citation style: [here](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=ujse21#refs)

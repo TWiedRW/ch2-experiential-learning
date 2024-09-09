@@ -1,0 +1,28 @@
+---
+format: 
+  pdf:
+    linestretch: 2
+    link-citations: true
+bibliography: references.bib
+---
+
+```{=tex}
+\begin{center}
+Tyler Wiederich
+
+AGRO 803
+
+April 8th, 2024
+
+\end{center}
+```
+
+# Title: Experiential learning with 3D data visualizations in an introductory statistics course
+
+# Abstract
+
+A key component of statistics courses is to teach students how to interpret data visualizations.
+Although many research-based recommendations exist for creating graphs, the technological advances for creating such graphs have outpaced studies that evaluate their effectiveness to the status quo, especially with 3D graphs.
+Here, we describe a process of integrating an experiment on 3D graphs as a project for students enrolled in an introductory statistics course and gather responses as students reflect on their positions as both experiment participants and reviewers of empirical evidence.
+A total of 82 students participated in our graphics project and displayed a pattern of not fully grasping research objectives as experiment participants; as students reviewed material from our pilot study of the same design, they tended to gain a clearer understanding about the purpose of the experiment and its role in the realm of data visualizations.
+The project we presented to students shows promise as an educational tool for helping students gain a more holistic view of statistical research.

@@ -1,0 +1,46 @@
+---
+format: 
+  pdf:
+    linestretch: 2
+    link-citations: true
+bibliography: references.bib
+---
+
+```{=html}
+<!---
+
+A.  Our results show that students generally appreciated the progressively revealing nature of the graphics project.
+
+B.  We acknowledge that our study is not without its limitations.
+
+C.  In future studies, we plan to use a similar framework to conduct experiments on more typical 3-dimensional data, such as heatmaps.
+
+--->
+```
+
+\begin{center}
+  Tyler Wiederich
+  
+  AGRO 803
+  
+  April 1, 2024
+\end{center}
+
+# Discussion
+
+Our goal was to provide students of an introductory statistics course the opportunity to reflect on active research. Students generally appreciated the progressively revealing nature of the graphics project, which is evident from the abstract and presentation reflections. When provided with the post-experiment reflections, students often either missed the research objective of the experiment or had partially correct responses. The abstract reflection received many responses indicating that students had moments of realization about the true nature of our research goals, which was further expanded in the presentation reflection prompts.
+The reflections indicated that students were thoughtful, and sometimes amusing, with their responses and that they were on the path of statistical thinking.
+
+A limitation of this study is the use of open-ended responses that do not assess student learning. While the student responses were useful in gathering insight, the responses are widely varied and do not have direct comparisons of statistical thinking throughout the modules. Another limiting factor is tiered layering of convenience sampling, with instructors being recruited first before recruiting students. This makes it impossible to generalize our results to statistics students, let alone the students at University of Nebraska-Lincoln. 
+
+In future studies, we plan to use a similar framework to conduct experiments on more typical 3-dimensional data, such as heatmaps. 
+The use of graphical experiments in the classroom not only provides a readily available convenience sample, but also adheres to the recommendations of the Guidelines for Assessment and Instruction in Statistics Education (GAISE) College Report [@carver]. 
+With the framework we provided in this paper, we aim to make adjustments to further improve the graphics experiment and corresponding project as an experiential learning opportunity.
+
+
+# References
+
+Link to journal citation style: [here](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=ujse21#refs)
+
+::: {#refs}
+:::

@@ -1,0 +1,227 @@
+---
+format: 
+  pdf:
+    linestretch: 2
+    link-citations: true
+bibliography: references.bib
+---
+
+```{=tex}
+\begin{center}
+Tyler Wiederich
+
+AGRO 803
+
+March 18th, 2024
+
+\end{center}
+```
+
+
+<!--
+
+
+Methods
+Designing thea Graphics Experiment
+A.	We draw inspiration from Cleveland and McGill’s seminal work on graphical perception to design our graphics study. (Cleveland and McGill 1984).
+B.	We used a Our modernization of the 1984 study led us to create a Shiny app to collect data and administer the digital graphs for the modern version of the 1984 study . (Chang et al. 2023).
+•	Figure 1: Screenshot from the Shiny app used to administer the experiment.
+C.	Due to (what type of?) limitations in modern software packages, multiple sources were required to create each graph type of graph. (Microsoft Corporation 2018) (Murdoch and Adler 2023) (Wickham 2016)
+D.	With 42 treatment combinations, we opted to use an incomplete block design to select five of the seven possible ratios and use each plot graph type for each ratio.
+•	Figure 2: Visual display of the experimental design for students who participated in the 3D bar charts experiment.
+E.	When administering the experiment, participants are asked to randomly select a bag containing the 3D printed graphs.
+
+
+Experiential Learning
+A.	Our experiment and classroom integration were split into six stages: informed consent, pre-experiment reflection, experiment participation, post-experiment reflection, abstract reflection, and presentation reflection.
+1.	• Table 1: List of questions for each module that students completed.
+B.	Instructors for STAT 218, the introductory statistics course at University of NebraskaLincoln, were recruited for Summer 2023, Fall 2023, and Spring 2024 to administer the graphics project into their classroom.
+B.	Critical to address: the entire data analysis section is missing
+
+
+-->
+
+
+# Methods
+
+We introduced students enrolled in STAT 218, the introductory statistics course at University of Nebraska-Lincoln, to a graphics project that contained an experiment and progressively revealing components that illustrate the experiment's research objectives. 
+The project started by providing students with minimal information about the research objectives before revealing the scope of the experiment through an extended abstract and presentation.
+The goal of the graphics project is to observe how students think statistically about experiments from the viewpoint of participants and researchers.
+
+
+## Experiential Learning
+
+The classroom integration of the graphics experiment project was split into two stages: research participation and reflection of the overall research objectives.
+In the research participation stage, students participated in the experiment with the understanding that the experiment is testing for how people perceive statistical graphics. 
+Students were not informed of the specific research hypotheses when participating in the experiment.
+After participating in the experiment, students were provided materials that cover the research objectives and reflected on their new understanding of the experiment's purpose.
+
+<!---
+informed consent, pre-experiment reflection, experiment participation, post-experiment reflection, abstract reflection, and presentation reflection. 
+--->
+
+
+Within the research participation stage, students completed four modules: informed consent, pre-experiment reflection, experiment participation, and post-experiment reflection.
+The informed consent asked students if they consent to their responses being shared with the researchers and if they are 19 years of age or older. 
+Within the informed consent module, students were informed that their data would be anonymized and that the experiment was carried out in accordance to the institutional review board (Project ID: 22579).
+In the pre-experiment reflection, students were asked to write a paragraph about how they think the process of scientific investigation looks from the perspective of researchers and the general public.
+The experiment participation module asked students to paste the code generated from the experiment, which is detailed in the next section.
+For the post-experiment reflection, students were asked five questions about the purpose of the experiment. These include questions on the hypotheses being tested, sources of error, variables of interest, and elements of experimental design.
+
+After completing the experiment reflections, students moved to the reflection of the overall research objectives.
+Students were first directed to read a two-page extended abstract that we submitted as a contributed paper for the Symposium on Data Science & Statistics (SDSS) conference in 2023.
+The extended abstract outlined the experiment's purpose and procedures, but not the results from our initial pilot study.
+After reading the extended abstract, students were asked to write a paragraph about what they found clearer about the experiment's purpose than when they were a participant.
+Finally, students were directed to watch a 12-minute pre-recorded presentation based on an abbreviated version given at SDSS.
+The video contains the same material as the extended abstract and included the results from our pilot study.
+The presentation reflection asked students four questions about the experiment and how information was presented differently than in the extended abstract.
+
+Except for the informed consent and experiment participation modules, all student responses were open-ended. 
+Each question and its corresponding module can be found in Table 1.
+
+Instructors for STAT 218 were recruited for Summer 2023 and Fall 2023 to administer the graphics project into their classroom.
+The instructors were given the option of administering the project as coursework material or extra credit, along with the liberty of grading at their own discretion.
+While all students were given the option to participate in the graphics project, we were only able to collect responses when the informed consent was obtained and if the student was 19 years of age.
+
+
+
+
+## Graphics Experiment
+
+<!---
+A.	We draw inspiration from Cleveland and McGill’s seminal work on graphical perception to design our graphics study. (Cleveland and McGill 1984).
+B.	We used a Our modernization of the 1984 study led us to create a Shiny app to collect data and administer the digital graphs for the modern version of the 1984 study . (Chang et al. 2023).
+•	Figure 1: Screenshot from the Shiny app used to administer the experiment.
+C.	Due to (what type of?) limitations in modern software packages, multiple sources were required to create each graph type of graph. (Microsoft Corporation 2018) (Murdoch and Adler 2023) (Wickham 2016)
+D.	With 42 treatment combinations, we opted to use an incomplete block design to select five of the seven possible ratios and use each plot graph type for each ratio.
+•	Figure 2: Visual display of the experimental design for students who participated in the 3D bar charts experiment.
+E.	When administering the experiment, participants are asked to randomly select a bag containing the 3D printed graphs.
+--->
+
+
+We took inspiration from Cleveland and McGill's seminal work [-@cleveland1984] on graphical perception to design our graphics study.
+Participants were presented with a series of bar graphs where two bars are marked with either a circle or triangle. 
+The heights of the bars were chosen from the following equation:
+
+$$s_i=10\cdot 10^{(i-1)/12}, \qquad i=1,...,10$$ {#eq-vals}
+
+Values from @eq-vals were then paired such that the ratio of the smaller value to the larger value yield the ratios of 17.8, 26.1, 38.3, 46.4, 56.2, 68.1, and 82.5. 
+Each bar graph has two groupings of five bars. 
+The value pairs for each ratio were either placed in the first grouping on the second and third bars (adjacent), or placed on the second bars in each grouping (separated).
+This follows the Type 1 and Type 3 graphs from Cleveland and McGill's position-length experiment, respectively.
+
+Deviating from Cleveland and McGill, we introduced four plot types: 2D digital, 3D digital (static), 3D digital (interactive), and 3D printed. 
+There was no single software package that could create all four plot types, so we carefully constructed graphs from different software packages to be as similar as possible.
+The 2D digital plots were rendered with the `ggplot2` package [@ggplot2]. 
+Microsoft Excel was used to render the 3D digital (static) plots [@msexcel]. 
+The 3D digital (interactive) and 3D printed plots were created with OpenSCAD [@kintelOpenSCADDocumentation2023], where the generated STL files for the 3D digital (interactive) plots were rendered with the `rgl` package [@rgl].
+
+With 56 treatment combinations, we opted to use an incomplete block design to provide participants with 15-20 graphs.
+Kits of graphs were constructed so that five of the seven ratios are equally represented, resulting in 21 different kits. 
+Within each kit, all graph types appeared for each ratio and the comparison type was randomly assigned. 
+A visual layout of the experiment is shown in Figure 1.
+All kits received a unique identifier and a set of instructions for accessing the experiment.
+
+A Shiny application [@shiny] was designed to administer the experiment.
+Students were directed to randomly select a kit of graphs and visit the Shiny application's url linked on the instructions.
+For students enrolled in the online sections of STAT 218, the url was provided by the instructor and they were prompted in the application to select that they were an online participant.
+After students provided a kit identifier (if applicable), students were presented graphs in a randomized order.
+If the student marked that they were an online participant, the 3D printed graphs were removed from their experiment lineup.
+Each graph asked the students to first identify the larger marked bar and then to guess the height of the smaller marked bar if the larger marked bar was 100 units tall using a slider widget.
+After completing the experiment, students were provided with a code to copy and paste into the experiment participation module.
+
+
+## Data Analysis
+
+Since nearly all of the student responses to the project modules are open-ended, the analysis of the project is qualitative in nature. 
+We will extract selected responses that we feel highlight common themes among the students or other points of interest.
+For paragraph responses, bigrams are used to illustrate word pairs after removing stop words (e.g., "the" and "and"). 
+This will help in establishing common themes that appear in student responses.
+We opt to reserve the results of the graphics experiment for another paper so that we can clearly differentiate between our findings in graphics project and the experiment's role in a classroom environment.
+
+
+
+
+
+# References
+
+Link to journal citation style: [here](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=ujse21#refs)
+
+::: {#refs}
+:::
+
+
+\newpage
+
+# Figure Legends
+
+Figure 1: Visual display of the experimental design for students who participated in the 3D bar charts experiment. Kits of graphs were created by first choosing five ratios from nine available options (1). Each ratio then uses all graph types, with the exception of the 3D printed graphs for online students (2). Finally, all graphs were randomly assigned to have the marked bars as adjacent or separated (3).
+
+\newpage
+
+# Figure Tables
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(knitr)
+library(kableExtra)
+library(tidyverse)
+df <- read.csv('responsesAGRO.csv')
+
+question.tbl <- tribble(
+  ~Reflection, ~Question, ~Prompt,
+  # 'Informed Consent', 'Q1', 'My instructor may share my reflection responses with the researchers in this study',
+  # 'Informed Consent','Q2', 'As of today, I am at least 19 years of age',
+  'Pre-Experiment','Q3', "In this class, you'll be learning about the process of scientific investigation. What do you think that process looks like, from the perspective of a researcher, compared to what it looks like from the perspective of someone in the general public who is a consumer of scientific results? Write a paragraph (at least 3-5 sentences) about how you think science happens. ",
+  # 'Experiment Participation','Q4', 'Paste the response code you received after participating in the graphics experiment here',
+  'Post-Experiment','Q5', 'What do you think the purpose of the experiment was?',
+  'Post-Experiment','Q6', 'What hypotheses might the experimenter have been testing?',
+  'Post-Experiment','Q7', 'What sources of error are involved in this experiment?',
+  'Post-Experiment','Q8', 'What variables were examined? For each variable, identify whether it was quantitative or categorical.',
+  'Post-Experiment','Q9', 'What elements of experimental design, such as randomization or the use of a control group, do you think were present in the experiment? Why?',
+  'Abstract','Q10', 'What components of the experiment are clearer now than they were as a participant? What questions do you still have for the experimenter? Write 3-5 sentences reflecting on the abstract.',
+  'Presentation','Q11', 'How did the information you gained from the components of this project (participation, post-study reflection, extended abstract, presentation) differ?',
+  'Presentation','Q12', "What components were emphasized in the presentation that weren't emphasized in the abstract? Why do you think that is?",
+  'Presentation','Q13', 'What critiques do you have of this study and its design? What would have made the study better?',
+  'Presentation','Q14', 'If you had to hear about this study using only the extended abstract or only the presentation, which one would you prefer? Which one would be better for determining whether the experiment was well designed?'
+)
+# question.tbl
+
+
+# question.tbl %>%
+#   kable() %>%
+#   kable_styling(full_width = F, font_size = 10) %>% 
+#   collapse_rows(valign = 'middle') %>%
+#   column_spec(1, '10em') %>%
+#   column_spec(2, '5em') %>%
+#   column_spec(3, "20em")
+  
+# question.tbl %>%
+#   kbl(booktabs = T) %>%
+#   kable_styling(full_width = T, font_size = 10) %>%
+#   collapse_rows() %>%
+#   column_spec(1, bold = T, width = '10em') %>%
+#   column_spec(3, width = '25em')
+
+
+footnote.questions <- 'For the abstract reflection, students read a two-page extended abstract that the researchers submitted to Symposium on Data Science and Statistics (SDSS) before answering the prompt. For the presentatiun reflection, students watched a 12-minute pre-recorded video based on a modified version of the presentation given at SDSS.'
+
+question.tbl %>%
+  # select(-Module) %>%
+  kable(booktabs = T, caption = "Questions provided to students in each project module.") %>%
+  # add_footnote('For the abstract reflection, students read a two-page extended abstract that the researchers submitted to Symposium on Data Science and Statistics (SDSS) before answering the prompt. For the presentatiun reflection, students watched a 12-minute pre-recorded video based on a modified version of the presentation given at SDSS.', notation = 'none', threeparttable = T) %>%
+  kable_styling(full_width = T, font_size = 10) %>%
+  collapse_rows(valign = 'middle') %>%
+  # pack_rows("Pre-Experiment Reflection", 1, 1) %>%
+  # pack_rows("Post-Experiment Reflection", 2, 6) %>%
+  # pack_rows("Abstract Reflection", 7, 7) %>%
+  # pack_rows("Presentation Reflection", 8, 11) %>%
+  column_spec(1, '9em') %>% 
+  column_spec(2, '6em') %>% 
+  column_spec(3, '25em')
+  
+# papaja::apa_table(question.tbl)
+
+```

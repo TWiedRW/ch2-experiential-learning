@@ -1,0 +1,195 @@
+---
+format: 
+  pdf:
+    linestretch: 2
+    link-citations: true
+bibliography: references.bib
+---
+
+```{=tex}
+\begin{center}
+Tyler Wiederich
+
+AGRO 803
+
+March 18th, 2024
+
+\end{center}
+```
+
+# Results
+
+```{r}
+#| label: data
+#| warning: false
+#| echo: false
+#| include: false
+#| message: false
+
+# Options
+knitr::opts_chunk$set(echo = F, warning = F, message = F)
+
+# Read data
+library(tidyverse)
+res <- read_csv('responsesAGRO.csv')
+```
+
+
+<!--A.  Given the nature of the recruitment method, we were only able to recruit a few instructors for Summer and Fall semesters in 2023.
+    -   Table 2: Number of valid student participants by semester.
+-->
+
+```{r}
+#| label: student-missing-responses
+
+student.missing.res1 <- res %>% 
+  mutate(across(all_of(1:ncol(res)), as.character)) %>% 
+  filter(instructor == 1) %>% 
+  janitor::remove_empty(which = 'cols') %>% 
+  pivot_longer(6:12, names_to = "question", values_to = "response") %>% 
+  group_by(instructor, id) %>% 
+  summarise(tot.missing = sum(is.na(response)),
+            prop.missing = mean(is.na(response))) %>% 
+  filter(tot.missing > 0)
+
+student.missing.res23 <- res %>% 
+  mutate(across(all_of(1:ncol(res)), as.character)) %>% 
+  filter(instructor != 1) %>% 
+  # janitor::remove_empty(which = 'cols') %>% 
+  pivot_longer(6:17, names_to = "question", values_to = "response") %>% 
+  group_by(instructor, id) %>% 
+  summarise(tot.missing = sum(is.na(response)),
+            prop.missing = mean(is.na(response))) %>% 
+  filter(tot.missing > 0)
+
+
+student.missing.res <- bind_rows(student.missing.res1, student.missing.res23)
+
+```
+
+
+```{r}
+#| label: questions-missing-responses
+
+question.missing.res1 <- res %>% 
+  mutate(across(all_of(1:ncol(res)), as.character)) %>% 
+  filter(instructor == 1) %>% 
+  janitor::remove_empty(which = 'cols') %>% 
+  pivot_longer(6:12, names_to = "question", values_to = "response")
+
+question.missing.res23 <- res %>% 
+  mutate(across(all_of(1:ncol(res)), as.character)) %>% 
+  filter(instructor != 1) %>% 
+  # janitor::remove_empty(which = 'cols') %>% 
+  pivot_longer(6:17, names_to = "question", values_to = "response")
+
+question.missing <- bind_rows(question.missing.res1, question.missing.res23) %>% 
+  group_by(question) %>% 
+  summarise(tot.missing = sum(is.na(response)),
+            prop.missing = mean(is.na(response))) %>% 
+  arrange(desc(tot.missing))
+```
+
+
+Given the nature of the recruitment method, we were only able to recruit `r length(unique(res$instructor))` instructors for summer and fall semesters in 2023. 
+Each instructor offered the project as extra credit and student participation was entirely voluntary. 
+A total of `r nrow(res)` students participated in the project; a summary of student participation is presented in Table 1. 
+There were `r nrow(student.missing.res)` students who did not complete the project in its entirety.
+
+
+
+
+## Selected Responses from Reflections
+
+Prior to the experiment, students generally understood the purpose scientific research by connecting the ideas of hypothesis testing and publishing results. Students wrote about scientific research starting from the place of a question, followed by conducting an experiment and relaying the results to the public. A bigram plot from the Pre-Experiment Reflection is shown in Figure 3, which highlights the recurring trends and patterns in the student paragraph responses.
+
+
+Some students correctly identified parts of the questions asked in the post-experiment reflection, but many missed key components.
+
+**What do you think the purpose of the experiment was?**
+
+- "They could be trying to determine how different genders, ages, etc. perceive the sizes of the bars in the graph. Demographics could make a pretty significant difference."
+
+- "I think the purpose of this experiment was for the researcher to gather data on how people perceive, interpret, and understand 3D graphs."
+
+- "I think this experiment aimed to test if it was easier to compare two graphs in 2D or 3D."
+
+- "To gage students skills at estimating relative size ratios."
+
+
+
+**What hypotheses might the experimenters have been testing?**
+
+- "Do students change their answers when asked the same question over and over?"
+
+- "How taking Statistics 218 effects how you can compare two groups."
+
+- "That 2d is preferred over 3d. It cleans up the data presentation."
+
+- "They might have been testing if a 2D model is easier to estimate its relative size to another when compared to a 3D model of it."
+
+**What sources of error are involved in this experiment?**
+
+- "Misunderstanding of task, technical issues"
+
+- "If people are just randomly picking answers."
+
+- "Fatigue effect over the course of making many judgements, learning patterns from seeing the same ratios multiple times, possibly difference in eyesight among participants."
+
+- "As far as I know, there wasn't much random sampling involved or there may be some bias of sorts. The results may apply for students in STATS 218 here at UNL, but maybe not for other students taking a similar statistics class elsewhere."
+
+**What elements of experimental design, such as randomization or the use of a control group, do you think were present in the experiment? Why?**
+
+- "random students in the stats class"
+
+- "Randomization: The survey used an experimental design where in the survey there were different sets of 3D charts and maybe by a randomization process each participant was shown a different set of charts to see the differences in interpretations of the charts based on which set was assigned. Control Group: Since this survey aimed to only understand how participants interpret 3D charts without comparison to other chart types, then no control group was needed."
+
+- "Randomization was not used because it was offered as an extra credit assignment in class."
+
+- "Randomization was used because the ever person got a different graph."
+
+
+The abstract unveiled the scope of the study to students, many of whom did not realize the underlying complexities. 
+Nearly all students responded with statements about gaining clarity about the purpose the experiment and its role in testing the differences between 2D and 3D graphs. 
+A bigram plot of the student responses to the abstract reflection prompt is shown in Figure 4.
+
+
+Lastly, more than half of the students (`r round(51/65,3)*100`%) responded that they preferred the presentation over the extended abstract. 
+
+- "I am a visual learner so I would have rather heard about in through the presentation. It also broke down the steps which is easier for me to understand. I think the presentation as a whole would be better for determining how the experiment is designed."
+
+- "I would prefer the presentation because it gives the audience more information about the experiment rather than the extended abstract. The presentation goes over the results of the experiment and explains what they mean using graphs and other visuals.[...]"
+
+- "Personally I like the abstract better. If I get confused on something it is so much easier to go back and reread to understand what is going on. If I ask myself questions about it, it is much easier to go back and find answers to the questions as well."
+
+
+\newpage
+
+# Figure legends
+
+Figure 3: Bigram of student responses to the pre-experiment prompt. Each line represents pairs of words that appeared together where each pair occurred at least twice. Students generally understood that science is about investigating research questions and collecting data.
+
+Figure 4: Bigram of student responses to the abstract reflection prompt. Each line represents pairs of words that appeared together where each pair occurred at least twice. Students generally understood that science is about investigating research questions and collecting data.
+
+\newpage
+
+# Tables
+
+```{r}
+library(knitr)
+library(kableExtra)
+library(tidyverse)
+
+num.students <- tribble(
+  ~Semester, ~`Number of Sections`, ~`Number of Students`,
+  "Summer 2023 (May-June)", 1, 17,
+  "Summer 2023 (July-Aug)", 1, 23,
+  "Fall 2023 (May-June)", 1, 42
+)
+num.students %>% 
+  kbl(booktabs = T, caption = 'Number of valid student participants by semester.') %>% 
+  kable_styling(latex_options = 'HOLD_position') %>% 
+  add_footnote('Students under 19 years of age or did not consent were exluded from data collection. To comply with IRB, no demographic information was collected in order to keep students anonymous.', notation = 'none',
+               threeparttable = T)
+```
+

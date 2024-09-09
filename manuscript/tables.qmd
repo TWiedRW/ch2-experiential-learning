@@ -1,0 +1,112 @@
+---
+format: 
+  pdf:
+    linestretch: 2
+knitr:
+  opts_chunk: 
+    echo: false
+    message: false
+---
+
+\begin{center}
+Tyler Wiederich
+
+AGRO 803
+
+February 27, 2024
+\end{center}
+
+Figure 1: Visual display of the experimental design for students who participated in the 3D bar charts experiment. Kits of graphs were created by first choosing five ratios from nine available options (1). Each ratio then uses all graph types, with the exception of the 3D printed graphs for online students (2). Finally, all graphs were randomly assigned to have the marked bars as adjacent or separated (3).
+
+Figure 2: Bigram plot of student responses to the pre-experiment prompt. Each line represents pairs of words that appeared together where each pair occurred at least twice. Students generally understood that science is about investigating research questions and collecting data.
+
+Figure 3: Bigram plot of student responses to the abstract reflection prompt. Students gained a better understanding of what the experiment was testing, specifically the differences between 2D and 3D visualizations.
+
+
+
+
+```{r}
+#| echo: false
+library(knitr)
+library(kableExtra)
+library(tidyverse)
+df <- read.csv('responsesAGRO.csv')
+
+question.tbl <- tribble(
+  ~Reflection, ~Question, ~Prompt,
+  # 'Informed Consent', 'Q1', 'My instructor may share my reflection responses with the researchers in this study',
+  # 'Informed Consent','Q2', 'As of today, I am at least 19 years of age',
+  'Pre-Experiment','Q3', "In this class, you'll be learning about the process of scientific investigation. What do you think that process looks like, from the perspective of a researcher, compared to what it looks like from the perspective of someone in the general public who is a consumer of scientific results? Write a paragraph (at least 3-5 sentences) about how you think science happens. ",
+  # 'Experiment Participation','Q4', 'Paste the response code you received after participating in the graphics experiment here',
+  'Post-Experiment','Q5', 'What do you think the purpose of the experiment was?',
+  'Post-Experiment','Q6', 'What hypotheses might the experimenter have been testing?',
+  'Post-Experiment','Q7', 'What sources of error are involved in this experiment?',
+  'Post-Experiment','Q8', 'What variables were examined? For each variable, identify whether it was quantitative or categorical.',
+  'Post-Experiment','Q9', 'What elements of experimental design, such as randomization or the use of a control group, do you think were present in the experiment? Why?',
+  'Abstract','Q10', 'What components of the experiment are clearer now than they were as a participant? What questions do you still have for the experimenter? Write 3-5 sentences reflecting on the abstract.',
+  'Presentation','Q11', 'How did the information you gained from the components of this project (participation, post-study reflection, extended abstract, presentation) differ?',
+  'Presentation','Q12', "What components were emphasized in the presentation that weren't emphasized in the abstract? Why do you think that is?",
+  'Presentation','Q13', 'What critiques do you have of this study and its design? What would have made the study better?',
+  'Presentation','Q14', 'If you had to hear about this study using only the extended abstract or only the presentation, which one would you prefer? Which one would be better for determining whether the experiment was well designed?'
+)
+# question.tbl
+
+
+# question.tbl %>%
+#   kable() %>%
+#   kable_styling(full_width = F, font_size = 10) %>% 
+#   collapse_rows(valign = 'middle') %>%
+#   column_spec(1, '10em') %>%
+#   column_spec(2, '5em') %>%
+#   column_spec(3, "20em")
+  
+# question.tbl %>%
+#   kbl(booktabs = T) %>%
+#   kable_styling(full_width = T, font_size = 10) %>%
+#   collapse_rows() %>%
+#   column_spec(1, bold = T, width = '10em') %>%
+#   column_spec(3, width = '25em')
+
+
+footnote.questions <- 'For the abstract reflection, students read a two-page extended abstract that the researchers submitted to Symposium on Data Science and Statistics (SDSS) before answering the prompt. For the presentatiun reflection, students watched a 12-minute pre-recorded video based on a modified version of the presentation given at SDSS.'
+
+question.tbl %>%
+  # select(-Module) %>%
+  kable(booktabs = T, caption = "Questions provided to students in each project module.") %>%
+  # add_footnote('For the abstract reflection, students read a two-page extended abstract that the researchers submitted to Symposium on Data Science and Statistics (SDSS) before answering the prompt. For the presentatiun reflection, students watched a 12-minute pre-recorded video based on a modified version of the presentation given at SDSS.', notation = 'none', threeparttable = T) %>%
+  kable_styling(full_width = T, font_size = 10) %>%
+  collapse_rows(valign = 'middle') %>%
+  # pack_rows("Pre-Experiment Reflection", 1, 1) %>%
+  # pack_rows("Post-Experiment Reflection", 2, 6) %>%
+  # pack_rows("Abstract Reflection", 7, 7) %>%
+  # pack_rows("Presentation Reflection", 8, 11) %>%
+  column_spec(1, '9em') %>% 
+  column_spec(2, '6em') %>% 
+  column_spec(3, '25em')
+  
+# papaja::apa_table(question.tbl)
+
+```
+
+
+```{r}
+num.students <- tribble(
+  ~Semester, ~`Number of Sections`, ~`Number of Students`,
+  "Summer 2023 (May-June)", 1, 17,
+  "Summer 2023 (July-Aug)", 1, 23,
+  "Fall 2023 (May-June)", 1, 42
+)
+num.students %>% 
+  kbl(booktabs = T, caption = 'Number of valid student participants by semester.') %>% 
+  add_footnote('Students under 19 years of age or did not consent were exluded from data collection. To comply with IRB, no demographic information was collected in order to keep students anonymous.', notation = 'none',
+               threeparttable = T)
+```
+
+
+
+
+
+
+
+
+

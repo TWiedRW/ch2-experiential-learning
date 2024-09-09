@@ -1,0 +1,151 @@
+---
+format:
+  pdf:
+    keep-tex: true
+    linestretch: 1.15
+    fontsize: 12pt
+---
+
+# Response to Reviewer 1
+
+**Reviewer summary and overall impression**
+
+Major comments: Important previous feedback that impacts the author's grade has not been taken into consideration. Specifically, after repeated mention that the audience is lacking a clear description of the importance of the work, this information is still missing. Other previous feedback regarding the reference list has not been incorporated. However, some feedback has been incorporated for the reference list. Paragraphs can be improved in terms of cohesion, and the author is encouraged to edit using the strategies discussed during class. 
+
+> \textcolor{cyan}{The importance has been reworked to emphasize that the goal is to introduce this project as an additional method to reinforce statistical thinking. Reference list was updated with the `natbib` style listed on the journal guidelines. Updated text for increased cohesion.}
+
+Minor: Some grammatical and other smaller issues require attention. 
+
+> \textcolor{cyan}{Text was put into Grammarly and corrected as needed.}
+
+**Guidelines, Elements, and Structure**
+
+Type is 11 pt in size, not 12 pt. 
+
+> \textcolor{cyan}{Updated LaTeX options for 12pt font}
+
+1a. Minor improvements possible. See comments in document.
+
+> \textcolor{cyan}{Made adjustments where comments were presents.}
+
+1b. Importance is missing. 
+
+> \textcolor{cyan}{Added more information with how students interact with this project.}
+
+1c. Importance is missing. Other elements were generally provided effectively, 
+
+> \textcolor{cyan}{Clarified importance by stating clarifying the unknowns in 3D literature and how it can be applied as active research in a classroom setting.}
+
+1d. Minor improvements possible. See comments in document.
+
+> \textcolor{cyan}{Made adjustments based on document comments.}
+
+1e. Minor improvements possible. See 
+
+> \textcolor{cyan}{Made adjustments based on document comments.}
+
+
+
+**Audience comprehension**
+
+2a. Importance is missing. 
+
+> \textcolor{cyan}{Clarified the objectives of the graphics project.}
+
+2b. Minor improvements possible. See comments in document.
+
+> \textcolor{cyan}{Made adjustments based on document comments.}
+
+2c. Some important elements that were described in the introduction are not currently reflected in the research goal statement. 
+
+> \textcolor{cyan}{Added additional emphasis on proceedure and importance of the project.}
+
+2d. Minor improvements possible. See comments in document.
+
+> \textcolor{cyan}{Made adjustments based on document comments.}
+
+2e. There were some gaps, but I think it was mostly because of poor connection of ideas, and not necessarily missing information. I did not notice irrelevant information. 
+
+
+> \textcolor{cyan}{We reworked the section to help the connection of ideas.}
+
+2f. Many missing transitions, introduction of new information was often suboptimal, etc. Please see document for detailed suggestions. 
+
+
+> \textcolor{cyan}{We used the suggestions in the document to help with transitions.}
+
+2g. Overall, this was done well, except for the current paragraph 3, which also had the most issues with cohesion. 
+
+> \textcolor{cyan}{Added additional transition phrases to help unify the ideas.}
+
+2h. Oftentimes the statements seemed a bit too vague. However, the writing is generally concise. 
+
+
+> \textcolor{cyan}{We added more detail to help solidify the message.}
+
+2i. A few grammar issues were detected, mostly unclear antecedents. 
+
+
+> \textcolor{cyan}{We used Grammarly to help clear the grammatical issues.}
+
+
+**Ethics**
+
+3a. Journal style requires parentheses, not square brackets. 
+
+3b. DOI links have been corrected. Multiple formatting errors remain that must be adjusted manually. Quotations and commas needed for article names, author initials incorrect, etc. 
+
+> \textcolor{cyan}{We updated the LaTeX formatting to `natbib`, which is in the style guidelines of the journal.}
+
+
+
+
+
+
+
+\newpage
+
+
+
+# Response to Reviewer 2
+
+**Reviewer summary and overall impression**
+
+Tyler, this is a good introduction. Your work is investigating the effect of an experiental learning module utilizing 3D graphs on the learning outcomes of introductory statististics students. Your boad statements were relevent with statistics research, but you can consider being even more broad and discuss general hands-on teaching before narrowing to your field. This can help connect the goal of your research with a "so what" or large benefit to your research. Once again, you did an excellent job with your conscision, though at times this hinders understandablility. For instance, previous research descriptions and results are vague. You can be more specific with their methods and offer a specific result otherthan "benefits" to students. Your research question, knowns, and unknowns are clear in this introduction, but you could further develop your implications, experimental design and results in the final paragraph. Although some of these elements are optional, they would improve the story your introduction is trying to tell. 
+
+> \textcolor{cyan}{Thank you for the comments. We added additional transistion phrases and expanded details to help clarify on the "so what" of the introduction. We also added additional context of the manuscript in the last paragraph to help guide the reader with the goals of the project.}
+
+> \textcolor{cyan}{}
+
+
+**Guidelines, Elements, and Structure**
+
+Font size is < 12pt as viewed on Adobe, but acceptable with Journal guidelines
+
+> \textcolor{cyan}{Updated LaTeX to 12pt font.}
+
+This follows the proper inverse pyramid structure, but could benefit from a wider-scope to start.
+
+> \textcolor{cyan}{We added a new topic sentence to the first paragraph to emphasis the overarching theme of statistics education.}
+
+The descriptions of previous research investigations can be more in-depth and specific in terms of their procedures and outcomes.
+
+> \textcolor{cyan}{We added additional details for previous study results.}
+
+
+
+**Audience comprehension**
+
+The specific background on statistics is enough to understand the study, but additional, broader background can be included. For example, "flipped classroom" styles have been  popularized for benefitting student learning. This could be relevent here.
+
+> \textcolor{cyan}{Thank you for the suggestion. Our goal with this paper is to describe the project we gave students without changing up the instructional method of the class, so this might not be the best fit in the paper.}
+
+
+This introduction has narrowed on the idea of experiental learning to the use of active learning with 3D models. I think the last paragraph can flow better with this progression of ideas if you were more specific and included your use of these models in the "experiental learning module"
+
+> \textcolor{cyan}{We clarified the 3D graphs involvement in the student project.}
+
+
+
+**Ethics**
+
