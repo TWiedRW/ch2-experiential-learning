@@ -1,0 +1,886 @@
+"I think this was a paried control group because the variables were related to each other and they both were related to what the results would be."
+"I think the control group was the models we had and randomization was in the form of that we didn't know which model we were going to do next."
+"Randomization was used because we were given different bags with different numbers and maybe some of the bags had different items."
+NA
+NA
+"Randomization could be each person having different blocks to judge and having to find the size difference between them. A control group was that we all came to the same place to do the experiment and it was a controlled environment."
+"Randomness was used by the test subject in picking the order of bar graphs, it could have also been used to determine control percentages (using a random number generator 1-100) for the different graphs used. 
+
+The use of a control group was demonstrated by the older results being compared to current ones. The older data is the control group."
+"random convenience sample for sampling due to just taking a random \"convenience\" sample of all stats 218 students.
+
+I don't think there is any control group as every individual did the experiment by by themselves and there were not placebo or other vehicles controlled by the experiment creators."
+"Randomization was used by having each student get randomly assigned ti a different bag of blocks. The control group was students that were taking STATS 218. I think that this was easiest for the experiment so that results were of a similar population,"
+"There were different bags of models, that people used at random. This was most likely to have some factor of randomization. "
+"I think randomization was definitely present in this design I think there was no control group because most of the experiments were random. But I think overall this study was designed to have both sides of the experiment randomized to really give the participants all a fair chance to answer a variety of questions given on the test."
+"The use of a control group was used as all the participants within the experiment were in the same class and given the same questions to answer over the same kits. There was also randomization used as the questions and kits very all in a random order when presented in the experiment. There was also a process of replication used as the questions and kits were very similar as the experiment was performed."
+"Random assignment because it was given to stat students, not necessarily specific students. Random selection as well because everyone was given different bags to use for the experiment. Lastly, replication because it was done multiple times to get accurate results. "
+"The control group was pretty narrow because of the fact that it was only for student AT UNL that are currently enrolled in the intro to stats class. The randomization was pretty narrow in a sense that it's one subject taken at UNL, instead of having students from a more advanced stats class or calc class complete the experiment. "
+"I think control group, because it is limited to students enrolled in a stats class. If it were random, there would be a few from this class, a few from an english class, bio class, etc. "
+"I don't believe randomization was used as the experimental group was only STATS 218 students. Since the experiment was conducted last year it could be compared."
+"Randomization was present in making the kits and distributing to the individuals.  Randomization was used to avoid bias."
+"control was probably determined off the same shape given both physical and digitally "
+"Control group: A control group may have been included to compare responses to a standard (i.e. commonly used graph)
+Counterbalancing: To control order effects, the order that students were exposed to graphs may have varied across individuals"
+"Randomization was used to present the graphs to us. They were all presented in a randomized order to prevent bias of seeing one model before another. 
+
+I don't really think there is a control group, but since everything that is given to us is randomized, it helps keep everything unbiased. 
+
+This study was replicated from Cleveland and McGill and replication is important in experiments to compare the findings, and build on the knowledge of the experiment. "
+"randomization because both the bag of 3d printed graphs and the code generated were random for each given person that completed the experiment. "
+"I believe radimnization was used for the presented bar graphs, however there was one bar at least at 50% and I believe that to be the control group. I believe it comes ntonues asking questions on om different bar graphs for different sections depending on your answer to the question. "
+"The elements would be the blocks and they are used as the control group."
+NA
+"I don't remember there being the use of a control group other than showing us the height of a stat in a bar graph, the variable that is being manipulated is the different heights of bar graph data points and their nehighboring points. Another randomized portion was which bag you got, I assume they all had different bar graphs to observe increasing the amount of data points. I think each of these as well as anything else was included, was done so in order to get a clear confirmation that the variable they are testing for indeed was influencing. "
+"The randomization aspect that was involved within the experimental design would be the various kit numbers that the students were able to choose from for the experiment. This works to have provided randomization and in terms of which participants worked with which kit. "
+"Randomization was used with the different structures so we wouldn't have the sme answer every time."
+"Control group was present in the experiment because the 3D charts were picked by the participants and also the participants were from a Stats class. But also the there was a randomization of 2D charts and 3D charts included in the experiment. "
+"One element of experimental design that was present in the experiment was randomization because each participant in the study was randomly given a kit that was different from the other participants. The way in which the study was carried out was through randomization."
+"Since the experiment was limited to only stat 218 students, it was a limited group of people. So the experiment was not a random group or control group as we were the only ones asked. The \"control group\" in my opinion would be the actual measured ratios and height comparisons.  However, I think random assignment was a part of the experiment as we were able to grab a test kit bag which were different and not assigned. As well, I believe taking the experiment online allowed for more randomization. "
+"Random assignment was used in the experiment because when we entered the room we had to choose a bag full of figures for the study. The bags had different codes and graphs representing different experimental groups. I do not think there was a control group because the different bags were all experimental groups. The manipulation in the experiment was just the comparison of 2D and 3D graphs using different figures. "
+"I think the sample group was random, a class from a college is going to have a lot of different types of people from age to place they are from which would change the outcome of the experiment. I think this is designed in the experiment because it gives a variety of answers in the experiment. "
+"It was randomization. The control group were the professors and I think that they wanted to see the difference"
+"I believe this experiment was randomized because everyone in the experiment got to choose a different bag full of shapes to compare, meaning each participant in the study had an equal chance of being assigned any shapes to compare. I also believe there was a control group in this experiment because there were many different variables in this experiment such as age, school, class, etc. All the participants in this study are currently taking the class Stats 218, and all of the participants are college students attending the same university. "
+"The randomization was what bag the students picked upon arrival. This was present so that students couldn't share answers and skew the data."
+"This study is randomized because multiple different students in a Stats class. All different backgrounds and multiple different majors. "
+"I think the control group in this study were the students because everyone had to participate and it was not really randomized because it was specifically meant for Stat 218 students. "
+"I imagine there is a control group-- maybe a computer program-- that has the exact numbers. The bag of graphs each participant received was also randomized. "
+"Use of a control group, those were the students who took it in person. "
+"Each student was given the same baggie of graphs, and asked the same questions I assume. We all performed this in the same room. Randomization could be that students performed this during different times of the day"
+"All the different groups of graphs/bars were randomly assigned to students.
+
+I'm sure there was a consistent bar/graph (control) present in all the bags/groups, to gauge how students all interpreted the same bars/graphs after viewing varying ones.
+
+An element of experimental design would be having the bars/graphs digitalized and 3D printed. The 3D printed ones were neat as they made the experiment more \"real.\""
+"The group of students themselves were randomization, lots of students from lots of different majors take statistics, so it's a good representation of the campus's population. The control group was likely that the Ziploc bags of graphs/graphing program we used had all the same graphs for every student doing the testing, so they could have something to compare against everyone who took the experiment."
+"Randomization because everyone was given a set of questions and different order of graphs because no one had the same order, you got to choose for a certain part of the experiment."
+"I believe that this experiment utilized randomization. Granted the only participants were the Stats218 students, but majority of those students come from different backgrounds and even many different ages. "
+"well since it was only stat 218 students that seems more like a controlled group because only those groups participated in the experiment "
+"randomization was used when picking out the real life blocks from the bag because there was no way in telling what block a person would pick and when they would pick it from the bag. "
+"I think its a random sample because there are many different age groups in the stats classes and they didnt pick it based on anything else."
+"The experiment was not fully random because it only surveyed students who were in the statistics class. This was not a random survey throughout the whole campus on UNL."
+"I am not sure it is very random, as it was just all the statistics students, although it is a specific group. "
+"I did not note a control group at the time of the experiment - it appeared to be all randomization. At first, the experiment called for the user to pick which column appeared larger/smaller than the other and gave two choices. The second half of the experiment called for the user to guess a percentage of how much taller one block was than the other and provided a sliding scale. This would provide more specifics with data."
+"random selection of the different kits was there. i also think there was a good sample diversity as a bunch of diff uni students participated. "
+"Randomization is present in the random assignment of the bags of bar graph models and switching between computer and in-person models. I'm not sure if all students observed the same visuals on the computer, but if everyone did, that would be a control."
+"It was very randomized because there were multiple bags of 3D models and multiple randomly selected people that we're experimented on. "
+"I feel like the use of randomization was not used in this cause because all those that took part in the experiment were students in a stats class, and therefore there couldn't be complete randomization. There was some randomization based on participants randomly being given the kit they were supposed to use, but otherwise it seems as though randomization may not have explicitly been use for this experiment. I feel as though the use of a control group is much more likely since it was controlled as to who was experimented on and what they used to experiment."
+"I'm assuming that there were different model kits therefore increasing data samples and randomization
+
+ 
+
+the control group would be the actual size difference between the data"
+"I think that randomization was used and that everybody may have been given a separate set of blocks to look at and a control group may have been used also where it didn't mater what the height of the blocks were."
+"I think randomization was in use for the experiment. This will help with ensuring that decisions made by the subject are not biased."
+"The people used in the experiment were all in a stats class which would be probably be convenience sampling because for it to be completely random you wouldn't assign students to do the experiment as a requirement. "
+"I don't think that there was a control group because there was constant change, however I would say that randomization would definitely be apart of this experiment because the subjects were assigned to different 3D graphs. "
+"Elements of experimental design were present in that we were randomly assigned a different packet to use for our experiment. As well we were not told why we were doing it or what results they are looking for, just for us to participate so that they can track the data. This way the data is authentic and not skewed. "
+"The randomization here was what bad you were given in the experiment. Everyone was given a bag and some people got the same bag as others but not many so in this experiment mostly everyones answers were different. This is why its a good control group experiment that would provide some good results for this experiment. So yes I think there was good randomization."
+"There was randomness because everyone got a different kit, I'm not sure what else was involved"
+NA
+"There were different bags with different observational units. Then at the end it gave us a code to put us into a group. He did this to see what percentage of the class was in what category of reading."
+"Randomization was used, because the 3D model kit that was used by each student was random. A control group was most likely used. The control group might consist of students that completed the experiment using only 3D models or only pictures. "
+"The control group wasn't exactly randomized because people who feel less confident about their answers are more likely to not release them.
+
+Everyone in 218 does the experiment so that in itself is randomized."
+"Random students participated in the experiment. The bars were randomly generated. "
+"I think the control group was the blocks because everyone examined the same blocks, but also had different results. I think this was present because the goal was to figure out how people examine the same blocks "
+"I think one of the graphs had to be a control. I remember there being a little quiz or something before starting the experiment so maybe that was to test us for the control group. A control group is set to 'standard' conditions to draw comparisons from once the experiment is over. "
+"- convenience sampling- the participants were students in a stats class. 
+
+* I don't believe there was a control as far as I know
+
+* randomization from the bag of graphs that were given.
+
+* I would need to know more about the experiment to give you anything else."
+"the researcher may have only targeted specific groups/classes"
+"I think the use of control group because these were all comparing different groups."
+"To prevent differing answers, the creators opted for a constant variable, the graphics."
+"I think randomization was used in this because each person was randomly given a set of charts to interpret."
+"For this experiment, I definitely think randomization was a part of the experimental design. I say this because the bags of materials were handed out randomly when they became available to use. Additionally, on the same page, I believe this experiment also included only experimental groups. I say this because, as a result of the randomization, everyone received different bags and no one was specifically grouped into using certain things."
+"The randomness of what graph you pull out of the bag and the mix of questions we were administered. I am not sure how a control group would have been used in this experiment. "
+"I think the graphs you receive, and the order they are presented to you in, are randomized. I don't know what the control group would have been in this experiment. "
+"I believe that convenience sampling was used because they are experimenting with a statistics class, so they may be more predisposed to graphic interpretations than a random person. I also believe randomization was used because each class had a different set of 3D models. "
+NA
+"I think randomization was part of this experiment's design. This was done to rid of possible confounding variables like gender. A control group may have been part of the experiment's design, but I am not sure what that group's \"non-treatment\" would have been. A control group, if it was part of the design, would provide a baseline for the experimental group(s)."
+"I think principles of sample size were considered in this experiment. This experiment is using a large number of STATS 218 students. "
+"Randomized photos could have been used from a database when looking at the study because they wanted a larger spread among different age groups. Replication was used among the student pulling from this same data base. Controlled variables were the in person models being the same in each bag "
+NA
+"The control group was that the bigger graph piece was always at 100. I think this is the control because it stayed the same each time and with every changes in the graphs we observed. "
+"Not randomization - if randomization were used, kits would be randomly assigned rather than picked. I don't know if a control group was used, because this study could have been on statistics students vs students not in a statistics class. "
+NA
+"A control group was used, because results were only taken from individuals 19 and older, as well as participating in Stat218. Gender was also taken into account, and will most likely be divided into categories based on these things. "
+"design was used to target specific stats students they maybe the control was the ones in person because i would think they were testing about the online graphics "
+"The randomization of the students in STATS 141 and the control group could be the actual answer."
+NA
+"The fact that we were all around the same demographic. Maybe people all got the same materials to work with. "
+"The randomization aspect could be seen in the random kit each participant used. The different kits could have different difficulties of models to assess, which when given out randomly, might show results related to the accuracy of that participant's responses. A possible control group present could be participants that have no prior experience with statistics. This would provide a benchmark to compare active statistics students with. The only evidence of this study being an experimental study is the assignment of the model kits. Besides there being different kits used by participants, there was no manipulation by the researchers as for what was done on the survey."
+"I think that the elements are a controlled group because they are given to us and not randomized."
+"I think that the elements of the experiment are a controlled group because they are given to us and we are just judging them based of looks, but they are not randomized and are set out in a controlled manner. "
+"I think that it is randomly assigned because we were given random bags."
+"The kind of graph shown"
+"The randomization of the groups were present in the experiment through the use of the ta's handing out the different packages, as well as the user's requirement to randomly pick a 3D model. "
+"I guess overall they were pretty random because not everyone had the same blocks, and didn't know where the blocks were going. A bunch of different classes experimented, so there wasn't just one class studied. Lastly, possibly something like the kids are from different age groups. "
+"I think there were randomization because the different charts weren’t assigned to specific students and the students randomly chose which data set they interpreted. "
+"I would say it was random because they used both 2D and 3D graphs for both groups "
+"I think the randomization was used, because there were many random participants. There were many different students that participated in this study."
+NA
+"It was a randomized order and repeated measures design was also present. Conditions were controlled to have a baseline comparison."
+"Random sampling, I don’t believe there was a control group but it also has random assignment to the bags "
+"The experiment included several good design elements. Each participant got a random mix of chart types and bar layouts, which helps avoid bias from always seeing things in the same order. The charts were also randomly assigned different ratio values, so no one could guess patterns. Everyone answered the same types of questions, making it easier to compare results. While there wasn’t a traditional control group, the 2D chart acted like a baseline to compare the 3D formats against."
+"Random assignment was used, but not random sampling because we are all from statistics courses. A control group was also probably utilized, without us being aware. "
+"Randomizing groups by giving different people different 3D printed graphs. This was done to see if results differ between the different 3D graphs and it is not just up to chance. "
+"Randomization by randomizing which bar charts to utilize for each participant was used"
+"An element that played a part of this experiment was the randomization of the Stats 218 class and what package they got. "
+"There was some factors that indicate there was a control. Like at the beginning of the experiment we had to depict which model was 25%, 50%, and 75% to the other graph. However I think the element of randomization was present in the experiment. There was no selected models per person and each graph was random. "
+"The observational study was used because it was the design for the experiment. "
+"The control group used was the digital 3D graphs, and random assignment was used by having students pick the bags of graphs randomly."
+"I think that the control groups were present, because the experiment was planned out. They had to plan this experiment out otherwise the results would not have been as accurate. "
+NA
+"Randomization could have been used in this experiment because they want each participant to have a different set of graphs to interpret. If they gave each participant, the same set of graphs the previous participant could have influenced the other on what they thought the answers were, which would skew the evidence. "
+"Each participant received a random kit. This may have been to ensure that if a single kit was somehow flawed, useable data could still be gathered."
+"Random assignment of different graphs, the 2D bar is a control group. Helps give the experiment validity."
+"it was random because we were asked in class and with 40 some people the sleep schedules are not going to be controlled."
+"I think that the elements of randomization was there somewhat. All the test subjects are in a statistics class but many of us have different majors so it is a good pool to test. I think that the different bags of figures was probably given to students at random as well."
+"That was no random sampling. 
+
+But the group for different type of problems were randomly assigned. 
+
+Researchers know the answer. 
+
+ "
+"To reduce bias the graphs were randomly assigned to random participants in a random order, we did have a control group as there was 2D graphs that seem to be easier, and a lot more accurately read by participants. "
+"randomization was when the participants got to pick a graph and then answer which graph is bigger. "
+NA
+"I think randomization of the bags that we got was present because when e walked in we were able to just grab any bag on the table so it really was random when students picked. "
+"randomization: different graphs, different forms of the test
+
+Different forms were given, possibly to see what threw people off the most. 
+
+ "
+"I believe randomization was an element of the experiment. They have mentioned in the Future Research and Implications section that they wanted a bigger sample group from a statistics class in the future. 
+
+While reading I did not see anything about if the experiment was random or a control group was used. I would think the researchers would use a random group. "
+"Randomization was used through how the graphs were shown to us, but I don't think we counted as random sampling since we volunteered and weren't from the general population of Lincoln. There was no control group present, as all participants took part in the randomized measurements.  "
+"The study included randomization; the participants were given randomly ordered graphs to avoid bias. It also included controlled conditions, in which they used the same ratios and graph sets across different groups. These elements helped ensure that the results reflected the differences in chart perception and not outside influences. "
+"Randomization, because bags were chosen at random, even if it was the participants who chose."
+NA
+"Randomization was used in this study because it was open to every single STAT 218 student. They didn't pick certain students from our class, they took everyone, and they had no idea who would sign up for STAT 218 this semester. This is good because it makes it less biased."
+"The experiment involved convenience sampling from the Stat 218 classes and those who volunteer to participate in the experiment. The models being perceived were randomly presented, however, they were in assigned baggies/units that were presented to the respondent(s). The control method, I believe, was the use of identical or similar models for all respondents, helping to create a stable testing method and presenting respondents identical data models in multiple formats or presentations. All of this culminates into comparatively simple forms of data collection that can guarantee a degree of randomness without bias or skewing and control methods that aid the experiment's final interpretation."
+"Since only stats students participated, the experiment did not use randomization for participant selection, as the sample was predetermined. Additionally, without a control group, it may have been difficult to compare the results against a baseline or determine the specific effects of the experimental conditions. These factors could limit the generalizability of the findings to other populations."
+"The experiment likely used randomization to present the 3D-printed bar graphs in a random order or to assign participants to different groups. This helps reduce bias and ensure fair comparisons. Standardization of the bar graphs and repeated trials across participants would help make sure there is consistent conditions and reliable outcomes."
+"the order which the participants recieved the graphs, which would be randomization "
+"Elements of experimental design that was present in the experiment would be replication because this was replicated the same way for each person and within different sized groups. "
+"I can't remember the experiment well enough to answer this question, We should have had this assignment right after we participated in the experiment. "
+"Randomization was present as they had different combinations of bar graphs to analyze. They used manipulation to change the variable of which perspective of the bar graph was used 2d vs 3d. They also used replication as they wanted to test if the results of the Cleveland and McGill study of 1984 would translate when using different mediums."
+"Randomizing groups by giving different people different 3D printed graphs. This was done to see if results differ between the different 3D graphs and it is not just up to chance. "
+"It was a randomized order and repeated measures design was also present. Conditions were controlled to have a baseline comparison."
+"I think that the control groups were present, because the experiment was planned out. They had to plan this experiment out otherwise the results would not have been as accurate. "
+"Random assignment was used, but not random sampling because we are all from statistics courses. A control group was also probably utilized, without us being aware. "
+"The control group used was the digital 3D graphs, and random assignment was used by having students pick the bags of graphs randomly."
+"An element that played a part of this experiment was the randomization of the Stats 218 class and what package they got. "
+"The experiment included several good design elements. Each participant got a random mix of chart types and bar layouts, which helps avoid bias from always seeing things in the same order. The charts were also randomly assigned different ratio values, so no one could guess patterns. Everyone answered the same types of questions, making it easier to compare results. While there wasn’t a traditional control group, the 2D chart acted like a baseline to compare the 3D formats against."
+"I think the randomization was used, because there were many random participants. There were many different students that participated in this study."
+"Randomization by randomizing which bar charts to utilize for each participant was used"
+"I would say it was random because they used both 2D and 3D graphs for both groups "
+"I guess overall they were pretty random because not everyone had the same blocks, and didn't know where the blocks were going. A bunch of different classes experimented, so there wasn't just one class studied. Lastly, possibly something like the kids are from different age groups. "
+"The observational study was used because it was the design for the experiment. "
+"I think there were randomization because the different charts weren’t assigned to specific students and the students randomly chose which data set they interpreted. "
+NA
+"Random sampling, I don’t believe there was a control group but it also has random assignment to the bags "
+"There was some factors that indicate there was a control. Like at the beginning of the experiment we had to depict which model was 25%, 50%, and 75% to the other graph. However I think the element of randomization was present in the experiment. There was no selected models per person and each graph was random. "
+NA
+NA
+"What kit students received was random, and participation wasn't mandatory, so what students in taking STATS 218 participated also wasn't known for sure. "
+NA
+"I think there is a decent amount of randomization given the variety of STAT218 students and differing experimental bags/kits administered. I really can't think of how there would be a control group in this experiment, however, so I am going to say that it is missing that element to some regard."
+NA
+"The color that you pick because they were random and said to pick one. "
+NA
+NA
+"The experiment included several strong elements of experimental design:
+
+ 
+
+* Randomization – Each participant received a random set of graphs with different ratios and chart types, which helps prevent bias and ensures more balanced results across all chart conditions.
+
+* Control elements – The 2D bar charts acted like a control group because they’re the standard, well-studied format. Comparing the 3D and printed charts against them helps show whether the new formats perform better or worse.
+
+* Consistent procedures – All participants followed the same process, used the same computer setup, and got the same instructions, which helps reduce variability.
+
+* Replication – The experiment was based on a well-known study (Cleveland and McGill), adding reliability and allowing for meaningful comparisons to past results.
+
+These elements help make the study more fair, accurate, and easier to trust."
+"The order of graphs were randomized to account for the order affect. A control group could be students not currently taking STAT 218, have never taken STAT 218 before, or students only able to view graphs in 2D. This is important to see if class or 2D vs 3D has any effects on graphical estimation."
+"The bar graph and the size of it"
+"I think the kits given to us were randomized and that they contained different 3D models. I believe this was done to ensure that people didn't share their answers. This helped to avoid biased results. "
+"Randomization was used because the order of the blocks chosen was randomly selected by the person. "
+NA
+NA
+"I think the element in this design is randomization because it was random of just looking at whether if the circle or square bar was taller. There wasn't a control group in the experiment."
+"The experimental design was control group because it gave you two choices of either triangle or circle you had to see which was bigger then estimate by how much was the data bigger or smaller."
+"Randomization of the height of the graphs. So, they were not as easily identifiable. "
+"The element of experimental design would be randomization. When we had to pick a random graph with the pieces we were given we had to randomly select the ones present in front of us and give the graph info on the computer and length and shape which was larger. "
+NA
+"The randomly handed out packages was randomization. This helps because no one group has an unfair advantage or bias. "
+"I think that the use of control group was present in this experiment because this seems to only use students that are taking the statistics class. "
+NA
+"Randomization could have been used in the assignment of bar heights for different trials to minimize any bias, this helps ensure that any observed results are due to estimation abilities rather than predictable patterns. Another element could have been repetition. The repeated trials allow for analysis of learning effects, consistency, and changes in performance over time. "
+"I think we used the element of randomization by hanging out back with random numbers to different people but I felt that there was no control variable in the experiment because there was  not a bag that had no pieces"
+"Randomization is when no one is given a specific set of instructions on which bag to take and is instead given a random bag of charts and pictures. This helps keep the data collected relevant and more randomized, meaning the authenticity of the results is more acceptable than if they were to control the experiment in any way."
+"I think randomization was present because each bag was different."
+"I think randomization was in there but I think the graphs were pulled from a bank of graphs pulled out in different/ random orders "
+"I do not think the use of a control group was used in this experiment because everyone had to do the test. The order of questions might have been random but the people surveyed was not because you had to do it as a 218 student. There were variables and a large number of people sampled."
+NA
+"One of the biggest randomization factors was the physical 3D printed models we were given. They were not strategically handed out they were randomly taken or passed out. This removed bias and the ability for people to choose the exact few models that they wanted. "
+"A control group in this experiment was there being no numbers for reference on the graphs. Another control group would be giving random graphs in which the two statistics being observed were not right next to each other."
+"I think replication because I think some graphs were repeated to see if you realized it was the same one. Not to sure to be honest."
+"Giving students' in a class random bags, because this makes it completely random for a set group."
+"I think there was lots of randomization because we had to pick the random shapes and there was not a control group I felt like."
+"I think they didn't fully use randomization in this experiment because the STATs classes were the ones being tested. 
+
+The independent variable was the type of graph it was- physical, 2d, 3d
+
+The dependent variable was how the test subjects would interpret the graphs. "
+"I think randomization was used in this experiment. I was able to randomly choose the order of my graphs so they were not in the same order for everybody. "
+"Each person randomly picked a bag and each bag was different. Probably in each bag though there was one that was the same in each bag."
+"They tried to make it random but there will always be some kind of bias that prevents this. "
+"The experimenter most likely had tested a control group, so they had something to compare our results to. "
+"I don't think that there were control groups present because this study would be hard to have a control group. They would have to still participate in some way, but they wouldn't be estimating the heights of the blocks/bars so I don't think it would be effective or applicable to use a control group. I do believe there was randomization within the experiment because we were put into different groups randomly by giving us a different package filled with differently sized bars/blocks and maybe an online presentation as well. "
+"I think that they randomized whether they designed the experiment so that they could test for the results that they wanted by framing the questions and data to see the responses that they are looking for. They also separated all of us so we had to take it on our own, which eliminated a chance for social implications to create a confounding variable, for example if a popular kid got a crazy answer and everyone wanted to be their friend so they also put that answer. "
+"Not random if only students in Stats did the survey. "
+"We had to randomly choose a bag to use for the 3D printed models. This might be to ensure that the directions could be followed in relation to using the correct 3D block when asked. This could also prevent two friends who were taking it simultaneously to not share what they thought. "
+"i think this design was mainly randomization because students were instructed to just take a kit out of the box, meaning that a lot of people likely chose the same kit as it was on top. therefore, there may be a lot of data for one of the kits and not really any data for the other kits. "
+"This experiment included randomization since each participant received a random chart combination with different ratios and spacing. This helped minimize bias. Since there wasn't necessarily a control group, 2D was a good comparison for the two since it was most studied and trusted. Using questions to determine the differences between all of them helped with design and to differentiate them based on these variables."
+"They had a random group of participants, along with also having both 2D and 3D graphs.  "
+"The experiment used randomization to assign charts and their order to participants. The control group was the 2D charts, used as a baseline. Counterbalancing made sure participants saw the charts in different orders to avoid bias."
+NA
+"The experiments definitely used randomization the graphs and the order that they were placed, and they were also randomly assigned to each individual. This really cuts down on how biased the participants can be. They also used a lot of repeated measures meaning each individual looked at the three different types of g, that way everyone would act in their own controlled way. I don't think there was a traditional group but using 2-D graphs which we already know they are more accurate. They kind of served as a baseline compared to the graphs that were 3-D and 3-D printed the designs of the graph really helped make the result more reliable, and reduce outside influences."
+"na"
+"The experiment was investigating the judgments in comparing bar heights across different visualization levels 2D, 3D digital, and 3D printed. It replicates and expands on previous research. They specifically focus on the perception of position along a common scale. The experiment involves participants comparing bar heights in various charts and providing ratio estimates, with the goal of determining whether 3D printed charts offer any advantages in conveying quantitative information compared to traditional 2D or digital 3D charts. The findings aim to contribute to a better understanding of data visuals and potentially inform the development of more effective data representations. "
+"The experiment only used STAT 218 students, and some people did the experiment only online which could have been the control group. "
+"By picking up any block from the bag, there was no order to which block we had to do first which represents randomization. This allows for perception of block size to be less skewed, there is no manipulation. Since we were not really comparing blocks there was not a specific control group, but we could possibly view the representative block as the control group that we were basing our guesses off of. "
+"I think the randomly assigned control group is a great idea, that way the people still think and act/ answer according to them being studied, however they never had anything special in the long run. Their own unknowingness keeps the results more accurate. It is a better representation"
+NA
+"This experiment may contain several experimental design elements. First, the experiment may have achieved randomization by randomly assigning coding bags or model order. Second, although there is no typical control group, the experiment effectively controls potential interference variables by maintaining fairness, consistency in presentation and operation procedures. At the same time, all participants perform tasks on the same platform, which also reflects the standardization of procedures. These design elements together improve the internal validity of the experiment and the reliability of the results."
+NA
+"to create no biased and accurate results"
+"The elements of experimental design that were present were randomization as the bar students saw first may have been chosen, and instructions if students all understand the assignment the same way. "
+"I think there was some, but also using students and spouses of stats people is random but not as random as it could be."
+NA
+"I think randomization was used for which order the graphs were seen online, possibly, and there was a control group with certain graphs. "
+NA
+"There were both. They used randomization by changing the order of the graphs shown. This helps avoid bias. The control group was that 2D charts were the standard for comparing how well people read the data. "
+"the study was done on the STAT 218 students, which is a relatively random group of students at UNL. This type of randomization ensures a relatively even distribution of skills and experience. "
+"N/A"
+"I think this was a randomization because each participant was randomly assigned with their kit with random graphs, so no one had any idea before the experiment what they'd get in order to know the true measurements or cheat."
+"The elements of experimental design involved randomization in the arrangement or assignment of the data points to avoid bias, and the control group was included to compare the effect of visualization type. I think they were present because they help isolate the impact of design choices on interpretation."
+"Some elements of the experimental design that were used were random assignment and variable control. "
+"The elements of experimental design, such as randomization or the use of a control group, that I think were present in the experiment where randomization in chart types and bar spacing because this helped to reduce bias."
+"The experiment likely used randomization to change the order of graph types for each person, so results weren’t biased by the order. There may have been a control group, like people using 2D graphs, to compare against the other types. These elements help make the experiment fair and the results more accurate."
+"There was a controlled variable aspect, like the graphs being in the same format and no extreme variance. However, there was mainly randomization involved as each participant was given different graphs to interpret. "
+"Randomization was used in this study as each question was randomized from a pool of questions. This means that each person got a different set of questions, eliminating the chance of people telling each other their results. This was done to reduce inaccuracy in the results. "
+"1. Randomization
+
+*
+
+Presence in the Experiment: Randomization is a critical design element in experiments to minimize bias. In this experiment, randomization could be used to select cows for each group, ensuring that age groups, health status, breed, and other factors are randomly distributed across the experimental conditions. Randomization would help eliminate confounding variables that might otherwise skew the results.
+
+*
+
+Why it is Important: Randomization helps ensure that the results are not influenced by hidden biases or confounding factors. For instance, it prevents the possibility that older cows are always in one area with different environmental conditions compared to younger cows, which could bias the results.
+
+2. Control Group
+
+*
+
+Presence in the Experiment: In your study, a control group might not be applicable in the traditional sense (since you are specifically testing the impact of age), but a \"control\" could refer to a baseline group of cows that are considered to have \"normal\" or \"ideal\" conditions for calving. For example, cows that are in a middle age range (e.g., 3-5 years old) might serve as a comparison group. Alternatively, cows receiving no intervention or standard intervention could serve as controls in experiments comparing different assistance types.
+
+*
+
+Why it is Important: Having a comparison or baseline group allows you to measure the effects of age and other variables more accurately. For example, comparing cows under 3 years old (younger cows) to cows over 7 years old (older cows) can show if age directly influences the likelihood of needing intervention or experiencing difficulty."
+"Randomization is crucial since there will be multiple groups being evaluated both 3D and 2D printed bar charts. This helps control the differences being observed between these two groups, and allows data to increase in accuracy. You don't want any pre existing differences/variables to occur during testing especially ones dealing with different subjects. Now for the control groups you can see when compared (both groups of printed bars) that without a variable to manipulate, you can in fact isolate a possible effect on one group of your choosing. Without the control group being present, we wouldn't have any obvious differences pertaining to the prints, and or the other confounding factors mentioned in this abstract."
+"randomization was a big part. participants were randomly assigned graphs types and bar groupings to minimize bias. each participant views a set of graphs in random order to avoid affects. there wasn't a traditional control group but the use of the 2D graph served as a baseline for comparison against 3D versions. the design of the experiment helped isolate the effects of graph type and layout on judgement accuracy. "
+"I think there was  randomization used as to which version of the data students received. "
+"I think the randomization is which bag a student gets. I chose a random bag out of the pile and after it was put back into the rotation for other students to use. I volunteered for this study so the survey was not random. I am unaware of a control group but if there was one I would imagine there is a standard set of blocks and maybe they were hypothesizing people would score different on a different set of blocks. "
+"The elements of design which I believed to be present were randomization is the way which the graphics were presented and the participants in the study. There wasn't necessarily a control group, but there were things kept the same for everyone. This would be the instructions given and the information given prior to the experiment. "
+NA
+"I think randomization, such as with the order of the graphs and associated questions, was used to help eliminate confounding variables. Participants are presumably being paired with themselves, with each individual having their own accuracy score for each type of graph. The accuracy for each type for the population as a whole is likely also being considered."
+"I think that this was a controlled group because it only used students that are part of a math/statistics class."
+"Replication, as many of the testers likely had to perform the same tasks to demonstrate that the results were not due to chance but were reliable. Randomization is used to reduce bias, so testers don't receive better results because they recognize a pattern. Standardized procedure, as I believe all the testers of this experiment were probably put under the same conditions to reduce confounding variables. "
+"*
+
+Randomization – They might randomly pick which people go in which group, so it’s fair.
+
+*
+
+Control group – One group doesn’t get the change, so you can compare how they act versus the group that does.
+
+*
+
+Blinding – Sometimes the people in the experiment or the people running it don’t know who’s in which group, so they don’t accidentally mess with the results."
+"I think randomization was used when distributing the test out. I think that they probably still narrowed it down to college students though. I don't think you could make a control group for this type of experiment, everyone conducts this experiment differently so it would be hard to create a good control group. "
+NA
+"I think randomization could have been used by randomizing a pool of questions for surveyors."
+"The experiment likely used randomization by assigning participants to different graph types and ratio combinations randomly. This helps avoid bias. There wasn't a clear control group,  but the 2D graphs might serve as a baseline for comparison. The use of different graph types allows the experiment to test how each format affects accuracy."
+" control group it showed group that does not receive the treatment being tested, and it provides a baseline for comparison against the experimental group."
+"Randomization was done to distribute chart order and question sequence to alleviate bias. Along with a control group of 2D charts to see variability across types."
+"There was randomization on the kit that was used for each person that was in the study. The studies were also controlled through how the graphs were positioned and how they looked. "
+"I think randomization was used because the survey was done by students who come from many different majors and years. This experiment used convenience sampling since it used students taking introduction to statistics."
+"I wasn't aware of a control group being used
+
+Randomization was present because all demographics of people were included, and different graphics and physical graphs were provided for the people participating in the experiment."
+"There were 2-D, 3-D interactive, and physical bar graphs utilized. The distance between the two [triangle and circle] bars varied between the two for each graph, as well as the randomization of the other bars not asked about in each graph. My guess is that the seemingly  \"randomized\" irrelevant graphs may very well be intentionally proportioned and coordinated for measure of scale between the triangle and circle bars being asked about. "
+"I think randomization was a large part of this experiment. Having randomization allows for a non-biased view of 3D vs 2D charts and how their results work."
+NA
+"Their didn't seem to be any control group that I knew about.
+
+The bars were randomized every next question."
+"If the questions of the graphs are randomized, you might get the exact same graph back-to-back to back, so, you would remember what you put for it and just put the same answer without really thinking about it."
+"I am unsure, but they randomly told us to select a graph, instead of telling us when. I think the sequence of graphs was random so as not to influence or cause bias."
+"i think there was a randomization of colors and the assigned shapes to those colors"
+"I think that randomization was present because it was random who was enrolled in Stats 218. "
+"They did use a control group which were students currently taking Stats 218. I think they used this because it is convenient and makes sense because this can reinforce our learning."
+"The randomization of the experiment in different models given to different students was present. This measure made it so the answers would be more accurate and less uniform. (IE. what did you put for model A? I put 37)"
+"Each student chose a bag at random to interpret the graphs. the online graph interpretations could have been the same for all observational units. "
+"The class was randomly selected to be together in that stats room at that time by someone not involved in the study, I'd imagine, and we were all chosen to be in the study by being in the class. I don't believe there is a control group, which might mean I am the control group and that would be good control group design. "
+"Each bag (I believed) was unique to one another making it a controlled group. However, within the actual survey, at the end we had to choose the blocks randomly and identify them on top of random computed blocks. "
+"randomization was present in the experiment with the random bags of graphs, id also assume the questions we answered were comparable and were a sort of control questions."
+"There may have been randomization in terms of assigning participants to a set of graphs, because my impression was that each bag of 3D graphs was different. Based on the limited information provided at the start of the experiment, I am not sure whether there was a control group or not. Perhaps the initial experimental group of the graduate students and their roommates was the control group. There also seems to be an element of replication, since this study is based on a previous study and is trying to determine if there are similar results between the two experiments. "
+"Control group of students taking Stats 218: only 218 students are proceeding with this experiment."
+"I think randomization was used when people were given different sets of graphs in different orders"
+"I think randomization was used because everyone had different sets."
+"I think that randomization was used. Each student received their own kit completely randomly."
+"The bags were distributed randomly, they were randomly distributed so that confounding variables would be lessened / eliminated (i.e. a bias of some sort)."
+"I would say that randomization was partially used because students were just randomly given kits with blocks in them and they (the student) did not know what was in them prior to receiving the kit.  "
+"I feel that the design of the groups were randomization, because we had no indication as participants that we were designated to certain groups. It also did not matter which bag we obtained for our tests, so it seems that the experiment was not specifically sectioned. "
+"While our class was not randomly sampled, I would assume most of the study was. It allows the results to be generalized."
+"In this experiment, I think randomization was used by having students pick their bags of blocks at random, which then may have produced differing sets of blocks to be measured on the online version of the study. I am assuming because this was an experiment there was a a control group and an experimental group to draw potential correlation and causation. In this study, I think there was a set of blocks given to all of those in the experimental group and a differing set of blocks to those in the control group, and these groups were selected at random based on which bag they chose. "
+"To eliminate bias and guarantee diversified exposure, the sequence or kind of block drawings exhibited in the experiment was most likely randomized. Different versions of the images may have served as treatment groups, but no formal control group was employed. These design components serve to guarantee that any discrepancies in interpretation are related to the visual design rather than the order or content itself."
+"Randomization occurred because everyone was given a random bag with random figures. "
+NA
+"Elements included random assignment and a control group to reduce bias and establish causation."
+"The study can not be generalized to the population at UNL or just people in general, because the people chosen were from our stats class not randomly selected from the University. There was no control group because we all took the same test and everybody in our class took it."
+"I think a control group was present to see if people who are not taking a statistics class had difference perceptions. Randomization was also used to control any confounding variables. "
+"The study examined several key variables. Chart type (2D, 3D digital, or 3D printed) and bar spacing (adjacent or separated) were categorical variables. The true ratio of the compared bar heights and the participant’s judged ratio were both quantitative variables. The error in perception, calculated as log2 error, is also a quantitative variable. Additionally, the identification of which bar (marked by a circle or triangle) was smaller is a categorical variable. These variables collectively helped analyze both accuracy and perception across chart types and layouts."
+"randomization because each shape was different and out of order so you were not influenced by a pattern or anything"
+"It was definitely a control group; we were all STAT 218 students. "
+"I think that the use of a control group was used because it was all stats students."
+NA
+"It’s likely the experiment included some form of randomization, such as random assignment of model versions to each participant, to reduce bias and variation. There may not have been a traditional control group, but comparing different model types could act as a form of comparison. These design choices help improve the reliability of the conclusions drawn from the data."
+NA
+"I think randomization appeared in if a person would be looking at a digital chart or a 3-D chart - I think this help eliminate people getting in this flow or rhythm in reading the charts and gives the experimenters more accurate information.
+
+The control group is present in the beginning test example and gave a good baseline to use as a comparison to the responders answers later on. 
+
+I guess you could say random assignment was used in having us choose our own bag at random since we didn't know what was exactly in each bag. "
+"I think randomization was present in the experiment because they needed randomness to determine whether 2D bar graphs or 3D bar graphs were easier for people to understand. "
+"Randomization was definely in this experiment but you randomly got a bag and you were selected by group because we were in the STATS 218 class."
+"Elements of experimental design that I thought was present in the experiment was repeated measures paired design as we had to repeat the estimates twice, one for the computer model and one for the 3D printed model. I think controlled group might be part of it as well if only college students were used for the experiment."
+"Randomization was used since the bags had a unique code. I did not look at the other bags to see if the specific shapes (circle or triangle) was on different heights of the blocks but this could also be a randomization used. I think there was also some sort of repetition throughout the experiment to compare if participants had similar responses. "
+"practice before the test starts. randomization in the fact that we come from different areas of study, so the results are generalized to the population. Maybe a control group present to set a baseline test so the results of the experiment can be cross-referenced. "
+NA
+"The experiment probably mixed up who saw what chart on purpose to keep it fair, and it might have had a regular group to compare against to see if different charts changed how people understood the info "
+NA
+"It’s presented after you find the hypothesis "
+"The element of the experimental design that  randomization or the use of a control group that were present in the experiment was how it asked to slide to smaller or larger."
+"Some elements could be used such randomization of the group, randomly participation of the STATS 218 students. That would be the sample size. Another element design I can see in the experiment, random assignment."
+"I think randomization, such as random students participating, but also control group, like all of the students that participated were in a stats class."
+"Control group would be the non stats students because they don’t have the experience of going through the course in which proportions were learned about. Randomization could have been used… Although more info would be needed on who else has taken the survey. If it is only this section of stats then it is not random."
+"Control group was present because the shapes didn't change but everything else in the experiment did. "
+"The use of a control group was present in this experiment seeing as it was sent to students who have experience in statistics. Assuming the experiment was only sent to STATS 218 students, there was not randomization. "
+NA
+"I think one of the kits was a control group and we were told to pick our favorite number so that randomized the process for the participant."
+NA
+"Randomization was used in the kit number because it determined the questions that were asked."
+"random students in the stats class"
+"I do believe that randomization was used in the experiment as we were told to choose a random number, and the graphs given to us were in no particular order. Since it was hard to apply random sampling to this study, (the participants were volunteers), the use of random assignment was essential to make this a true experimental design."
+"Randomization was present - the order in which the questions were shown is likely randomized, as was the amount of 2D vs. 3D visuals. 
+
+There was likely no control group present, since each participant would have had to answer all questions, meaning there was no way for the variables to not be manipulated. "
+"In the experiment there was random sampling because they were pulling from different courses to collect their data. I would also say there was random assignment because of the 21 different kits to choose from.    "
+"They may have mixed up the order in which the bars were shown.
+
+I do not think randomization was used because there was really no bias to prevent. Possibly the randomization of 2D vs 3D bars. 
+
+It is possible some people were only shown 3D bars and not 2D and 3D, which may help to understand people's perceptions and if there is significance in the bars that are shown. "
+"The main purpose for using randomization in an experiment is that it automatically controls for all lurking variables. In a randomized controlled experiment, researchers control values of the explanatory variable with a randomization procedure."
+"The order that the questions were grouped in could have been part of randomization because each person likely did not get the same order. Additionally, a control group could be all Stats students that were experimented with. "
+"I believe that randomization was present in this experiment in order to prevent participants from anticipating or following a pattern in the trials. Randomization allows for different values to be tested and less biased answers to be given. Values on each table/diagram also could've been randomized lessen the anticipation or expectation of a certain value to be in a certain spot. "
+"There were independent variables, as well as multiple dependent variables. These were present because there was more than one thing being measured. There was also randomization, in order to prevent bias."
+"They may have had a control group of people who experimented in person to see if the results differ when someone looks at these objects on a computer. This would have given the observers a baseline to compare results from participants who completed the experiment on a screen to see if there is a significant difference. To minimize bias, the researchers probably randomized the selection and order of images we saw, having them possibly computer-generated. "
+"The elements of experimental design, I think were present in this experiment are randomization, repeated measures, and standardized instructions for all participants. I think randomization because trials were probably given at random to different people. On the charts I was given there were more letter groups then what I had to answer for so I'm assuming that other people got questions I didn't and vice versa. Repeated measures because people answered multiple questions for each chart type. Standardized instructions because everyone got the same clear instructions, that were used for each trial. "
+"The experiment used randomization by having an order of trials that are randomized for each participant. "
+NA
+"I believe that the use of a control group was utilized for this experiment because it was specialized for STAT 218 students who agreed to take the experiment."
+"The letter locations probably changed randomly so people couldn’t just memorize patterns. There may have been “easy” rounds as a kind of baseline, and then harder ones for comparison. "
+"Since all students in the class could choose to participate, I would say a convenience sample was used in the experiment design. It's hard to know if there is a control group since I have only seen one version of the test (the one I took). For the same reason, it's hard to know if any randomization was used. I would guess a control group of some form and random assignment were used so that a cause-and-effect conclusion can be reached at the end of the experiment."
+"i think randomization of questions and data couldve been used in the experiment- they could have pulled from a pool of questions so they could determine how well they can associate the two factors in the experiment "
+"I think the experiment used randomization because people were probably randomly assigned to different groups, like some people saw just the digital charts, and others may have had access to the 3D-printed ones. This helps make sure the groups are similar and that the results aren’t biased. There was also a kind of control group, which would be the people who didn’t have access to the 3D-printed charts. That way, the experimenter can compare how each group did and see if the physical charts made a difference.These parts of the design help make the experiment more fair and help the results be more trustworthy."
+"Randomization likel occurred in the placement of letters and their associated values on the heat map to prevent learning effects or pattern recognition. There wasn't an obvious control group, but the \"practice trails\" acted as a sort of calibration phase to ensure participants understood the task before actual data collection. The use of standardized color scaling for the heat map acted as a controlled visual environment, so every participant was interpreting the same scale."
+"Control group would be the questions are all the same for each student who participated. Randomization is that the results are anonymous, at the end there is no way of knowing which students provided which answers. "
+"Some elements represented in this expierement was the use of randomization. This helps distribute any unknown of the group and from bias and unsuring the the least amount of errors. "
+"some elements of the experimental design that i think were present would be randomization because it was random on who would get the experiment and everyone got different codes so the experiment was different for everyone. "
+"* questions were likely randomized to help control for possible extrinsic variables/influences between trials
+
+* demographic questions were given to help organize survey results and again account for extrinsic variables like in person vs online
+
+* this survey has likely been given to multiple classes and thus replicated with different groups to get more comprehensive results"
+"Both comparison and repeated elements were used. Comparison between the two types of 2-D v 3-D tests showed the levels of accuracy attainable. If the goal was to test how the human eye differentiates color shades for example, the inclusion of a second test type using repeated coordinates would offer a truer result as this gives the researchers context and contrast to another method. Additionally, variable control was used, since all of the students (presumably) had the same coordinates, and the same coordinates were used for both test types. This was present in the experiment in order to provide more evidence against the null, which would assume that all answers are being chosen at random. "
+"The letters were often the same in the two charts so that would be a control group. This was done because it would isolate the variable of 3D vs. 2D and we would be able to determine which chart was better. "
+"One key element is randomization. Students were allowed to try out both types to make sure there were no bias during it. Students are also both genders so that helped because maybe females score higher at tests like this, but with both genders preforming that helps. "
+"I think use of control group because the location are staying the same, but the letters are changing and we are reading and interpreting the plot differently each trial. "
+"I am guessing that respondents were randomly assigned to groups that determined which pairs they were quizzed on. "
+"I think randomization was an experimental design used because it was being generalized by a computer. "
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"People were asked whether or not they wanted to participate so it was voluntary. I personally am not sure if I was in the control group or not so it is blind."
+"I think the randomization factor would be that the people participating are random. I think the control factor would be that everyone is. taking the test on their computer. Something that could be different is the order of the questions. This is the case because the researcher does not decide who is taking the test. He just gets their results without worrying who the person was that took the test. The only information the researcher knows is the persons favorite zoo animal, age, and level of education."
+NA
+"it was randomized, sure students choose to complete this survey but i would still say its a random group of students."
+"I believe every graph was randomized for every student. I also believe the practice was meant to be a bit of the control group."
+"i believe that the use of convienace sampling is used because it is using stats 218 students to its benefit, the control variable would consist of the stats 218 class. "
+"I think that Stat 218 students and are the only ones allowed to participate in the experiment. I think the entire study is randomized with no control group. I think everyone got the same survey, and results of accuracy regarding the smaller bar in the graph will be compared. "
+"Randomization was likely used to yield a large and wide variety of people with little bias toward what the experiment was testing."
+"I think that they probably had a control group where all the bars were essentially the same and they probably had a lot of randomization in what order the graphs were presented. But randomization in sample size probably isn't there because it's all stats 218 students completing an assignment."
+"1. Random assignment of participants to groups receiving different chart ratio orders which distribute order effects
+
+2. Within-subjects design where each person sees all chart types to reduce variability
+
+3. Control group receiving only 2D charts to compare 3D formats to"
+"The use of a control group was present since only STATS 218 students were the ones who took the survey, so there could be more knowledge of interpreting data compared to the general population. "
+"Randomization was definitely involved since this was offered to all STAT 218 students who were able to choose their involvement. This population is also large as there are multiple sections to this course. I am not sure if there is a control group however, the control may be the correct answer to each question in the survey. Therefore, how far off from the correct answer may be measured and used to observe how well students are able to perceive statistical graphics. "
+"I believe that there is a control group and random assignment. This is a double-blind study so as to not cause any bias. This experiment gets a random selection sample by volunteering participants. The researchers could use random assignment as to what participants see what pairs of graphs and in what order."
+"there was a use of random graphs (to me) and colors presented to me, I also think they could have been put in a random order for each person doing the experiment. 
+
+the treatment group would be the STAT 218 students participating in this experiment
+
+I think the control group would be the people who did not choose to do this study, because for this case you either had to do the experiment or you did not do it. 
+
+random selection of results could also be used to compare each persons answers
+
+ 
+
+ "
+"I believe the experimental design used in this study could have been the use of a control group, considering only members of Stat218 were allowed to participate in this study."
+"The researchers told us at the start of the experiment that there is a lot of randomization used in the experiment. I think the reason for that is because it allows for a lot of different results and perspectives to be researched. "
+"Randomization was used as participants all received different sets of graphs to examine. A person wasn't assigned to a certain set of graphs and it was up to random chance on which set of graphs they received. "
+"I think that it's possible for some group of randomly assigned students to compare 2D graphs and another group of students to compare only 3D, and perhaps another group comparing both 2D and 3D graphs. Randomization may have been seen to obtain the most accurate results without any bias or influence."
+"I bet all the same bars were used because its the best way to judge peoples accuracy if they are all the same."
+"gaps between blocks were used as elements, also dimension was an element all used to make the experiment a little more challenging and intriguing."
+"I think there was randomization because everyone is going to answer differently and there are females and males. Also from only seeing my results I don't know if everyone is getting the same graphs or different graphs. "
+"Randomization was not used because it was offered as an extra credit assignment in class. There was likely a control group in the experiment otherwise it would be hard to draw conclusions from the data. "
+"The randomization of everyone getting 5 out of 7 of the graphs to randomize what graphs were given the the consumer. "
+"Randomization, shapes were randomized "
+"I think that there is randomization but not a control group in my opinion, because there isn't one group that is left alone or not studied. There is randomization in how people were shown the graph types and random sampling because the survey was put out to students, but they were not required to answer. The random sampling does make it so that others outside of Statistics 218 can take it as well. This helps enlarge the generalizability of the study."
+"I think that it was randomized because anyone could take it. The controlled group was the pictures that were shown to us."
+"control group would be the symbols representing the words. The randomization would be changing the size of the triangle and the circle"
+"I believe it would be randomized, as it's being offered to college students with no control over who they may be. A control was presented at the beginning of the survey."
+"I think a control could possibly be used if someone was presented with all two-dimensional bar graphs, and others with both two-dimensional and three-dimensional. This could have been used to compare the differences in correct answers between the two dimensions. I think recording which bar graph was smaller sets a good baseline for each response, making sure the person is able to understand which bar is the correct bar to be observing and comparing to. "
+"I believe that the examples given were randomized each time but the questions in general all followed the same format"
+"control group. Asked if were above the age of 19 and in stat 218 or related course. It was aimed towards UNL students. "
+"I think randomization was used in this experiment, they randomly selected a group of participants to do this study. The experimenter decided it would be more efficient to randomize these participants to get a better idea of the average intelligence."
+NA
+"I think that each person was assigned different bar graphs in different orders but whether the subject was a stat 218 student or not was known because we were asked and the test seemed randomly generated "
+"I think this was controlled because its a survey for students in the stats class, if it were to be randomized it would be for random people. "
+"They used randomization through the test, providing the users taking the survey with random bar charts that were examined. "
+"I think that each participant received random questions from a question pool. 
+
+This is because then each participant has an equal chance of getting the questions correct.  "
+"I think that randomization was used in this experiment; the experimenter could have randomized the the different graphs in different orders based on dimension and color. "
+"The use of randomization and a control group was likely present in the experiment to minimize bias and isolate the effect of the independent variable on the dependent variable. Randomization helps ensure that groups are comparable, while a control group provides a baseline for comparison, enhancing the experiment's validity."
+"Randomization was used because the ever person got a different graph. "
+"Groups were randomly assigned. There didn't appear to be a control group and students were randomly assigned after demographics were collected. A control group wasn't necessary because everything was based on how someone perceived something."
+"I believe there we more then just bar graphs"
+NA
+"I think the presence of randomization was present because anyone could participate in the experiment. "
+NA
+NA
+"There could be randomization present in the experiment, and there could be a randomization of graphs given to each participant. There could also be a control group where each participant got the exact same chart to see the difference in their results. "
+"The color and the width of the bar are random. "
+NA
+"Within-Subjects Design: Since all participants were exposed to both 3D and 2D charts, this within-subjects design allows for direct comparison of each participant's performance with both types of charts. This setup can help control for individual differences, as each participant serves as their own control.
+
+Randomization of Presentation Order: To minimize any order effects (where participants might perform differently simply based on the sequence of chart types), the order in which participants interacted with the 3D and 2D charts could have been randomized. This helps ensure that any observed differences in accuracy or comprehension are not biased by the order in which the charts were presented.
+
+Standardized Instructions: All participants likely received the same instructions on how to interpret and analyze the charts, ensuring consistency in the experimental process."
+NA
+"I assume we were in a controlled group, so data points should be consistent from person to person. I honestly don't remember the experiment very well, since I did it like a month ago, sorry if I filled any response in wrong. "
+NA
+NA
+NA
+NA
+NA
+NA
+"I do not believe that there was a control group as there was not a \"treatment\" assigned in which data could be collected on an experimental group that did not complete the survey. I believe that aspects of randomization could have been included if the bars with specific differences in size were pulled from a larger pool or question bank. "
+"One that was certain was manipulation of the variables, as the presented rectangles would vary between each round of the experiment. This would allow for them to test for how well a person responds to the statistics of the bar being 2D or 3D. They may also have to use blocking if they are to randomize between the groups because there may be very different results if they did not acknowledge there may be a difference because of either taking it in person or taking it online. Thus, this would prevent this to be confounding variable in the study if they were to use blocking or employ the use of a control group."
+"Randomization was likely used because the participants were randomly assigned different bags of models or different question sets for the online version. This randomization helps to eliminate confounding variables. A control group was likely used to ensure that the observed difference is due to the manipulated variable. "
+"asking similar questions set up differently to try and trick the student. there isn't much randomization since it just stats 218 students and the control group could be people who have already taken stats 218"
+"Well, it doesn't seem like the sample is completely random (looks like it mostly uses STAT 218 students) and there's an incentive (extra credit) so this already presents a couple confounding variables. So I imagine that the population in question is either STAT 218 students or is testing something that differences in demographics wouldn't really affect. I  would guess that maybe some of the students particpated were randomly given a control set (figure sets of all one style). This control would be helpful with attributing any noticeable results in the experimental groups to the treatment itself (figure style). "
+NA
+NA
+NA
+"the element of randomization was present because the number were randomized through out the bar graphs. The use of a control group was also present because for each question one bar in the graph was used as a control to help base your answer towards the other bars in the graph in order to compare them. "
+"I think randomization was present in this experiment because the graphs were all random."
+"Randomization because there was no previous data collected on the participants besides that they were students. "
+NA
+NA
+NA
+"We were given pictures to look at and analyze which tells us that it is an experiment because we were given something of researchers to examine."
+"There was a control block that was a certain size every time so we could compare the other block to it and get accurate results. There was randomization on which comparison was given to us, so we didn't know the correct answer. "
+NA
+"The use of a control group would be University Students, past or present. Past included for a larger control. This is because anyone not in the control group would have access to alternative resources. "
+"I am not sure how a control group would be used in this experiment. Also, I am not sure how random the test was because the students participating were from the same stats class."
+NA
+NA
+NA
+"Standardized Instructions:
+
+Presence: Providing the same set of instructions to all participants.
+
+Reason: This ensures that all participants understand what is expected, reducing variability in responses that may arise from different interpretations of instructions."
+NA
+"A control group in this experiment would be that it was only available to STAT 218 students. A randomization would be the number of people, their age, and their guess. "
+"If the participants were randomly assigned different types of graphs or data sets, randomization would've been a factor in this."
+"Randomization: Randomizing the presentation order of models (A or B first) could control for order effects and prevent bias.
+
+Control Group: There might not be a clear control group, but the experiment could establish a baseline comparison by setting the height of one model to 100 for consistency.
+
+Repeated Measures: If each participant assessed multiple sets of shapes, this design could help identify trends in estimation accuracy across different types."
+"I think the extra strips were in there to see if people are more likely to look at the collective of strips as a whole group or if they'll look at just the individual strip. The reason why I think that is because there were about 6 different strips on each side but only one had the shape on the strip and the researchers probably wanted to see if people will interpret data differently as a group of strips or an individual because the researchers   wanted to see what different ways that people's brains processed data. "
+"I believe that randomization was present in this experiment because the experiment had the subjects going back and forth randomly between reading the data on the computer and reading the physical data."
+"Randomization was used because there were multiple different sets of graphs that were randomly assigned by a computer. "
+"Randomization was observed in the bar charts administered to each participant. There was also randomization in the kits given to each participant. The use of a control group could have been in the group of husbands and their wives or previous Stats 218 groups."
+"Randomization was use to assigned the difference between the shape size for participant to guess. Control group were also present as having the printed and digital type of chart. The reason to have this elements its to minimize bias. This help experimenter ensure reliable comparison between the graphs. It also supports the validity of the result from the experiment. "
+"One element of experimental design that was used was randomization. As each participant was randomly assigned to each of the 3 different objects. Random assignment helps to eliminate bias and ensure that each participant has an equal chance of being exposed to each model type."
+"Randomization was used because students got different 3D kits.
+
+Control group was used when judging the sample graphs given before answering the questions."
+NA
+"I had to redo the assignment a few times because my computer site was crashing and each time I had different images, I think this was randomization because I answered the 3 questions they asked at the beginning exactly the same each time. I wonder if they gave everyone in the control group the same images."
+"I think randomization was used in this experiment because it gave random questions to see what the participant would choose"
+"The control group was the same shape for the graphs, it was either a circle or a triangle. I believe this was for us to correctly identify which two graphs were being compared and not change the shapes so we did not over think the experiment "
+"I think it is possible the 2D model was the control group. "
+NA
+"I think the researchers used randomization to randomly order the different bar sizes for each participant."
+"I would say the elements of randomization would be the different types of bar graphs that were used."
+"Researchers may have randomly assigned participants to different experimental conditions or presentation formats to prevent bias. A control group in which both bars are simply labeled as \"Bar A\" and \"Bar B\" without any indication of their heights might have been used as a control group in the experiment. This group would not have received any contextual information regarding the height of the bars. Researchers can determine the specific impact of the contextual information given by comparing the replies of participants in the experimental groups to those in the control group."
+"The control group is students in stats. As an intro course, students are likely from various majors making the group more random than a study that only includes Stats upperclassmen. Due to the promised extra credit the observational group of students may skew to student who really care about grades and those who worry about failing. This may leave out students who are more middle range"
+"There was probably a control group present in the experiment as it is a very important component of research that uses an experimental design because it is a main point of reference when trying to figure out if your results are statistically significant or not. I also believe there was probably a randomization component used in this experiment because it is important for a researcher to use a randomized population so that they do not get biased results."
+"The control group where the graph was shown straight on was probably shown to see if the one taking the test could interpret data correctly anyway.  "
+NA
+"Randomization may have been used in this experiment. There could have been different questions for different groups of people to make sure the specific questions or models weren't creating bias in the experiment in any way. "
+" Generally, elements like randomization help ensure that the sample groups are representative and reduce bias, while control groups serve as a baseline to compare the effects of the experimental treatment. These elements are crucial for establishing causality and enhancing the validity of the experiment's results."
+"Randomization - the order in which participants view the graphs or respond to questions"
+"some randomization would be the chart that you were given to answer the question with, it is experimental because there is multiple different ones that you could have. and the control group could have been the ages of the participants, because they asked your age at the beginning of the experiment and they probably put those into a control group.  "
+"At least for the online version, there is a level of randomization versus if it was done in person, some questions allow students to choose the object and that may or may not be randomized. "
+"use of a control group, in-person students
+
+randomization because no names or identities were used"
+NA
+"Blind study "
+"Some elements I think were present were the use of a control group and random sampling because the subjects were all in stats 218. "
+NA
+NA
+"I think that randomization was present in the experiment and the responses were up to random interpretation. The control group in each question represented 100% because it was based upon the lower bar graph."
+"There were various different types of bar graphs that appeared in different sizes, colors, and some were even in 3D while others were 2D."
+"I believe that randomization was present, as when asked which selection of 3D printed items we had nearly 20 or selected as an online student."
+NA
+"I think randomization was used in the types of graphs that were looked at as I would be surprised if gender or age was a determining factor in choosing which ones we looked at. "
+NA
+"i think that randomization was used in the experiment to reduce selection bias, i think there was a use of a control group with the correct answers to be able to base the experiment results off of. "
+"Randomization may be present in this experiment if participants were shown questions in a random order, allowing for better results. "
+"I think randomization was probably used in the experiment, used to randomized which graphs we saw. They probably used this to make sure students didn't get all the same graphs or to have different orders to make sure the results are true. They may have used the practice ones in the beginning as a control group to make sure we understood everything. "
+"Randomization"
+"i think that would be the random picking of a graph kit and so when you have the online students take it then you can have them participate in the experiment, but you know what they are getting for the random graphs an the in-person students get to pick."
+NA
+"The randomness of the experiment comes with not knowing who would be enrolled in the class that is participating. We represent this randomness as a part of the class."
+"I am not sure. I am still very confused about the purpose of the experiment."
+"i think that use of a control group was present because they did use 3d and 2d bars."
+"Given the experiment's scientific nature, it likely incorporated elements of experimental design such as randomization and the use of a control group. Randomization helps minimize the effects of confounding variables by randomly assigning participants to different groups or conditions, increasing the study's internal validity. Additionally, the inclusion of a control group allows researchers to compare the effects of the experimental treatment or intervention against a baseline condition, enabling a more accurate assessment of its efficacy."
+NA
+"The element of participant bias, we did not know what the experiment was measuring and therefore could not alter our results due to bias."
+"In this you can see randomization, where the blocks are randomly choses for the audience, it also uses blinding in which the audience/groups do not have any idea of what group they are in. 
+
+Both of which are used to prevent bias in the study throughout. "
+"Randomizing the experiments  ،  
+
+It helps you get the best cause-effect relationships between the variables"
+"Random assignment, because we were randomly given different graphs. "
+"I think randomization was present during the experiment they could have been assigned different conditions present to them and could of caused different observations. I bet there was a control group such as participants estimating the height of the bar graph without an manipulation to it. The last one I think that was used is definitely counterbalancing, where multiple conditions were present, and they had effects evenly distributed across all participants. "
+NA
+"randomization because there were multiple questions each with different heights"
+"I think digital design was really used just so it could reach a large area of people "
+NA
+"Randomization in the process of asking for volunteers in the STAT 218 classes rather than picking students. The researchers would not know who would volunteer for the experiment."
+NA
+NA
+NA
+"An element of experimental design that was present in this study were the participants. All participants were random, and had the potential to be from any grade or major."
+NA
+"The bag that students grab is random, and the bar that we grab out of the bag is random. This is so we cannot preference which bag of graphs we get or what graph we want to look at. "
+"Randomization - as the experimenter placed students into random groups and then got their response"
+NA
+NA
+NA
+NA
+"I believe that the experiment was designed to have a bunch of randomization due to us having to find the general patterns across all the images given. "
+"The experiment was random because it included all students in the Stat 218 class. I don't think there was a control group but there may be a separate study section that I do not know about. "
+"This test was stated to be a replication, which is an element. By stating it was a replication, they could be looking to replicate a certain set of results. The conditions, as in the physical and online models, could be an element. By having the online and physical models could change the results of accuracy. The group, which is us as students, could be an element. As statistics students, we may be more inept to the ratio differences. The amount of time or amount of questions given could also be elements. These can either increase accuracy as time or number of questions increase or, conversely, decrease accuracy as less time or questions are provided."
+NA
+"It's possible that there was a control group to counteract the confounding variable of testing statistics students on a statistical problem."
+"I do not remember. "
+"I think it was observational study because it just conducted an experiment and recorded the results. It was randomization because it didn't assign a group under conditions to compare. "
+"randomization was the students that actually did the experiment."
+"randomization was the type of block you were going to get, and which was going to be taller and shorter. "
+"The use of randomization was present in this experiment because the surrounding bars that were not being measured as the small bar or larger bar still had different heights which you could gain a better understanding of how tall the bar you had to estimate was. The use of a control group was also present in the experiment because of the first question. It asked us which bar of the two that were labeled with a circle, or a triangle was shorter. So, this controls the students in Stat 218 to pick between only the two bars that were labeled and not all of the bars that were present."
+"lots of different graphs with different heights "
+NA
+NA
+"I think that use of a control group was certainly used."
+"I think the randomization comes from the random set of towers one is assigned since each person was assigned a random set of data. "
+"Well, our part of the experiment was just designated to the Stat 218 classes. So we could be a control group or the experimental group. We also could have been compared to a randomized sample of people as well."
+"I don't know if there was a control group, sampling seemed to be convenience sampling"
+"I believe there was probably a second group. Maybe the second group had graphs with numerical markers. They probably tested to see if there was a difference in how accurate the two groups were. "
+"The Control group was having multiple bars in the graph that where different heights and being given the height of one of them. "
+"I believe that they started the slider at 50 to make it more fair, since people may have evaluated the smaller bar as smaller than it is if it started at zero. Along with that, I think that they did the two graphs with the bars on different graphs and the bars next to each other on the same graph to see how people change their perception of it being smaller or larger than it actually is more clearly."
+"I think the q was the control group because it was consistently “the same”"
+"The types of graphs used"
+"How many people got mostly model 1 or model 2, if some people only got one model? "
+"this would be a control group because it wasn't just a chance it was obvious to what the correct answer was. although the questions with the bars could be considered randomized because we weren't given any numbers. "
+"I think the control group was the blocks provided, but it was random because there were so many students participating"
+NA
+"I think in the experiment there was also the experimental group. So people that were in a manipulated situation respect to the control group. "
+"Randomization was used in that all stats students were required to participate and it is a class that many different majors have to take. There could have been a control group for just the online images and one for the physical models in order to further prove that those who used physical models to determine difference were more accurate than those that saw online images."
+"Randomization was used through different trial orders, and comparing multiple chart types acted as the control. Practice trials and repetition also helped make the results more reliable."
+"I think the randomization of students was in use. I think the control group might have been the graphs. The graphs all looked the same, the students may have been randomly chosen from classes as we didn't know we'd be doing the experiment this semester. "
+"Use of control group would be Stats 218 students."
+"It wasn't quite random cause it seems only stats students were used. But I'm not sure who/what the control group might be."
+"I think the randomization was all of the different groups of students and the control group I do not believe was present, since we are all students going in with varying knowledge of statistics. To be a control group something has to be changed and when I looked at the physical heat maps of the student next to me his were the exact same. So, I can assume all students got the same heat maps. "
+"* Use of how many blocks are higher
+
+* The control group is only two diffrent models"
+"I think randomization was present in the experiment because it was all kind of odd, some of the questions were on computer then switched to the models, some were different colors and heights that add to the random. The instructions were not super detailed with made me think more about the heat maps."
+NA
+"I can't say whether there was a control group or not.  This is because I don't know the full experiment design.  I did not see a control group, but I also don't know the research question.  Perhaps I was a control group, perhaps not.  
+
+I have the same issue with randomization.  There was some randomization, certainly, like with how diverse our class was.  However, if you were measuring how well UNL students know stats, it wasn't random.  
+
+On the bright side, there is definately a blind in place.  I have no clue what results you are looking for, so I cannot try to skew results even if I wish.  "
+"Not sure, it was not a random selection but maybe controlled by the types of models we use?"
+"The figures were different as well as largeness of the difference."
+"I think the first graph was a control group due to it being the most basic and the others were the test graphs. "
+"I think that randomization could have been used. They could have given some people different letters than mine to look at, or even a different model. I dont think I looked at every letter, so some other people might have. "
+NA
+"I think it was not a random test because the students were give the option to participate and only certain students did the experiment. "
+"the control would be that every participant in the experiment was given the same data sets and asked to same questions to make sure that the results of the test are reliable."
+"I think control groups and replication were used to see what variables swayed from one group to another."
+"I believe that randomization was present in the experiment due to whenever I answered a question, it seemed that the next question was randomly generated. I got seemingly the same question multiple times, if that means something, I'm not sure but it indicates to me a form of randomized generation of the questions."
+"It was definitely the use of a control group. It was made a requirement for all STAT 218 students to participate, which cannot be used as representative data to generalize or compare students across the United States. An accurate random sample would include students from all classes and majors at UNL."
+"I think it was dependent study that had a control group. The study had to be dependent because it would deliver the best results. Using the same control group decreases the error factors."
+"The use of the two categories of models that were used in the experiment seem to be the different control groups used in the experiment. "
+NA
+NA
+"I think it was a randomization for the expirement. "
+"There was definitely randomization as the figures looked different each time, and the questions asked had different letters with different heights. This was probably to test with random scenarios to get the most accurate result."
+NA
+"Since all participants were from the same class, the data cannot be used to make broader inferences about other groups. I don't believe there was a control group as all participants were assigned to the same group. I believe each question was presented in a random order to each participant in order to control for some practice effect."
+NA
+"I think randomization was used during this experiment because we got to choose what model we wanted to use and for the computer aspect of the experiment, we got asked the same questions in different orders."
+"I think the questions may be randomized, because a lot of letter pairs appear on the models and not all of them were used, but I don't think there is a control group for this because I'm not sure what the control group would be."
+NA
+"I think the randomization of a entry level stats class was at play. I would think that a control group would be used, and they complete the experiment all in one sitting and don't have it spaced out to see if they apply themselves more or less. "
+"Randomization because of the random assignment of different blocks paired together to compare. "
+"The order of questions was random, but the use of the control group was poor because the groups are not representitive of all students but rather just those taking statistics."
+NA
+"There was probably a control group because to my knowledge the expirement was only done with stats 218 students "
+"The shades of blue changed each time which means they were randomized. "
+NA
+"Maybe only a portion of the students were studied ie: Top vs bottom of the class. "
+"Control group was present because everyone had access to the same blocks and materials for the experiment. If we all had different numbers/blocks to add values to, you wouldn't be able to compare our results with one anothers."
+"Potentially the two spots of the heat map or the heights and depths present in the heat map were randomly generated, or had a large pool to select from. This would prevent common maps from being shared or studied or discussed? Keeping a lot of the colors the same would help prevent color blindness issues."
+NA
+"i think the randomization element was used by making each question have different values, instead of having it be a gradual increase in numbers each question."
+"I think the element of randomization was used and this allowed you to go through the control group and then be able to be randomly selected for the models you were supposed to use. "
+"Randomization was included, as the order of the charts was always different. Control of variables was also present, as the only thing that changed was the type of graph presented to the participants. Standardization was also included because all of the participants saw relatively the same questions. "
+NA
+"I think the different designs or one of the designs was a control group because it was easier to tell the difference between the heights."
+"I think that the blocks we were given were randomized."
+"The control group was over NFL teams which may create a different outcome than college, and there was also no differential between the type of turnovers that it was (int or fumble) that could change the design. "
+"The experiment was completed by students of different majors. The control group was propbably the TAs. I was one of the students that completed the experiment so I was not in the control group."
+"randomization of the letters and shapes "
+NA
+"I think that randomization was present because there were different blocks in the bucket with mine"
+NA
+"They are likely using the experiment from the 80s as a control group and the new answers by students as the experimental group. Students are also given a random set of 3d printed objects to look at. "
+"Randomization was present because everyone had an equal opportunity to participate in the study. "
+"Use of a control group because only statistic students were able to participate in the expirement."
+"Randomization of the bar graph models for each student, a control group could have been one bag of models. "
+"the randomization of the experiment is the group of people who participate in the experiment. "
+"Control group is the 3d prints because everyone uses the same types "
+NA
+"Randomization, because each person chose a different set of blocks and it can show a difference based on which one they chose."
+NA
+"The people who did the experiment were randomized but I feel the design of the experiment and what they gave was control. But the people were random. "
+"The students used different graph kits which is randomization"
+"randomization was present because random students voluntarily participated in the experiment and were given the same type of variables. "
+"I think the random participants helps make a change. "
+"Randomization for sure, we weren't assigned any bags in particular, we just grabbed whatever was available. Randomization gives better results in the long run. "
+NA
+"The use of a control group with statistics students and observation of different bags of graphs. This is because of the way students will respond to answers based on the graphs they each have. "
+"I think randomization was used because we were told to pick the objects out of the bag at random. "
+NA
+"There was randomization based on what bag of blocks we grabbed. There was also use of a control group which was the initial height you were shown. These were used to get an accurate result that varies from person to person"
+NA
+"Randomization was used because it assigned students in a sample to different conditions. "
+NA
+"I think randomization was used because we randomly assigned percentages to different bar graphs when comparing the height of the triangle bar graph to the circle bar graph."
+"The group that was chosen to do this study was Stats 218. Then it can be compared to the control group to see if the answers of the study are different or similar in any way. This can be based on level of difficulty, age, gender, etc. "
+"control group 
+
+No，There are no exact numbers to count"
+"One thing that was random was the types of 3D model graphs that each random participant received. The control groups were the graphs that were shown to us on the website where the experiment was being taken place. "
+"Randomization of which kit study participants selected was present. This randomization allows finding to be extrapolated to a variety of 3D graphs rather than just the specific set that any given participant is given."
+"I think it need to be limited to one group of shapes and figures to makes people solving the problems. The different groups of shapes and figures stand as independent variable makes the data out of control."
+"Some elements were random assignment, because they handed the bags out to anyone. The choice of the graphs were also random by the fact that I could pick any color or size first, but not random by the fact that I eventually had to pick all of the graphs. "
+"it feels like everything was randomized and that there were no control groups in class but I may be wrong. It felt like you could pick almost any physical piece given to you and use it as part of the experiment which feltlike it was not controlled. "
+"In the paper, it stated that the order in which each participant viewed each of the graphs was completely randomized. The control group was the \"sample\" graphs provided prior to the experiment. "
+"I think randomization was used, as it seemed the questions were given in random order. I do not know what a control group would look like in an experiment such as this, as it is based on perception. "
+"It was randomized in which participants were assigned random charts and bar graphs to look at. The control group of college students removed the bias of age or gender as the class was around the same age and eventually split between male to female. If this experiment was done with students and faculty then you might run into biases of sight as older people typically cannot see as well as younger people. Also giving students random charts to look at made sure they didn't collaborate and give the same answer as their partners. "
+"Randomization could be students in a class."
+"Since there was an option for non-stats 218 students, I am assuming this experiment is trying to randomly sample the college population. We were also randomly assigned kits, which prevents spreading answers/keeping expectations low. That effect means the data would be more genuine. "
+"I think that the randomization of giving the classes different bags and the random students who signed up for the class gave the experiment randomization."
+"I think the randomization comes into play with the bags being given out, and also the graphs we decided to choose. On the other hand, we had to answer questions about each graph so it was just a matter of time before we saw them all anyways. I think this is going to be a cool way of seeing which observational unit picked what graph and what they thought the results were with the size of each bar."
+NA
+"These elements of the experimental design help enhance the validity and the reliability of the experiment by controlling for potential confounding variables, while also minimizing bias. "
+"A controled group of questions "
+"Random assignment, gender variation. To lessen confounding variables."
+NA
+"In the end of the experiment, there were multiple questions that made sure you had answered for every single block at least once. This is because they wanted data on every single graph. "
+"Oh, I don't know. Certainly, there was no randomization. I don't imagine there was a control group. I think that not letting participants know what the experiment is about is part of the experiment. If I knew exactly what the researcher was studying, it might alter my performance. Since I don't know what the researcher is studying, or much of anything about the design, it is hard to say."
+"I would say randomization, the participants in the group were individually assigned a numbered bag to answer questions about, the same numbered bags were used repeatedly with new participants."
+"They used a control group by having only certain shapes in the bag, and having many shapes on the computer. These bars were all different sizes and colors. "
+"Randomization was present due to all the different sets and all the different heights."
+"Randomization: Order of when the charts were presented, choosing which kit to use. 
+
+Controlled: The setting where it took place, the task was the same for all participants
+
+They were present because they needed to represent the validity of the experiment and study they were trying to perform. Randomization helps reduce bias and reduces the risk of having the study manipulated. The control group helps keep variables consistent to get accurate results. "
+"The control group might be the bag we chose, yet I cannot depict a certain control group. It was random which bag we got though. "
+"Randomization of people from the stats class."
+NA
+NA
+NA
+"The students are the control group since the students are the ones experimenting finding out which shape or block is taller than the other. "
+"There could have been a control group, maybe they could be given only physical or only digital bar graphs. Since there were different sets of bar graphs, one can assume there was an element of randomization as to which sets of physical bar graphs the student would use. "
+"Participant randomly chose kits, and all students participated, so there is no bias in the sample. There may have been a control group I was unaware of."
+"I think the use of randomization was used since everyone seemingly had a different kit to use and the questions were randomized and didnt seem to be in any particular order."
+NA
+"I think it was a control group because only students in Stats 218 were examined and participated in the experiment. "
+" I think randomization was present because I had to randomly pick out blocks from the bag. "
+NA
+"The experimental design is a randomization because every students are required to participate in the simple task which is to choose from the set of designated blocks and answer questions based on the blocks"
+"I think the randomization of which bag you picked were represented due to the number of bags there were to choose from."
+"This was a randomized experiment. The only thing that the students performing the experiment had in common was that they were in STAT 218 at UNL. Besides that, we are all involved in different things and are of different ages. "
+"randomization - participants were randomly assigned a test kit to use 
+
+this element was used to ensure that the experiment remained random. "
+"I think an element of experimental design they used is a big sample because if all of the stats classes did the experiment there was definitely a large sample."
+"Randomisation was present in the experiment. People were randomly assigned to models instead and did not have the same exact questions."
+"I do think the experiment seemed to include a control group, seeing as it being used in a certain class removes a degree of randomness from the situation."
+"I am not sure, because everyone in STATS 218 was asked to participate so I am not sure how there could be random assignment, unless we all got different tasks or something?"
+"The elements used in this experiment were definitely assigned subjects to random groups in a random manner. I think this element ensures that only difference between the groups is the treatment condition. I believe this minimizes bias and allows for valid statistical inference."
+NA
+NA
+NA
+"I would say there was a minimum randomization as I noticed that mostly stats students participated in this experiment. "
+NA
+"There are many different people in the stats class that was being tested "
+"Randomization was present in the experiment. Each element of the experiment was randomly assigned to random students participating individually in the study. I believe it was done this way due to the design of the experiment and how it was ultimately planned and executed in the setting it was given in. It was set up in a survey type manner, rather than a controlled study type manner. It was most likely designed this way due to the limiting factors of it being done with college students who are typically busy and have tight schedules to adhere to which makes it difficult to perform a controlled study type of experiment. "
+"Randomization I don't think it present in the experiment because the experiment is just randomly."
+"random people where given random data sets, the grade boost given was the same across all sections of Stats, "
+"One element of experimental design that I think was present in this study was the random assignment of the particular set of physical models given to each participant. "
+"I was not able to chose the bag of blocks - they were handed to me I believe this randomization was used to make sure that we didn't all grab the same bag. "
+NA
+NA
+"Randomization was present in the experiment in the process of choosing an specific bar. Since they were in a bag, the participant can select which one they are going to select to submit the data about the distribution. "
+NA
+NA
+NA
+NA
+"Randomization was present because we were randomly assigned a set of physical bar graphs."
+"I think random assigment was used, Participants are randomly assigned to either the control or experimental group. This helps ensure that groups are equivalent at the start of the experiment and minimizes potential confounding variables."
+NA
+"I am unsure if there was a control group present but the graphs that were given would have been constants in the experiement. The number of questions were constant. It was likely random the order that the questions were in as at different times it would ask you to open the bag and pick a random graph. this is where the randomization would play a part because not everyone would be looking at the same graph. "
+"I think randomization was present in this experiment because kits were randomly chosen by the participants and there was no assignment of any control groups that we knew of."
+"* Receiving the graph in a randomly assigned kit
+
+* the ratios were randomly assigned
+
+* Each graph randomly assigned adjacent/separate comparison"
+"It randomly gave you different sized bars based on which kit you were given. And there was really no specific groups such as a control group and an experimental group because it was all randomized."
+NA
+"I think the experimental design was randomized but within a certain population, such as students who are in a statistics class. The randomization is to gain a better understanding and more accurate/significant data of a population."
+"I think that the questions were randomized, because that way if one student did the experiment, they couldn't give insight to another on the correct answers."
+"The control group could be a group where once the test is completed, the right answer is provided, similar to the beginning question. "
+"I think they were present in the experiment to make it more reliable."
+NA
+NA
+"The experiment is randomized because it is a class with different ages and students with different genders however it is limited to only Stat 218 classes which makes it somewhat limited. It does not include every major in the university and they may see the graphs differently. "
+"The control group could be the flat bar graph since it is the most commonly used bar graph. There may not be randomization among the people that take this experiment, because the statistic students are doing this to get extra credit which means most likely the statistic students in this experiment tend to get better grades and can interpret a graph better. "
+"Randomization was certainly present, as we were all presented with different kits using different heights. It seems unlikely that there would be a control group, seeing as we are experimenting on something that no matter what is open to human error, but not based on human opinion, if that makes sense. "
+"randomization because they chose random people."
+"I would imagine the kits were randomly assigned to the individuals within sample populations. 
+
+I think the control group would be the original data set collected from Cleveland and McGill, or possibly the data set created by statistic department faculty members.
+
+Having a solid methodology and observing participants under controlled environments (like designing the 3D bar graphs and distributing kits randomly) are also clear aspects of any good experimental study, and this study possesses both fairly clearly. "
+"blinding: students were given no prior information, which means they had no time to prepare, and results were more accurate. 
+
+randomization: students were able to volunteer for this, which means only those who tried were included in the experiment. "
+"Randomization, as there were different kits that could be assigned and the question order was also likely randomized. "
+NA
+NA
+"I think that the randomization was present through the random choosing of students (age and gender vary) but the control group could have been that everyone was using the same material (in their particular group kit number). "
+"randomization was incorporated with gender, age of participants. Control group were the model kits. These were utilized to add more variety in the results. "
+"The element of randomization was utilized. Within the group of statistics students, a random assignment of individuals participated in the experiment due to it not being a requirement for the course which can support the validity of the overall experiment assuming the number of students who participated was over 20. "
+NA
+NA
+"What order the visuals were in. This allowed for the data to be rotated and not attributed to a pattern."
+"The use of randomization was used as they had multiple graph packs that could be randomly administerred."
+"Randomization: The order in which graphs were presented to participants was randomized to minimize order effects and potential biases.
+
+Control Group: While there might not be a traditional control group in the experiment, the use of consistent control variables, such as bar chart layout, ratio comparison, and graph identification, were present. 
+
+Standardization: The experiment likely standardized procedures for presenting graphs, collecting responses, and measuring outcomes to enhance the validity of the results.
+
+These elements of experimental design were likely added to reduce confounding variables, enhance internal validity, and increase the generalizability of the findings.
+
+ "
+NA
+"The observational group was students seeking extra credit for this course. The pack of physical bars to estimate measurement seemed random. I am not sure what the control group would have been"
+NA
+"I assume that each kit had some blocks that were the same and some blocks that were different just to see how different students viewed the heights of the blocks differently"
+"A control group was used to see the different groups perception on the grouped bar charts. Two of the bar charts were grouped while the other 3 were stacked bar charts which would be used for comparison. This was used for the perceptional element of position which was what this study was for."
+"There were different bags and versions of the experiment depending on what code you had in the bag. To discourage sharing answers."
+"I think that randomization was present by allowing the student to choose each 3D graph in whatever order they wanted. I'm not sure how the kit was chosen for me specifically, but I assume it is randomized. 
+
+There also might have been a control group that was given the same kit. 
+
+I think these are present because it allows the experimenters to obtain the best, most accurate data if it is unskewed, random, and able to be compared to a control group. "
+NA

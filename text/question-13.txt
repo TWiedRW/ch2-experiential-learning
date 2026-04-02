@@ -1,0 +1,1631 @@
+"Circle and Triangle graph. Quantitative"
+"Model size- quantitative color- categorical"
+"The height which was quantitative and the other variable was the shape on the model which is categorical."
+NA
+NA
+"There were a few variables that were examined, one of them was being able to judge the size difference between the blocks which is quantitative. Another variable could possibly be genders which would be a categorical variable. Also, we are all college students which could be a categorical variable as well."
+"One variable could’ve been gender (categorical)
+
+another variable may be major (categorical)"
+"Each individual graph and what size they were, quantitative
+
+The individual and their selection is a categorical observational unit"
+"Number of blocks in a bag: quantitive
+
+whether a student participated or not: caregorical"
+"Size difference in the two bars, quantitative
+
+Physical or online bar chart, categorical"
+"-assigned either an adjacent graph or separated comparison graph (categorical)
+
+-estimating ratios (quantitative)
+
+ "
+"1. The response of statistic students to the 3D kits - Categorial 
+
+2. Effectiveness of 3D printed charts to their 2D rendered parts - Quantitative
+
+ "
+"The first variable was which peak in the chart was the tallest between the two. This is categorical. The second variable was how big the difference between the two peaks are and this is quantitative. "
+"2D vs. 3D graphs; categorical 
+
+A number out of 100; quantitative"
+"How close we were to guessing the percent compared to the other bar. This would be quantitative. Also guessing which bar was bigger, which was categorical. "
+"Interpreting 3D graph correctly- categorical
+
+3D compared to 2D- categorical"
+"The variables were the answers of the subjects on which bar as smaller. This can be a categorical variable "
+"More accurate description - categorical "
+"1) Type of graph (categorical)
+2) Student observations (quantitative)
+3) Student characteristics (categorical)"
+"the categorical variables were: type of chart (2D, 3D Digital, 3D printed), determining which bar was smaller, and whether it was adjacent or separated. 
+
+the quantitative variable was the number we put (on the slider) on the difference between the smaller and larger bar 
+
+ "
+NA
+"The bar graphs, percentages were quantitative. "
+"The variables that are examined are the blocks and the numbers which are all categorical."
+NA
+"The study was a little bit ago so I am going to do my best to remember, but we were asked to compare 2 variables in a bar graph and compare their hights based off how much of a percentage they were bigger or smaller than the other. They were quantitative variables. "
+"The explanatory variable could have been color of graph (categorical) and the response could have been accuracy of estimation of values (categorical). "
+"Height: categorical 
+
+color: categorical "
+"Variables that were examined were 2D chart v.s 3D chart, that would be categorical. And how big/small was letter A to letter B for a 2D and 3D chart, that would be quantitative. "
+"Variables that were examined include whether 3D digital, 2D digital, or 3D physical models are easier to understand/are better, which would be categorical and how close people are to estimating the correct lengths of the bars, which would be quantitative."
+"2D and 3D shape designs  - categorical 
+
+Perceived height compared to actual taller or shorter - categorical 
+
+Peoples ratio of judged heights - categorical (numerical) 
+
+ "
+"One variable examined is the ratio between different bars on a bar graph. This variable is quantitative because the ratios are number values. Another variable is the chart type. This variable is categorical because the three types of graphs are 2D graphs, 3D digital graphs, and 3D printed graphs. "
+"Correct bar chosen, categorical 
+
+Ration of the bar, quantitative"
+"Did the student guess correctly? Categorical"
+"Variables examined: Age, specific school (university), class, grades
+
+ Age: Quantitative
+
+Specific School (university): Categorical
+
+Class: Categorical
+
+Grades: Categorical"
+"The student's perception of height analysis - categorical
+
+Height of the building - quantitative"
+"Explanatory: Which block is larger (quantitative)
+
+Response: Student estimate (quantitative) "
+"The variables examined were the shape things we were given and it is categorical. "
+"the percentage of size one bar is compared to another -- quantitative "
+"Whether or not the student chose the correct answer- categorical
+
+the percent that the students guessed- quantitative"
+"2D or 3D = categorical
+
+Correct value or Incorrect value = quantitative"
+"What percentage of a bar compared to another in the physical/digital graphs - Quantitative
+
+Whether the graph/bar is physical/digital - categorical."
+"The variables examined are categorical, as we are testing understanding of graphs, which is kind of a yes or no question, you either understand or you didn't. A variable that could have been examined by this is if more students guessed values correctly on the 3D graph or the online 2D graphs."
+"accuracy of data to graph and it would be quantitative because it is a numerical response "
+"Whether the person said the point on the block was taller or shorter: Categorical
+
+The height the person said the point on the block was: Quantitative"
+"the difference between shapes and it was quantitative"
+"* heights of blocks: quantitive "
+"I think the variable is if they guess the right block and thats categorical."
+"Students answer- quantitative
+
+how accurate their answer was- quantitative
+
+ "
+"Graphs and percentages were given to the students, but finding if they choose the correct percentage is categorical. "
+"The variable examined was the different column sizes of 3D blocks. This would make it categorical.
+
+(*I did the online version due to a COVID diagnosis so I'm not sure if things were different in-person.*)"
+"whether or not the comparison of triangle and circle was correct-categorical"
+"One quantitative variable is the percentage/amount of difference in each bar. A categorical variable is whether the individual thinks one bar is bigger/smaller than another. Another categorical variable is whether the bar graph is a 3D model or graphic on a computer/screen."
+"I would say the experiment was more categorical than quantitative."
+"Accuracy of answers may have been a variable (ie. how close to the correct answer each answer was), and that would have been a categorical variable. Another variable would have been the participant within the study, such as if they were male or female, and that would have also been a categorical variable."
+"independent: form of data (categorical)
+
+dependent: accuracy of data interpretation (quantitative)"
+"The hights of the blocks were they variable examined and that is a quantitative variable."
+"They examined the estimated size ratio using a percentage. This would be mostly quantitative because they are valuing a number. They also could be testing if you are correct or not which would classify more as categorical."
+"Which graph was smaller which is categorical and what percentage the bar was in relation to the other bar which was quantitative. "
+"They were categorical and it was a circle or triangle. "
+"It was a quantitative variable that was determined as we had to always enter a number for the graphs. Then from the results we can conclude many categorical variables such as if age, gender, or any other variables have a trend with corresponding answers. "
+"The variables that were examined were the test we chose which would be categorical and the amount of tests we did which were quantitative."
+"Length- quantitative
+
+Age- categorical
+
+Gender- categorical"
+NA
+"the height of the blocks - quantitative"
+"Whether or not each question involved a physical graph model or a picture (categorical) and the accuracy of the value estimation (quantitative). "
+"wether someone was a researcher or not- categorical
+
+the accuracy of their responses- quantitive (most likely)
+
+ "
+"categorical variables -- smaller/larger
+
+quantitative -- the actual number assigned to the interpreted size"
+"We examined the color - categorical
+
+shape-categorical 
+
+what number block it was- quantitative
+
+where we thought a certain number would lie on each block- quantitative "
+"The number we were choosing for the supposed values could be quantitative data while seeing if the triangle or circle columns matched could be categorical. "
+"Quantitative- the assumptions made
+
+categorical- was the assumption correct
+
+quantitative- the degree of correctness"
+"physical blocks/digital blocks - qualitative
+
+size of blocks - quantitative
+
+ "
+"Independent variables were examined in this. "
+"Size difference. Quantitative
+
+calculation error. Quantitative"
+"what number you thought the graph was at - quantitative
+
+which graph was larger - categorigcal"
+"Some of the variables that may have been examined include: whether or not the participant identified which graph was larger (categorical), and how close or far the participant identified the correct numerical difference between the graphs (quantitative)."
+"ability to interpret the graph and make estimates could be categorical and the number that was inferred could be the quantitative variable. "
+"Which graph was read more accurately on average, which is categorical. "
+"The variable that was examined was categorical because they determined whether or not people correctly estimated the range of the 3D and 2D graphs. "
+NA
+"Which bar on each bar graph was smaller, and the value of the smaller bar when you are told that the larger bar has a value of 100. Whether a particular bar is smaller is categorical, while the comparative value of the smaller bar is quantitative."
+"The variables were the arrangement of the data bars and the estimated values of the data bars by the students. The first one is categorical and the second one is quantitative."
+"Independent- the triangles and circles on the model (quantitative) 
+
+Dependent- number of collector identified shapes within the percentage (quantitative) 
+
+control- the models were kept the same "
+NA
+"I think the variables were which graph portion we tested was bigger than the other (categorical) and the quantitative were the numbers we were guessing. This can also be a categorical variable too because it was either right or wrong. The other quantitative variables were how many correct guesses we had and how many we got wrong. "
+"Accuracy of estimate - yes or no would be categorical, percentage would be quantitative
+
+Which bar is taller - categorical"
+NA
+"Independent variable: Changing units- categorical
+
+Dependent variable: Comparing of two units, circle and triangle- quantitative
+
+Categorical variable: Age, gender, perception- categorical"
+"how accurate we guessed on the online or in person graphs - i want to say quantative because they are just numbers"
+"The variables was whether the triangle or circle bar was taller, this is categorical. The other variable was the prediction made by the people being sampled, this is quantitative."
+NA
+"Our personal information and how accurately we could determine dimensions. "
+"One variable is what kit the participant was given to use during the survey. This would be a categorical variable. Another variable could be what height each participant said the model/graph was. This would be a quantitative variable as there is a complete range of possible entries. Another variable might be the percentage of questions participants got correct. This would be a quantitative variable. A fourth variable could be if the participants met a set threshold for correct answers. This would be a categorical variable."
+"The different sizes of the columns are compared to another bigger one. The variables are quantitive."
+"The smaller and bigger columns and the difference in them. The variables are quantitive because we are looking at the different sizes of the columns which could be changed to amounts of money to be compared."
+"Independent:the type of model (categorical digital 2D, digital 3D, physical model)
+
+Dependent:the accuracy of the guess (quantitative)
+
+ "
+"Which one was high which is categorical and by how much which is quantitative "
+"The two variables that we examined were which of the two selected bars were smaller, which was a categorical variable, and how big the smaller bar was in relation to the larger bar, which was a quantitative variable. "
+"the independent variable was the blocks they were given (categorical)
+
+dependent is what height they guessed and how accurate (Quantitative)"
+"The variables examined would have been what percentage the different spaces on the charts represented which is a quantitative variable. "
+"People learn better in 2D graphs than 3D - Categorical 
+
+ 
+
+People have a higher chance of getting a question right when they use a 3D graph - Quantitative 
+
+ "
+"There were many variables, but I think that most of them were quantitative, because when we were doing the experiment, it was a lot of guessing with numbers."
+NA
+"graphical encoding types, which are categorical
+
+accuracy of participant estimates which is quantitative
+
+task type or graph type, categorical
+
+ "
+"Online vs physical (categorical)
+
+data percent perceived (quantitative)"
+"The experiment looked at a mix of chart features and participant responses. It compared different chart types—2D digital, 3D digital, and 3D printed—as well as how the bars were arranged (either next to each other or separated), which are both categorical variables. Participants were asked to judge which bar was smaller and estimate the ratio between them, giving quantitative data. The actual ratio and the error in their guess were also measured, both of which are quantitative too. So overall, the study tracked both the kinds of charts used and how accurately people could read the data"
+"time- quantitative, shape-categorical, color-categorical"
+"One variable was if the graph was 3D or 2D on the computer which would be quantitative. Another variable would be what color the printed graph was which would also be quantitative. "
+"The variables examined were if the participants were able to identify with decent accuracy the correct data from the 3D bar chart."
+"I feel like a variable of this could be the judgement of the graphs. This would be a categorical variable."
+"Explanatory: 2D vs 3D (categorical) 
+
+Response: The estimated distance/height between the two (quantitative) "
+"The symbol pi was used, and so were Hypothesis A and Hypothesis O. "
+"Which graph used (categorical) and how accurate the reading was (quantitative)"
+"the variables that were examined where the number of the graph and how tall we thought each bar was. The heigh we thought the bar was is a quantitative variable. The bar that was observed would be a categorical value. "
+NA
+"Height of the graph (quantitative)
+
+Participants correct answer vs not (categorical)
+
+ "
+"Accuracy of guess: quantitative 
+
+Medium: qualitative "
+"Chart format categorical, time to complete response quantitative, judged ratio quantitative"
+"hours of sleep and it is quantitative "
+"The ratios of the circle bar compared to the triangle var were examined. I would say finding the ratios is a quantitative variable."
+"number of scores that students get right, quantitative
+
+type of problems given, categorical "
+"The type of graph was a variable that was examined, and this variable is a categorical variable. other variables that were examined were, the true height between the bars and the height found by the participants. both of these are quantitative."
+"The variable examined were the bar graph data between two bar A and bar B. It could be categorical because you are choosing which graph is greater, either A or B not a number.  "
+NA
+"variables
+
+which was bigger a or b - this is catagorical
+
+What percent bigger - quantitative 
+
+ "
+"The number of people who participated in this, quantitative
+
+Examining 2d and 3d graphs, categorical"
+"Height of the bar- quantitative 
+
+Correct/ incorrect guess- categorical "
+"Graph type, which is categorical because it's a category so it's categorical. And valid perceptions, which I suppose could be quantitative because you could convert it into a ratio."
+"Chart Type: categorical
+
+Bar spacing: categorical
+
+Ratio accuracy: quantitative
+
+Bar size: quantitative"
+"Whether or not participants could correctly guess difference - categorical
+
+How far off participants were in their guesses - quantitative"
+NA
+"One variable was correct or incorrect answers with 2D graphs, which is categorical. Another variable was correct or incorrect answers with 3D graphs, which is also categorical."
+"The variables were the data model formats presented and the values assigned to each perceived value of said data models. The data model formats are categorical, either 2D or 3D, and the values assigned to each data model is a quantitative variable, assigning numerical values that can be averaged and calculated against."
+"Some were asking which bar had a bigger value. -- categorical
+
+Some were asking to give a value to a bar. -- quantitative"
+"bar height (quantitate) 
+
+bar color (categorical) 
+
+label on each bar (categorical) 
+
+ "
+"graph type, categorical
+
+ratio of bars, quantitative
+
+accuracy of judgment, quantitative
+
+individual participants, categorical
+
+bar grouping, categorical
+
+ "
+"Variables that were examined would be graph difference in height which is quantitative. "
+"if the graph is larger. Categorical"
+"Chart Type: Categorical
+
+Participant Judged ratio: Quantitative
+
+Ratio between bars: Quantitative
+
+Log error of judgement: Quantitative
+
+Which bar is smaller between bar a and bar b: Categorical
+
+ "
+"One variable was if the graph was 3D or 2D on the computer which would be quantitative. Another variable would be what color the printed graph was which would also be quantitative. "
+"graphical encoding types, which are categorical
+
+accuracy of participant estimates which is quantitative
+
+task type or graph type, categorical
+
+ "
+"the variables that were examined where the number of the graph and how tall we thought each bar was. The heigh we thought the bar was is a quantitative variable. The bar that was observed would be a categorical value. "
+"time- quantitative, shape-categorical, color-categorical"
+"Which graph used (categorical) and how accurate the reading was (quantitative)"
+"I feel like a variable of this could be the judgement of the graphs. This would be a categorical variable."
+"The experiment looked at a mix of chart features and participant responses. It compared different chart types—2D digital, 3D digital, and 3D printed—as well as how the bars were arranged (either next to each other or separated), which are both categorical variables. Participants were asked to judge which bar was smaller and estimate the ratio between them, giving quantitative data. The actual ratio and the error in their guess were also measured, both of which are quantitative too. So overall, the study tracked both the kinds of charts used and how accurately people could read the data"
+"There were many variables, but I think that most of them were quantitative, because when we were doing the experiment, it was a lot of guessing with numbers."
+"The variables examined were if the participants were able to identify with decent accuracy the correct data from the 3D bar chart."
+"People learn better in 2D graphs than 3D - Categorical 
+
+ 
+
+People have a higher chance of getting a question right when they use a 3D graph - Quantitative 
+
+ "
+"the independent variable was the blocks they were given (categorical)
+
+dependent is what height they guessed and how accurate (Quantitative)"
+"The symbol pi was used, and so were Hypothesis A and Hypothesis O. "
+"The variables examined would have been what percentage the different spaces on the charts represented which is a quantitative variable. "
+NA
+"Online vs physical (categorical)
+
+data percent perceived (quantitative)"
+"Explanatory: 2D vs 3D (categorical) 
+
+Response: The estimated distance/height between the two (quantitative) "
+NA
+NA
+"The variable examined was what height we thought the shorter graph was compared to the larger bar. This variable was quantitative. "
+NA
+"The variables being examined were that of: 'accuracy in estimation of the distances' and 'male vs. female'. I would say both are categorical."
+NA
+"[expirement -2.docx] (/users/286374/files/21155815?wrap=1&verifier=fC22T9TgCcZie7zS8sKiVPG12cMajTtaj2MbI7Lo)"
+NA
+NA
+"Here are the main variables examined in the experiment:
+
+ 
+
+* Chart type (2D, 3D digital, 3D printed) – Categorical
+
+* Bar layout (adjacent vs. separated) – Categorical
+
+* Ratio judgment given by the participant – Quantitative
+
+* Accuracy of the ratio (measured as log error) – Quantitative
+
+* Which bar was identified as smaller – Categorical
+
+These variables helped the researchers measure how chart format and layout affect people’s ability to judge data accurately."
+"Accuracy - quantitative 
+
+Gender - categorical
+
+Age - categorical
+
+Taking STATs? - categorical"
+"Circle and triangle "
+"Effectiveness of 2D screen graphs: Categorical
+
+Effectiveness of 3D screen graphs: Categorical
+
+Effectiveness of 3D in hand graphs: Categorical"
+"The amount of time spent on each question - quantitative 
+
+Which tower was taller - categorical "
+NA
+NA
+"The variable that was examined was if the circle or square tower was higher, which is a categorical variable."
+"The variable that was exmined was triangle or circle and that is categorical."
+"Which bar was bigger and what the percentage bigger- quantitative."
+"One variable was the height of the graph and that was quantitative because it asked for how tall they were and also categorical because on the graphs they had the circle or triangle. "
+NA
+"Height of the towers - quantitative 
+
+Which tower was taller (triangle or square) - categorical "
+"Selecting whether circle or triangle was the highest or lowest compared to each other, and I selecting by how much lower or higher. I think that this experiment is quantitative. "
+NA
+"Bar height estimation: quantitative.
+
+Trial number: quantitative.
+
+Participant ID/code: categorical."
+"it was quantitive because we are guessing a number or percentage based on the naked eye"
+"The person's favorite animal, which is categorical. And their estimation of bar height percentages in each scale which is quantitative."
+"Bar graph size: quantitative
+
+What kind of graph: categorical"
+"same graphs given to everyone, assigned in different orders both are categorical "
+"Human analysis ability - quantitative
+
+tower height - quantitative
+
+bigger or smaller - categorical"
+NA
+"Triangles and circles, this is categorical. Shorter versus taller graphs or models, this is categorical. The actual hight of the shorter section of the table/graph, this is quantitative.  "
+"One variable that was examined would be if the participant guessed the right proportion which would be qualitative.
+
+Another variable that was examined was age group, this was also qualitative."
+"charts you got correct online- categorical
+
+charts you got right with physical copy- categorical"
+"Height of a bar, categorical."
+"How long we think the block is, quantitative 
+
+Which block is smaller, categorical"
+"The different types of graphs, being physical, 2d, or 3d- quantitative 
+
+The size of the bar in question- quantitative
+
+If it was either a circle or triangle bar- categorical "
+"triangle or circle bar--categorical 
+
+the height of the bar--quantitative "
+"The variables examined were the proportion of one tower to the next and if it was a star or circle. The first one is quantitative and the second is categorical."
+"Quantitative because there were more then two possibilities. "
+"Is the bar shorter vs taller - categorical
+
+What percent shorter or taller is the bar - quantitative"
+"* If the students can estimate the height of the block properly - categorical
+
+* The package of bars given to the students - quantitative
+
+ "
+"There were at least two variables recorded, whether the subject got the percentage right, and whether they stayed consistent. These were both categorical. "
+"Interpretation of graphs - Quantitative
+
+ "
+"* the percentage guess = quantitative
+
+* did they follow directions (was the guess close at all) = categorical"
+"which bar was larger, circle or triangle. this is categorical
+
+how many units tall is the shorter bar if the larger bar is 100. this is quantitative"
+"1. chart type: categorical
+
+2. bar spacing: categorical
+
+3. spacing between bars: quantitative
+
+4. individual judgement: quantitative
+
+5. accuracy: quantitative
+
+6. size (a or b): categorical"
+"Type of bar chart (categorical) and the height judgement (quantitative) "
+"Type of Graph (2D, 3D digital, 3D printed)
+
+Categorical
+
+Perceived Bar Ratio 
+
+Quantitative
+
+Accuracy of Comparison 
+
+Quantitative
+
+Participant's Choice of the Smaller Bar 
+
+Categorical
+
+Order of Chart Presentation
+
+Categorical"
+" "
+"The main variable looked at where the different types of graphs in the accuracy of the individuals answers the type of graph whether it was 3-D 2-D, digital or 3-D printed there is a category variable because it will involve different groups of categories, so the accuracy of the ratio judgment is quantitive because it measures with numbers specifically using a log air formula, another possibility is a categorical variable. This could be the layout of the bars like is it adjacent or separated. "
+"na"
+"Type of Data visualization: categorical variable with three levels, 2D graphs, 3D digital graphs, 3D printed graphs
+
+Ratio of Smaller Bar to Larger Bar: Quantitative variable the ratio is numerical values
+
+Perceived Ratio of Smaller Bar to Larger Bar: Quantitative variable it represents the participants estimate of the ratio
+
+Log Error of Ratio Judgment: Quantitative variable its a calculated numerical value representing a difference
+
+Bar Chart Comparison Type: categorical variable with two levels, adjacent and separated"
+"The size of the graph - quantitative"
+"The variables examined were the block size percentages compared to one another. They were quantitative because we were guessing the size of the block based upon another. "
+"the people used - categorical
+
+and the style of bar chart- categorical
+
+ "
+NA
+"This experiment examined multiple variables, including quantitative variables and categorical variables. Quantitative variables include the proportion value estimated by the participants (the relative length of the triangular cuboid and the circular cuboid) and the true value of the proportion, which are numerical data that can be mathematically calculated and error analyzed. Categorical variables include the shape of the labeled figure (circle or triangle), the number or code of each model (used to distinguish different 3D bar graph models). By analyzing these variables, the experiment can explore whether the shape of the figure and the characteristics of the model have a systematic impact on the estimation of visual proportions."
+NA
+"categorical"
+"Accuracy of noticing the tallest of the bars: qualitative
+
+Type of graph: categorical
+
+Response time: qualitative"
+"The variables were how we were able to read the graphs. "
+NA
+"The ratio of heights was categorical, each graph was presented quantitatively, and then the test was administered categorical. "
+NA
+"One variable is the type of chart, which is categorical. Another variable is the accuracy of bar size judgement, which is quantitative. "
+"size estimated - quantitative
+
+over or underestimate - categorical"
+"N/A"
+"Variables examined were participants reading charts and making judgements without physical measuring and this is qualitative and they found the difference in their judgement and the actual result and this is quantitative."
+"The variables examined were the X, Y, and Z axes (quantitative), the color of the points  (categorical), and the shape of the points (categorical). "
+"I do not remember the exact variable used, but they were most likley categorial because we did not have to do any numerical calculations. "
+"The variables that are examined are the chart type which is categorical, bar spacing which is categorical, true ratio between bars which is quantitative, participant’s judged ratio which is quantitative, log error of judgment which is quantitative, and which bar was chosen as smaller which is categorical."
+"1. Type of graph – Categorical
+
+2. Accuracy of bar height judgment – Quantitative
+
+3. Time taken to respond – Quantitative
+
+4. Participant background or experience – Categorical
+
+ "
+"The quantitative variables were the participant's numerical guess and the actual answer. The categorical variable was the type of graph. "
+"Type of chart- categorical
+
+If the correct answer was given- quantitative"
+"1. Age of the Cow
+
+*
+
+Type: Quantitative
+
+*
+
+Description: The exact age of each cow, usually measured in years or months, to identify how age influences calving difficulties.
+
+2. Calving Difficulty
+
+*
+
+Type: Categorical
+
+*
+
+Description: A classification of how difficult the calving process was (e.g., easy, moderate, or difficult). This could be assessed based on the need for human intervention or complications during delivery.
+
+3. Calving Assistance Type
+
+*
+
+Type: Categorical
+
+*
+
+Description: The type of assistance provided during calving (e.g., no assistance, mechanical assistance, veterinary intervention, etc.).
+
+4. Calving Outcome
+
+*
+
+Type: Categorical
+
+*
+
+Description: The outcome of the calving process (e.g., healthy calf, stillbirth, live calf with complications). This could also be categorized based on the health of the calf or cow after the birth.
+
+5. Weight of the Cow
+
+*
+
+Type: Quantitative
+
+*
+
+Description: The weight of the cow could be used to explore how body condition or size influences calving ease."
+"Some variables that were mentioned in this abstract were the bar spacing/color, and also how the graph was being formed or the orientation of the graph whether it was horizontal, or vertical pertaining to the data collected. These variables are categorical. Other variables such as the height of both bars (2D and 3D), and the size of the data represented, are examples of quantitative variables."
+"Graph type- categorial 
+
+Bar grouping type- categorial 
+
+Judged ratio of bar heights- quantitative
+
+True ratio of bar heights- quantitative
+
+Error in ratio judgement- quantitative"
+"The categorical variable would be if students were able to perceive data better with the 3D models. "
+"Variables I remember asked was age and if I was a member of stat 218. Age is quantitative and if I was in the class or not is categorical. The response variable is my score on the experiment, quantitative.  "
+"The variables which were examined where the type of graphical display (categorical) as well as the graph features; color, size, and shape, which is also categorical. Another variable examined would be the accuracy of participants responses. This would be quantitative because students were asked to give a number for a portion of the graph depending on the number assigned to the other portion of the graph. "
+NA
+"Explanatory variable: Type of graph (i.e., 2D, 3D, or 3D printed); categorical
+Response variable: Accuracy of participant in estimating bar length; quantitative."
+"The variable that was examined in this experiment is if people view 2D and 3D differently and which is more accurate.  It would be categorical because there are only two groups."
+"The actual height difference between the blocks is quantitative, as the testers estimated. The estimation of error would also be quantitative. The taller block correctly identified would be categorical. "
+"*
+
+How long something took – that’s a number, so it’s quantitative.
+
+*
+
+What choice someone made – like picking A or B, that’s a categorical variable.
+
+*
+
+Which group someone was in – like Group 1 or Group 2, that’s also categorical.
+
+*
+
+How many things someone got right – that’s a number, so it’s quantitative."
+"Percentage - quantitative
+
+How many people guessed what number - quantitative"
+NA
+"Im not sure what variables were exactly examined. I belive this reflection should be closer to the time we take the experiment, as we are college students trying to retain a lot of information, especially me as a senior graduating this year. I hardly remember the expeierment "
+"The experiment looked at the type of graph and bar spacing, which were categories. The judged ratio and log error were numbers. The correct bar choice was also a category."
+" Ratio accuracy and Graph type"
+"*
+
+Chart type (2D, 3D, 3D printed) – categorical
+
+*
+
+Ratio judgment accuracy – quantitative"
+"Chart Type is categorical, the bar type was categorical. "
+"The variables examined were the use of a computer or physical model. This was categorical. The response variable was how close to the true value the students responses were. This response was quantitative."
+"Bar size- quantitative
+
+Age- categorical
+
+Education- categorical
+
+Sex/gender- categorical
+
+ "
+"The first variable is which bar was smaller, circle or triangle; categorical. The second variable is that if the bigger/taller bar of the two was 100 units, what is the size of the smaller; quantitative."
+"Categorical: chart type - 3D vs 2D charts
+
+Quantitative: Response Time - how long it took to make a judgement"
+NA
+"quantitative data
+
+the percent height difference between the two bars"
+"How good a person's memory is - qualitative 
+
+How good of eyesight they have - qualitative
+
+seeing or not seeing color - qualitative"
+"Categorical is whether triangle or circle was smaller or taller, and quantitative would be the number of units of the smaller one compared to the taller one."
+"the size of the columns and that was quantative"
+"One variable could be which graph the student said was the smallest. This is categorical because it was either a circle or a triangle response."
+"We first decided what tower was taller (whether the circle or triangle), this was fairly easy (categorical). Then we compared the 2 towers and gave an estimation how tall the shorter one was if the other was 100 units high (quantitative)."
+"The size of the stacks was given which would be quantitative seeing as it was a numbered amount. "
+"Independent: Gender (categorical) 
+
+Dependent: accurate interpretationEach  of graphs (quantitative) "
+"Size of bar graphs (height): quantitative
+
+If triangle or circle was smaller than the other: categorical"
+"Categorical: Circle vs. Triangle 
+
+Quantitive: Difference in units between the circle and triangle"
+"how accurate our observed ratio is to the actual ratio :quantitative"
+"The independent variable is the type of graph viewed (screen or in-person), which is categorical. The dependent variable is the numerical value the participant assigned to the bars, which is quantitative. "
+"smaller or larger bar: categorical
+
+how much bigger or smaller: quantitative"
+"Which bar was larger-categorical
+
+Percentage- quantitative"
+"The graphs, categorical
+
+The measurements, quantitative"
+"The variable observed was how well each student did on the examination. This was a quantitive variable."
+"Bars - Quantitative
+
+Gender - Categorical
+
+Age - Quantitative
+
+ 
+
+ "
+"Students ability to understand graphs - Categorical
+
+Students ability to identify the matching picture of the graph - Categorical"
+"The variables examined were the heights of the graphs, and this would be quantitative. I also think that other questions we were asked were along the lines of \"is line A taller than line B\", which would count as a categorical answer, being \"Yes\" or \"No\". "
+"Type of model (physical/digital): categorical
+
+Accuracy of identifying proportion: quantitative"
+"The time it takes to identify the taller one and the methods by which one identifies the taller one such as how they choose how much taller/shorter the block is. This would be quantitative. 
+
+Whether students choose the right or left block as the taller one is categorical. 
+
+The number in which students measured the difference in height of the blocks would be quantitative. 
+
+ "
+"The experiment most likely looked at characteristics like the number of blocks counted or estimated (quantitative), the color or arrangement of blocks (categorical), and the accuracy of student replies (quantitative). These variables were used to investigate the effects of visual data presentation on interpretation and estimating abilities."
+"Heights of figures compared to other figures: quantitative
+
+ "
+NA
+"There were categorical and quentitative variables being examined."
+"The different variables were the bar graph that the student is examining (categorical), and the percentage at which the student thought the bar was at (quantitative)."
+"The proportion of the bars on the graph were examined. This is a quantitative variable. "
+"The study examined several key variables. Chart type (2D, 3D digital, or 3D printed) and bar spacing (adjacent or separated) were categorical variables. The true ratio of the compared bar heights and the participant’s judged ratio were both quantitative variables. The error in perception, calculated as log2 error, is also a quantitative variable. Additionally, the identification of which bar (marked by a circle or triangle) was smaller is a categorical variable. These variables collectively helped analyze both accuracy and perception across chart types and layouts."
+"The level of shape (quantitative)"
+"Color- Categorical
+
+In-person versus picture- Categorical "
+"The variables would be the graphs which is quantitive and the students would be categorical."
+NA
+"Possible variables include task completion time (quantitative), accuracy of performance (quantitative), and participant feedback or preference for certain models (categorical). If models were labeled by design type, that would be another categorical variable. If ratings were collected on a scale (like a 1–5 satisfaction scale), those would be quantitative as well."
+NA
+"Which version of the graph they are using (2-D, 3-D, 3-D digital) - Categorical
+
+Accuracy in peoples answers about the height - Quantitative"
+"which bar graph is easier to read which is categorial."
+"I don't remember a lot of the experiment since it was so long ago but I know we were asked to choose the larger or smaller part and I feel that would be both categorical and quantitive."
+"The variables examined are computer bar graphs vs 3D printed bar graph which are categorical, and the other variable is how close the estimated values are to the actual graph values which is quantitative."
+"some variables that i remember from the experiment include, height of the block(quantitative variable), The circle or triangle shape on the block specifying which height to focus on (categorical), the bag participants got (categorical)."
+"shape of part on graph is categorical and percentages on the comparison of the percentages is quantitative."
+NA
+"The variables examined might have included things like the type of chart shown (categorical), the accuracy of responses (quantitative), and possibly the amount of time taken to complete tasks (quantitative) "
+NA
+"variables where the data represent groups."
+"The variable of which shape was smaller or larger. (quantitative)"
+"The variables being examined are weather or not the triangle or circle was smaller and correctly identified. That would be categorical. a yes or no. Another variable could be how far off or on peoples guesses where, if most people thought were smaller or bigger. That would also be categorical variables. More over, or more under. "
+"categorical, whether the triangle was smaller or the dot."
+"Type of student (categorical) and distance between the two graphs (quantitative). "
+"Categorical  triangle or circle"
+"The variables that are examined is which column is bigger, which is categorical, and the difference of value between the columns, which is quantitative. "
+NA
+"It was categorial and it was based off of whether the triangle or circle bar was smaller."
+NA
+"The variables was which one of the circle and the triangle was smaller, and also by how much it was smaller. The circle or triangle is categorical and the how much smaller is a percentage so its quantitative."
+"size of the bar if it was smaller or larger - categorical"
+"Independent variable: which bar was shorter- categorical
+
+Dependent variable: how much shorter was the bar compared to the larger bar- quantitative"
+"Which bar is smaller - categorical
+
+how much smaller was one bar compared to the other - quantitative "
+"One variable would be how the graphs were displayed making it categorical and the other variable would be the amount of times the answers were correct making it quantitative.  "
+"Difference in height of bar- quantitative 
+
+Which bar was small (circle or triangle)- categorical"
+"Stistical graphics - quatitative 
+
+the circle and triangle- categorical 
+
+ "
+"One of the variables observed was the color intensity, which is quantitative. As well as the estimated variables of how much smaller the units are. A couple of categorical groups observed are gender, age, and education level. "
+"The quantitative variables present are the numerical values associated/estimated with each color shade or height, and how accurate the responses were. The categorical variables measured are which letter represents a larger value (Y or y). "
+"Did the participant answer correctly - categorical
+
+How confident was the participant- categorical 
+
+What the participant estimated the quantity of the smaller value to be - quantitative"
+"Variables were which letter was larger (categorical), and how much larger than the comparison (quantitative). "
+"The variables examined were the heat map type, the locations of objects on the heat map, and the rating of the difference between the two objects. The first two variables listed are categorical because they refer to visual data that cannot be counted. The last variable is quantitative because you are answering based on a numeric scale. "
+"It was probably testing how people used visual information like color and location on the grid to show which two things are bigger and base it on a number value. "
+"There was a categorical variable in form of determining which area represented a larger number as well as a quantitative variable when I had to estimate the difference of two areas represented by a number. "
+"The variables that were examined were which letter was higher in value and how much less the second letter was compared to the first. The first is categorical and the second is quantitative."
+"*
+
+Independent variable: How the heat map was presented or how the values were spread across the grid 
+
+*
+
+Dependent variable: Whether the participant picked the right letter"
+"If people can correctly identify which value is larger; categorical
+
+If people can correctly estimate the difference between two values; quantitative"
+"color (darker or lighter)- categorical 
+
+depth (categorical)- higher or lower 
+
+slider (quantitative)"
+"One variable was whether or not the participant had access to the 3D-printed charts. This is a categorical variable because it’s a yes or no question. Another variable could be how accurate the participants were in answering questions about the data — this would be a quantitative variable because it deals with numbers, like how many answers they got right. They might have also looked at how long it took people to answer questions, which is also quantitative, since it's measured in time. There could be other categorical variables too, like whether the person was a student or not, or what kind of device they used."
+"Color Intensity (shade on the heat map): Quantitative (represents a numeric value).
+
+Letter Label (e.g., \"R\" or \"r\"): Categorical (identifies a specific position/value).
+
+Relative Position on the Grid: Categorical (row/column location).
+
+Estimated Smaller Value (slider response): Quantitative (numeric scale from 0-100)."
+"Independent variable would be each student that participated which would a quantitative variable based on how many actually participate. Categorical variable would be \"which answer did they choose for each question\". "
+"There were two variables with were the factor 1 and 2. These were the axis variables and main area of interests which was represented by color that define the heat map grid. The variables are quantative because they are based on numbers, for example the higher or lower the number the warmer or colder it would be. "
+"the variables that were examined were which was the larger value and since it wasn't numbers and only letters that is categorical and then the second variable was how much smaller is the smaller variable and that would be quantitative because that was when we were given numbers. "
+"* Graph type, categorical (3D or flat)
+
+* Which of the two quantities was larger, categorical
+
+* Approximate difference between the two quantities, quantitative"
+"The variables examined are as follows: 
+
+1. Current enrollment in a statistics class: categorical 
+
+2. Male or Female: Categorical
+
+3. Access to 3-D models: categorical 
+
+4. Type of test (2-D v 3-D): categorical 
+
+5. Which coordinate was chosen as higher or lower in temperature: categorical 
+
+6. The number of accurate choices: Quantitative "
+"The type of Chart: 2D or 3D, Categorial.
+
+Accuracy of reading: quantitative. 
+
+ "
+"A couple of variables that were examined could have been either 2-D or 3-D, the score or accuracy, and the amount of time taken to preform the experiment. 2-D or 3-D is categorical because it places the two into different groups. Score or accuracy is quantitative because it is a numerical measurement showing how well you preformed. Lastly, the amount of time it took is quantitative because it is a numerical value representing duration. "
+"color: categorical
+
+height: quantitative "
+"Variables:
+
+* if the respondent identified the greater of 2 choices correctly (categorical)
+
+* how close the respondent was to the correct valuation (quantitative)"
+"The variables being designed were size/color (categorical) and units of value (quantitative)."
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"Response variable- how accurate the reading of the graph is 
+
+Explanatory variable- The type of graph used
+
+Both are quantitive"
+"One variable that was examined was the difference in size of the graph bars which is quantitative. Another variable that is examined is how close to the right answer the test taker is which would categorical. "
+NA
+"whether or not student got it right is categorical
+
+the amount of student that changed their answers for the same questions is quantitative "
+"Which one was smaller, categorical
+
+Which one was larger by what amount, quantitative "
+"Age: Quantitive 
+
+Favorite zoo animal: Categorial 
+
+ "
+"The first variable is deciding which graph is smaller and this is categorical because we are choosing between two options. The second variable is deciding how much smaller the smaller bar on the graph is, which is quantitative because we are determining an amount. "
+"One variable was the type of graph presented (categorical) and the other was people’s perception of the graph (categorical)."
+"I think it was categorical whether the participant identified the correct smaller bar and then quantitative how close the slider was to the actual size of the bar. "
+"Independent: chart type (categorical)
+
+Dependent: accuracy of ratio judgment (quantitative) "
+"The variables were which graph was smaller and how much smaller the bar is compared to the larger one. 
+
+Deciding which graph is smaller is categorical.
+
+How much smaller the bar is, would be quantitative. "
+"One variable is how many graphics a student was able to successfully perceive - this variable is qualitative.
+
+Another variable is how well students were able to read information from charts and how far off they were from the actual measurement- this variable is also qualitative."
+"color- categorical
+
+dimension-categorical
+
+size-quantitative
+
+understanding-categorical
+
+ "
+"the variables were:
+
+which bar was perceived as smaller: categorical 
+
+how much smaller the bar was to the taller one: quantitative"
+"The variables that were examined were if either the triangle or circle bars were smaller (categorical) and then determining how small said bar was in comparison to the other (quantitative)."
+"The variable examined were weather the graph was 2D or 3D which is categorical."
+"The variables that were examined were what type of chart, 2D or 3D, and this was categorical. The also examined the variable of how accurately the participant was able to compare the difference in data. This was quantitative. "
+"* which bar was smaller (categorical)
+
+* by how much smaller was the bar compared to the larger one (quantitative)"
+"Age range - Quantitive
+
+Gender - Categorical
+
+Accuracy of estimating size ratios - Quantitive"
+"shape which is categorical and length of difference which is quantitative"
+"Which circle is bigger - categorical
+
+How much bigger is the larger graph from the other - quantitative "
+"If the correct bar was identified as shorter - categorical
+
+The difference in size for the two bars - quantitative"
+"Which bar is bigger triangle or circle, categorical
+
+How much smaller is the bar than the other bar, quantitative"
+"Variables would be if the graph is smaller or larger- categorical "
+"Explanatory variable: is the difference between 2D and 3D graph types, this is categorical. 
+
+Response variable: Which graph type has more accurate results/responses, this is quantitative. "
+"The variables were which was taller and that was categorical and where you slide the bar and that was quantitative."
+"What were the two bars: Categorical 
+
+How much bigger and smaller the bar is: Quantitative"
+"The variables examined were proportional size and visual representation. Proportional size is quantitative and visual representation is categorical."
+"Which bar was smaller- categorical. Proportion of how much smaller the bar was to the larger bar-quantitative. "
+"size - categorical
+
+amount of size difference - quantitative"
+"2d or 3d height categorical
+
+about how much smaller each bar was, quantatative"
+"3D or 2D printed - categorical
+
+answers given - quantitative
+
+ "
+"Categorical "
+"which bar was larger which is categorical and how much smaller the smaller bar was which is quantitative "
+"Accuracy: quantitative 
+
+weather they chose a square or triangle: categorical
+
+How fast they took to take the survey: quantitative  "
+"Variable 1: The smaller chart - categorical.
+
+Variable 2: How much smaller one chart is compared to another - quantitative."
+"Which bar graph was smaller (categorical)
+
+How much smaller or larger the graph was to the bigger graph (categorical)"
+"the variables examined were: 
+
+* the 2-D graphs: catagorical 
+
+* the 3-D graphs catagorical 
+
+* wether the partipants chose the correct answer (circle or triangle was bigger) catagorical "
+"The variables examined were:
+
+* Number of close friends (quantitative).
+
+* Gender  (categorical)."
+"2D, 3D and 3D printed. Determining the size. These would be quantitative because it would be a numerical value."
+"2D or 3D bar graph - categorical
+
+Color of graph- categorical
+
+Position of graph - categorical 
+
+Size of graph - categorical"
+"Types of graphs used. Categorical "
+NA
+"The variables were quantitative because we had to gauge how much taller or shorter one of the bars was. "
+NA
+NA
+"Some variables in this experiment may include the quantitative variables of graphs that are interpreted correct or incorrect,  and how long it took each participant in the experiment to interpret the graphs and fill out thee experiment. 
+
+The categorical variables include, how the information was presented and in what type of statistical graph, if the participant is in stats 218 or not or has any prior knowledge, and the age of the participants. "
+"The percentage that one bar is of the another bar. It is quantitative. "
+NA
+"*
+
+Understanding of Statistical Concepts: Quantitative – Measured through scores on assessment questions focused on concepts like significance, confidence intervals, and effect sizes after interacting with 3D models.
+
+*
+
+Improvement in Interpretation Skills: Quantitative – This could involve comparing pre- and post-experiment scores to see if the 3D models improved students' ability to interpret data.
+
+*
+
+Chart Type (2D vs. 3D Printed): Categorical – This variable examines whether participants using 3D-printed charts are more accurate in interpreting statistical data compared to those using traditional 2D charts, assessing the effectiveness of each chart type.
+
+*
+
+Ease of Interpretation (Self-Reported): Categorical – Participants might rate how easy or difficult they found the 3D models to understand, giving insight into perceived clarity.
+
+ "
+NA
+"Type of picture is categorical. The size selected was quantitative. "
+NA
+NA
+NA
+NA
+NA
+NA
+"The first variable is categorical and it would be whether or not the student was able to identify the smaller bar or not. This would be a correct or incorrect or yes/no variable. 
+
+The second variable is quantitative and would be a numerical value of how far off the student was from the correct difference in size, measured in units, between the two objects. "
+"The explanatory variable for this experiment would be the dimension the rectangles were in, which is categorical. While the response variable would be the height of the second block, which would be quantitative. "
+"Whether the student answered the question correctly (categorical), or the proportion of correct answers (quantitative), whether the model was 3D or 2D (categorical)."
+"stats 218 students: categorical 
+
+how many answered the question correctly: quantitative."
+"From my memory, I believe the variables were what graph was proposed (how the data was presented) which would be categorical. The other variable would be what we determined the proportion of a specific block's height was compared to another block. This would be quantitative"
+NA
+NA
+NA
+"the number for the graph- quantitative 
+
+whether the graph was smaller or larger- categorical "
+"The variables examined were the independent and dependent variable and it was quantitative."
+"People: categorical
+
+bar graphs: categorical"
+NA
+NA
+NA
+"Percent of blocks being represented. It is a quantitative variable because it contains numbers. "
+"Explanatory variable: Whether the blocks were 3D or 2D: Categorial 
+
+Response variable: Size of the non-control block recorded: Quantitative"
+NA
+"amount of time the test subject allocated for assignments. assignments are quantitative. Test subjects are categorical. "
+"The variable observed was the height of one column compared to another and was quantitative."
+NA
+NA
+NA
+"Interpretation Accuracy:
+
+Type: Quantitative
+
+Description: A measure of how accurately participants interpreted the data in each graphic, likely represented by a score based on correct answers.
+
+Interpretation Time:
+
+Type: Quantitative
+
+Description: The time it took each participant to interpret and answer questions about each chart, likely measured in seconds.
+
+Confidence Level:
+
+Type: Quantitative (if measured on a numerical scale) or Categorical (if measured by discrete levels like \"Low,\" \"Medium,\" \"High\")
+
+Description: Participants’ self-reported confidence in their answers to questions about the charts.
+
+Participant Background Knowledge:
+
+Type: Categorical
+
+Description: Experience level in statistics or familiarity with data visualization, potentially categorized as \"Novice,\" \"Intermediate,\" and \"Expert.\"
+
+Device Type:
+
+Type: Categorical
+
+Description: The device used by participants to complete the survey, such as \"Computer,\" \"Tablet,\" or \"Phone.\"
+
+Demographic Information (e.g., Age, Gender):
+
+Type: Age – Quantitative; Gender – Categorical
+
+Description: Basic demographic details that might be collected to see if they correlate with interpretation skills (e.g., age measured in years, gender categories)."
+"Height of Larger Bar
+Quantitative: This is a reference height, fixed at some value (e.g., 100 units) since the participant makes comparative judgments.
+Predicted Height of the Smaller
+Bar (Quantitative): Participant's estimate of height of the smaller bar, usually asked with slider or input field."
+"Which bar is smaller compared to the two picked out? categorical 
+
+What is the height of the smaller bar graph out of 100? quantitative "
+"Graph values and trends; Categorical
+
+Interpretation Accuracy; Quantitative"
+"Independent Variable:
+
+The type of model (2D rectangle or 3D rectangular prism) – categorical.
+
+Dependent Variables:
+
+Perceived height of the shorter model in comparison to the taller model set at 100 – quantitative.
+
+Error margin in estimation (difference between actual and estimated height) – quantitative.
+
+Shape complexity (2D or 3D) – categorical."
+"The measured variable was the different strips that had the shapes on them and we had to find out which ones were bigger. I believe it was quantitative because it was measuring size and numbers."
+"One variable that was examined was how the data was read, either online or the physical data. This variable is categorical. Another variable was the percent each subject estimated of the smallest bar compared to the largest bar. This variable is quantitative."
+"Which bar its larger - categorical
+
+ the ratio between the two graphs - quantitative"
+"gender of participant - categorical
+
+difference length of bars - quantitative
+
+age of participant - quantitative
+
+whether a chart is 2D or 3D - categorical"
+"The type of graph being used to compare the accuracy between the different chart was categorical. 
+
+The participants being used to guess the shapes measurement was quantitative. "
+"Type of Model- Categorial 
+
+Time Taken- Quantitative
+
+ 
+
+ "
+"3D graph or 2D graph- categorical 
+
+Ratio of the smaller bar to the larger bar- quantitative 
+
+which bar is smaller- categorical "
+NA
+"Since I do not know the full experiment I would guess that the participants were the independent variables because we were manipulated and the dependent variables would be quantitative because of how many questions we could answer correctly and accurately."
+"The values examined were what people said the correct number on the graph was which was categorical"
+"Height of the graph: Quantitative 
+
+Which one is smaller: Quantitative"
+"quantitative: the amount of difference between the correct answer and participant response
+
+ "
+NA
+"Height of bars - quantitative
+
+Difference in height of bars - quantitative"
+"The variables that were examined was the background information asked in the beginning such as age, race, and sex. These variables would be categorical."
+"The estimated height of the bar is quantitative, if the bar is shorter or taller is categorical, it also asks for a couple characteristics at the beginning of the participant which would be categorical. "
+"The size estimations can be quantitative when given in numerical form. Deciding which is larger Aor B is categorical. Also for students in person the figures that are 3D printed compared to the figures shown on screen are categorical
+
+ "
+"The variables that were examined were which line was smaller which is a categorical variable and the size of the smaller line in comparison to the larger line which is a quantitative variable."
+"A variable I saw examined a lot was the angle at which the graphs were shown. This is a categorical variable. "
+NA
+"One variable in this experiment was how close the participants were able to get to the accurate height of the bar. This is quantitative. The other variable in this experiment was whether the bars were next to each other or separated by other bars. This is categorical. "
+"To provide an accurate response, I need the specific context or details about the study or data set you are referring to. Please provide more information about the variables in question."
+"Shape of Bars - categorical
+
+size of Bars - quantitative
+
+ "
+"some variables for the test was either having an interactive graph or if it was a just a picture, and that variable is categorical. another one was the ages which is also categorical. one last one would have been whether the two options to pick were right next tot eachother or if they were apart from eachother which is quantitive.  "
+"We examined which shape was smaller (categorical) and what the ratio of the shapes were compared to each other (quantitative) "
+"accuracy of estimate: quantitative
+
+online or in person class: categorical"
+NA
+"Weather a bar was the smallest categoeial, and how small.it was quantitative "
+"Some variables examined were the circle and triangle and which was taller =categorical, another was by how much smaller was the bar compared to the other=quantitative. "
+NA
+NA
+"The variables that were examined in this experiment were shape and percentage associated with each bar graph. The shape of the graphs is categorial and the percentage was quantitative. "
+"Quantitative: how tall the bar was in comparison to the taller one
+
+Categorical: Circle bar and triangle bar"
+"The variable of the students in STAT 218 would be quantitative.
+
+The variable of bar graphs being measured would be quantitative."
+NA
+"Favorite zoo animal - Categorical
+
+Gender - Categorical
+
+Age - quantitative"
+NA
+"which bar is smaller-categorical
+
+the proportion of the two bars- quantitative"
+"The variables were if the bars were next to each other or separated, which is categorical and how close the guesses are, which is quantitative. "
+"Which bar was shorter- categorical (circle or triangle) 
+
+Then how high/low do we think the bar was in comparison to the other- quantitative "
+"quantitative by height
+
+categorial by circle or triangle"
+"how students read the graphs and estimate how big the graphs are. The estimation I quantitative."
+NA
+"The variables examined in the experiment were, 
+
+Whether or not the subject correctly identified which structure was smaller - categorial.
+
+How close the subject was to the correct answer of height of the structure - quantitative
+
+ "
+"Circle or triangle "
+"the circle bar - categorical
+
+the triangle bar - categorical"
+"Age and performance scores are examples of quantitative variables because they can be measured on a numerical scale, while gender and treatment type are categorical variables because they involve distinct categories or groups"
+NA
+"Percentages of bar graphs - quantitative and which bar was larger or smaller - categorical."
+"block length - quantitive, color of blocks - categorical, perspective of the block (3D or not) - categorical. "
+NA
+"Students - categorical
+
+Graphs (longer/shorter; triangle/circle) - categorical "
+"The height of the bar graph - it would be quantitative 
+
+The participant guesses - would be quantitative variable 
+
+The graphical presentation - would be categorical variable 
+
+The participants characteristics - categorical (speaking of age, gender, education level)
+
+ "
+NA
+"height of the column- quantitative 
+
+which was taller- categorical"
+"The variables were whether or not a person could accurately say how much smaller a bar was. It was qualitative "
+NA
+"I remember comparing height of columns by using percentages: quantitative data."
+NA
+NA
+NA
+"Variables examined were:
+
+The height of the triangle line (quantitative)
+
+The height of the circle line (quantitative)
+
+If something was taller or shorter (categorical)"
+NA
+"The variables examined was which bar was taller (categorical), the circle or the triangle, and if the taller one is 100 units, how tall is the shorter bar (quantitative). "
+"-Which bar graphs were greater - categorical "
+NA
+NA
+NA
+NA
+"The variables that were examined were sets of data with two different letters given. In our case, those were the two sets of data for our experiment that we answered questions about. and they were quantitative because they changed over the course of the experiment."
+"percent of correct estimations - quantitative
+
+which 3-D print models were used - categorical"
+"One variable could be the correct or incorrect answer ratio. This would be quantitative. A categorical variable would be the accuracy based on gender. A quantitative variable would be the percentage of accuracy between having the online models and the physical models."
+NA
+"2D models vs. 3D models - categorical variable
+
+The accuracy of the guess - quantitative"
+"I do not remember. "
+"Correct vs. Incorrect 
+
+=> categorical 
+
+the height of the assigned bar in the sample => quantitative. "
+"how close the guess was to actual answer(quantitative)
+
+correctly identifying smaller bar(categorical)"
+"the variables examined was triangle or circle. explanatory
+
+also, the height difference between the two variables. response"
+"Larger and Smaller bar: categorical
+
+Height of smaller bar: quantitative"
+"there where two options circle or triangle "
+NA
+NA
+"Size of bar-quantitive."
+"The students ability to get close, quantitative. "
+"Size: Quantitative
+
+Color: Categorical
+
+Shape: Categorical
+
+ "
+"The person's guess which is a number, so quantitative. What the actual different is also quantitative. The comparison between the two, also quantitative. "
+"Accuracy (quantitative)
+
+Which bar is smaller (categorical)
+
+ "
+"Whether the circle or triangle section of the graph was taller was categorical and the height of the smaller graph was quantitative."
+"The two variables examined were which bar is smaller and what the size of the smaller would be if the larger was 100. Determining the smaller is categorical and determining the size in comparison to the larger is quantitative."
+"I am not sure at all, but I would guess correct answers from participants. "
+"The graphs and students and it was quantitative "
+"I can't answer this because I don't understand the experiment. "
+"whether the capital or lowercase letter was larger than the other and I think they are quantitative "
+"size - categorical
+
+number of smaller one - quantitative"
+NA
+"we were examined the value of each variable. An i think it is quantitative "
+"Accuracy of determining variation between 2 pillars when viewed in 2d or 3d. It uses quantitative data to establish a categorical response"
+"The main categorical variable was the type of chart (2D, 3D digital, 3D printed). Quantitative variables were accuracy of comparisons, estimated smaller values, and confidence ratings."
+"The variables were the determination of the results, meaning what choice the individual chose on the questionnaire. I believe the variable would be quantitative. "
+"Quantitative units guessing.
+
+Categorical estimations. "
+"categorical for if you said the correct letter was higher vs lower. 
+
+quantitative for the ratio of how close someone was to the correct placement on the scale."
+"The variable was the height of each column. The first question was categorical saying which column is larger. The second question was quantitative since it had to do with comparison and not a yes or no question. "
+"Color - Categorical 
+
+How many more blocks are higher - Quantitative. "
+"The color of the bars on the heat map- categorical
+
+number of points on heat map- quantitative
+
+size of heat map- categorical"
+NA
+"Our answers to questions are a dependent variable.  I believe it to be categorical as I do not see a way to scale answers outside of a binary 1/0 system.  Without knowing the research question, I cannot identify any other variables. "
+"Whether or not “X or x” was bigger and how the smaller/bigger number correlates if 1 is 100. Bigger or smaller makes me think categorical but the scale of 100 is quantitive. "
+"quantitative and larger or smaller and what letter."
+"The y axis was quantitative and the x was categorical "
+"Highest vs lowest number: categorical
+
+What value it would be compared to 100: quantitative 
+
+ "
+NA
+"Dependent variables were examined, in this experiment the variable is how the student observes the object. "
+"one variable tested would be the number of correct selections of data points making it quantitative.  another variable tested would be how much of a difference a participant would report on each data set which would also be quantitative.  "
+"The variables examined were quantitative. "
+"larger bar (categorical)
+
+smaller bar (categorical)"
+"If students could determine the depth of letters on a cube - categorical
+
+Amount of answers correct - Quantitative"
+"The answer a student provides- quantitative
+
+The change in response- categorical"
+"The first variable was choosing which number appeared to be higher than the other based off of the model and the number given. This would be catagorical. The other part of the experiment had a slider which based it off of either being the chosen higher number, how far away was the other number/stack. This would be quantitative. "
+NA
+NA
+"The variables that were examined were letters in the alphabet uper and lower case. "
+"the size description, bigger or smaller, is categorical, while I think the slider might've been numberical although I don't remember if there were numbers or not."
+NA
+"Heat map type - categorical
+
+Comparison accuracy - quantitative. "
+NA
+"the variables were the different colors of the objects that were to be examined, categorical. The order that people did the experiment, quantitative."
+"If the numbers are the same value or not, which is categorical, and what the difference in value is, which is quantitative."
+NA
+"students applying themselves - categorical 
+
+how long it takes them to find out what they are being asked - numerical "
+"The colors of the blocks (categorical) 
+
+The percentage of the larger block that the smaller represented (quantitative) 
+
+Whether one block was larger or smaller than another (categorical) "
+"Quantitative: value of spot 
+
+Categorical: shade of spot"
+NA
+"The first variable was classifying which point was larger, and categorical. The next variable was the percentage the one variable is of the other, and quantitative. "
+"Quantitative - percentage
+
+categorical - shade of blue"
+NA
+"Scores 
+
+Time 
+
+Effort "
+"Quantitative was the most observed type of variable. We consistently measured and assigned values to different letters across the block. We compared them and assigned the value we thought was right. We chose which one was higher value (if I recall correctly), and from that we assigned a value to the second number based on that."
+"The variables examined were the shape or medium of the heat map, and the reported \"Percentage of\" value reported between two given areas of the heat map. The shape or medium is categorical and the percentage is quantitative."
+NA
+"I'm so sorry i took this experiment a long time ago and forgot all about it, the variables were quantitative on a x y graph, comparing 2 dots like a scatter plot."
+"The observed variable were the model design, the physical model, and the observed model. These were quantitative variables. "
+"The variables examined were chart type, which was categorical, the accuracy of the student responses which were quantitative, and the demographics and the responders, which were categorical. "
+NA
+"The variables were the height and the numbers. It was quantitative."
+"Height - quantitative "
+"How the amount of turnovers that a football team has affects the amount of wins or loses that they have. "
+"graph style- categorical
+
+numbers- quantitative "
+"letter - categorical"
+NA
+"depth was examined and it was numerical"
+NA
+"Triangle or Circle (which one is smaller) - categorical
+
+Number chosen relative to 100 - Quantitative"
+"The height of bars - quantitative
+
+which bar was smaller - categorical "
+"Which graph was higher, Triangle or circle, categorical
+
+Which graph was taller or shorter by how many meters, quantative."
+"Variables being examined were the different bar graph models, categorical."
+"the bar graphs - quantitative
+
+participants - categorical"
+"how people see things differently 
+
+quantitative "
+NA
+"What set of blocks we chose, categorical.
+
+ "
+NA
+"The students or the people who were doing the experiments it was quantitative because they had to the measurement of how long it us to submit the answer. "
+"Stats 218 students - categorical
+
+Whether or not the student can get the height of the bar right - categorical"
+"Quantitative- Triangle or Circle
+
+Categorical- Difference in Units (0-100) "
+"How diffeent people interpret different graphs whether its 2d or 3d or real. "
+"How accurate the student was in finding the differences between heights. I would say its quantitative as were pulling numerical values."
+NA
+"The variable was categorical and students ability of observe graphs. "
+"This was quantitative because we were asked to report a percentage."
+NA
+"The percentage difference between blocks- qualitative "
+NA
+"Percentages and height. These are quantitative since they measure in percentages and numbers. "
+NA
+"The variables that were examined were the height of the bar graph in percentage which would be quantitative."
+"Quantitative: how tall the bar graphs were
+
+Categorical: different bar graphs (digital/physical), 5 different types of bar graphs, triangle vs circle"
+"Triangles versus circles
+
+categorical."
+"One variable was the type of graph we were looking at which in that case would be categorical, another would be how much each student thought each bar was, which would be a quantitative variable."
+"The variables that were examined were which bar a study participant claimed was smaller, which was categorical, as well as the degree to which they claimed it was smaller, which was quantitative."
+"The information of a person could get would influence his feeling.
+
+Categorical"
+"The variables were examined were our participation (Categorical) and our responses (Quantitative)."
+"the variables that were examined were the models which were 2D, 3D, and real life ones. I would say it was quantitative since we had to estimate the size and say how small we thought it was."
+"Type of graph - categorical
+
+Accuracy of response (regarding height differences) - quantitative "
+"What type of graph was shown, which is categorical.
+
+How much smaller the smaller data point is, which is quantitative."
+"Ratio Comparisons:  Involves the ratio of heights between the bars in the bar charts which is quantitative. 
+
+Graph Type: Specific characteristics of the bar charts including whether they were adjacent or separated, and whether they were presented in 2D or 3D formats which is categorical.
+
+Type of Data Visualization: Type of graph used to represent the data. It includes three categories: 2D graphs, 3D digital graphs projected in 2D environments, and 3D printed bar graphs. This is categorical."
+"Estimated difference in tower hits on blocks. Quantitative. "
+"Height of objects- quantitative.
+
+Accuracy- (right/wrong) categorical."
+"One variable that was examined was the percentage that the student thought was the height of the bar. This is a quantitative variable."
+"The variables were us, the graphs and the website we used. These would be both quantitative and categorical."
+NA
+"Types of graphs (categorical), height perception (categorical), order of presentation (categorical) "
+"Size of culoms, quantitative "
+"Experimental, quantitative: block size
+
+Response, quantitative: block value"
+NA
+"It was mostly quantitative because it measured which bar length was longer and by how much. I suppose a categorical would be short very long. "
+"As I recall, we may have been asked to determine which bar was smaller (categorical) and also, assuming the larger bar was 100, what value the smaller bar would be (quantitative)."
+"Response variable, quantitative 
+
+ "
+"Height, color, size, and shape were all variables that were examined. I would say it was both variables, since it was asking for a number for height, otherwise this would be categorical. "
+"Weight in comparison to another height. Color. Which bar was taller."
+"Categorical Variables: The different types of charts (2D, 3D digital, 3D models)
+
+Quantitative Variables: The number of participants and the specific value each participant put on each of the charts. "
+"It asked about our sex and that would be categorical, the score on the test and it is quantitative"
+"Categorically how people visualize the graph heights."
+NA
+NA
+NA
+"It was categorical since there were spits in the data, also the variables were seeing if the blocks were squares or triangles, and what that person picked. "
+"How close students could estimate the comparative heights of physical bar graphs. Quantitative. 
+
+How close students could estimate the comparative heights of digital depictions of bar graphs. Quantitative. "
+"categorical, because there was a correct answer out of the given options. "
+"categorical variable is the type of way the graph was presented: 
+
+* 3d printed (4d?)
+
+* 3d image that can be moved around
+
+* 3d image
+
+* 2d image
+
+quantitative variable is the height estimation of graph bars compaired with other graph bars:
+
+numerical values from 0.0- 100.0."
+NA
+"Stat 218 students (quantitative) 
+
+How well students could read a graph (quantitative) "
+"The variables examined were quantitative. "
+NA
+"Quantitative"
+"How well someone could estimate a value. Quantitative "
+"The explanatory variable was the person doing the experiment. The results changed every time a new person was doing it.
+
+ The response variable was the color of the shape picked. The color picked was impacted by the person conducting the experiment. "
+"age - quantitative 
+
+gender - categorical "
+"The variable examined was the height between 2 bars on different graphs. The variable was quantitative. "
+"How we responded to the prompts is one of the variables and it is categorical"
+"Can someone accurately match the real proportion? Categorical. The degree of difference in their response to the true number, quantitative."
+"Number of correct answers - quantitative 
+
+Visual or physical - categorical "
+"The variables examined in this experiment were nominal variables which have no rank. The participants were choosing between a triangle or circle, both being categorical variables.  "
+NA
+NA
+NA
+"Dependent variable : accuracy of reading 
+
+Independent: Changing graphs from virtual reading to actual reading from figures. 
+
+ "
+NA
+"There was color, categorical. "
+"1) Distance between objects - quantitative
+
+2) Task complexity - categorical "
+"The variables were categorical"
+"the range of accuracy, how close students guesses got to the actual numerical value of the bar graph, quantitative 
+
+ 
+
+ "
+"The variables examined are the materials used (digital graph on computer vs. physical model) which is categorical, and the accuracy of the participants guesses (quantitative)."
+"heights of the blocks - quantitative 
+
+if the circle or triangle was taller - categorical"
+NA
+NA
+"The variables that were being examinated were quantitative and random assigment. For quantitative the participant had to chose which amount bettwen 0-100 units they thought one of the bars was and submit it. In the case of random assigment, I noticed they were multiple bags for different kits so I guess the random assigment of the bags and selection of the bars was present and examinated in the experiment. "
+NA
+NA
+NA
+NA
+"The variables examined were which bar was higher (categorical) and what was the estimated value of that bar compared to another (quantitative)."
+"whether you could get it or not so categorical "
+NA
+"The variables that were examined are determine which shape was taller, this is categorical. Then it asked to estimate how small the smaller graph was if the taller one was 100 units. this is a quantitative variable. "
+"Type of bar chart used (2D or 3D) - categorical
+
+What the individual perceived the data to be - quantitative"
+"Independent: type of chart and color of the bars (quantitative)
+
+ 
+
+Dependent: participant accuracy and response time (quantitative)"
+"The length of the bars, this variable would be quantitative. Which bar the people chose to longer or shorter, this variable would be categorial because they are observing it, but when it asked you to say how much bigger or smaller one bar was from another, that part would be quantitative."
+NA
+"The variables examined is if people better estimate the values of graphs, which is quantitative as we estimated with numbers."
+"Accuracy scores (quantitative)
+
+Age of students (quantitative)"
+"Size comparison - categorical
+
+Difference in percentage - quantitative"
+"2d : quantitative
+
+3d: quantitative"
+NA
+NA
+"How close the person was able to get to the correct number of the bar (quantitative) 
+
+Which bar is higher? triangle or circle (categorical)"
+"The variable is the different bar graphs; categorical."
+"Age: quantitative
+
+Major: categorical
+
+Accuracy of height-guessing: quantitative"
+"Yes or No --> categorical"
+"Which of the 21 kits each person gets would be a quantitative variable.
+
+Whether each person chooses triangle or circle on each chart would be a categorical variable. 
+
+A potential confounding variable would be whether or not each participant got a good nights rest the evening prior to taking the experiment."
+"size of objects: quantitative
+
+perceived size: quantitative"
+"Physical or digital, categorical. Difference between 2 graphs, quantitative."
+NA
+NA
+"Which was smaller?
+
+* categorical
+
+Deciphering by how much the tower was smaller?
+
+- quantitative "
+"specific model kits, in person vs online, these categorical 
+
+results of counting - quantitative "
+"One of the variables was male or female (categorial) the other was age (19 or older: categorial) and another variable was the value of a certain bar on the graph (quantitative)"
+NA
+NA
+"The accuracy of what we guessed on the visuals. This is a quantitative variable."
+"The variables examined are the sizes in bar graphs along with the comparison to one another. The variable was categorical to start as you would determine which is smaller or larger, then based off that you would determine by how much the smaller graph differed from the larger one which would be quantitative."
+"Visualization medium: represents the type of chart used for data visualization (2D, 3D digital, or 3D printed) categorical.
+
+Perceived ratio judgments: The participants' judgments of the ratio between two bars in the chart. Quantitative
+
+Bar chart layout: The layout of the bar charts, including the positioning of bars and the grouping of data. Categorical
+
+Ratio comparison: The specific ratio values used for comparing bar heights in the charts. Quantitative
+
+Graph identification: The identification of specific bars within the charts for comparison is controlled to ensure consistency across participants. Categorical "
+NA
+"Which bar students pick as higher -categorical
+
+How tall the smaller bar is compared to the larger bar -quantitative "
+NA
+"categorial - the blocks, the height of the blocks"
+"Rayshader and graphs are categorical variables. "
+"Type of visual, categorical. The guess in the size of the bar, quantitative."
+"The variables that were examined is whether the student can accurately guess the value of the bar - categorical
+
+Also it could have been the numerical value of how far off the student guessed from the actual value - this would be quantitative"
+NA

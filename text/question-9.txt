@@ -1,0 +1,778 @@
+"To see how accurate the students can be with each of the graphs and if they do better at looking at the screen and guessing or in person."
+"I think the purpose was to determine is we could imagine the depth online."
+"The purpose of the experiment was to determine how different people read graphs."
+NA
+NA
+"I think the purpose of the experiment was to see how our eyes could judge certain sizes or percentages with our naked eye. It was to find statistics on how well we could make an educated guess on the size of the blocks."
+"The purpose of the experiment is to see if random individuals can estimate percentages in the same pattern as previous years."
+"To see whether participants could accurately measure ratio differences using 3D bar charts better or worse than 2D rendered charts knowing that visual depth plays a role."
+"To do a statistical study on the different results students got from each bag and to see where students chose a different option or not."
+"I believe the purpose of this experiment was to test whether or not having a physical model of the bar charts allow people to better estimate their size."
+"I think the purpose of this experiment was to compare how people interpret different graphs in different ways with using 2D graphs along with 3D graphs and combining the results to see how the results differed. The purpose of this experiment was to also try and replicate the experiment that Cleaveland and McGill had done previously, but they had to tweak some things in the experiment."
+"I think that the purpose of the experiment was to collect data of students from the same course over a period of time and see how results compare and differ."
+"To see the difference in how people interpret an online graph versus a physical copy of one. "
+"To determine is students in the introduction to stats class at UNL were better/preferred reading 3D printed graphs compared to digital 2D graphs. "
+"Probably to find an average on our ability to estimate sizing and percentages based on other things. "
+"To gain a better understanding of how visual representation plays a role in understanding the data it presents."
+"The purpose was to understand if 2D graphs are easier to interpret than 3D graphs. "
+"To gauge depth perception of a physical object vs a object on the screen. "
+"It was likely to investigate how different types of graphs affect student observations by comparing students' comprehension across various graph formats."
+"To determine which model (2D or 3D) is easier to more accurately read and to see if the data was similar to the one they are recreating "
+"Determine students' of stats 218 understanding of statistics through an in person graphing experiment. "
+"The purpose is to see whether students can estimate the percentage of bar height when compared to others. We had limited tools. I used me own personal judgement or “gut feeling” to find percentages. "
+"I think the purpose of this experiment was to find if this study would help or not and if it was giving good information as well."
+NA
+"I believe the purpose of the experiment was to see how a person reading a bar graph can be influenced by neigboring numbers or stats. "
+"I think that the purpose of this was to look into the ability for college students estimate numerical ranges in correlation to its location on a graph with other various values. "
+"I think the purpose of the experiment was to see how well we can perceive things."
+"I think the purpose of this experiment was to determine the accuracy of 3D charts to 2D charts. "
+"I think the purpose of the experiment was to see how different versions of models affected how people analyzed those models, specifically how accurate they were when estimating the ratios of the bars."
+"To see how accurately people perceive heights. "
+"The purpose of the experiment was to determine if it 2-D or 3-D figures and charts are easier to identify by the human eye. "
+"I think it was to see if people could accurately guess the ration of the two bars in graphs. "
+"To see the perception of different college students"
+"I think the purpose of this experiment was to understand the difference between different shapes on a graph and compare which shape is bigger than the other. I think the purpose was to compare the results of hands-on visualization and online visualization. "
+"I think the purpose of the experiment was to test how students perceived heights based on the closeness/ separation of another given height"
+"To test the ability of students perception of estimating amounts "
+"To see how we compare the different shapes and sizes to each other, so like a null and alternative hypothesis. "
+"I think the purpose was to evaluate how people see different quantities and estimate numbers. "
+"The purpose of the experiment was to determine the proportion of students who could correctly guess the difference in bar graph size based on if it was done online or in person with materials "
+"To determine which type of graph (2D or 3D) yielded a higher percentage of successful estimates by students."
+"I think the purpose of the experiment was to gauge how students perceived bar graph values or just bar values when the values aren't given. There is variability between the physical graphs and the digital graphs as well."
+"I think the purpose of the experiment was to evaluate how easy different presentations of graphs are for people to read, to know which types are best to use when publishing studies."
+"To see if participants could accurately/semi-accurately understand the graphs"
+"To see how the color of the blocks changed the perspective of how tall certain peaks of blocks were."
+"I think it was to test how everyone responds to an experiment like the one we took"
+"I think the purpose of the experiment was to see how people perceive objects compared to one another with potential other distractions. "
+"I think the purpose of the experiment was to see if people can identify a difference in size on the computer vs in person holding the blocks."
+"I think the purpose of this experiment was to try and survey lots of peoples perceptions of size of things."
+"To see how bar graphs can affect someones perspective on the percentages being shown. "
+"To see if people are capable of accurately determining a size difference of objects based strictly on visuals."
+"to see if students can correctly measure the proportions of the blocks"
+"I think the purpose of this experiment was to see how individuals answers will vary/how they see and distinguish different proportions of bar graphs in different arrangements."
+"To see if we would more accurately predict the percentages of the bars with a 3D model or on a 2D model. "
+"I think the purpose of this experiment was to see how well participants could interpret graphs and if having a statistical background via taking a stats class may impact their interpretation skills."
+"I think the purpose is to look at how people interpret the difference in the magnitude of data depending on the form it is viewed in "
+"To determine if people could accurately judge the difference in height with the blocks of different colors."
+"Find how accurate people's perception of size and scale is."
+"To see how different people interpret bar graphs and how they compare sizes based off of purely look given the percentage of the size compared to the other graph.  "
+"I think the experiment was to see what we have learned but also to see each persons outtake on the different shapes. "
+"I think the purpose was to find tendencies in how people select their answers and to pair them with a reason. "
+"To see how certain people would think in different ways and how they pay attention to detail."
+"To see how well people are able to read graphs."
+NA
+"to see what we can observe compared to the actual reading"
+"I think the purpose of the experiment was to see how students compare values (bars) in data sets (histogram) when viewing the histogram in 3-D vs a picture on the computer. "
+"The purpose was to compare how the general public sees data and how researchers see data."
+"Determine if we can approximate the differences in sizes of objects"
+"To see if we could notice the difference of the charts that we were looking at."
+"To show how looking at a flat graph (2D) can change perception and values when looking at a physical graph (3D). "
+"I think the purpose of this experiment was to show us how experiments are conducted and generally how they look."
+"to see how answers can differentiate from different viewers"
+"This was to help us find and determine how to read graphs virtually and in a 3D form. "
+"to investigate people's differing perceptions on graph reading"
+"I think the purpose of this experiment was to test the accuracy of 3D and 2D graphs"
+"Truthfully, I'm not sure what the purpose of the experiment was. However, if I was to guess, I'd say it was like an experiment to see how well people can differentiate two things from one another. "
+"To see how we interpret unlabeled graphs"
+"To learn how people comprehend graphs on a 3d and 2d scale. "
+"I think the purpose of the experiment was to see how people interpreted graphs differently based on if they were 2D or 3D. "
+NA
+"I think the purpose of the experiment was to measure how well the average statistics student can estimate differences in the size of data from visual data sets/graphs."
+"I think the purpose of the experiment was to determine how the choices used when creating graphics of data affect the understanding of the data."
+"To identify which age groups could recognize percentage differentiation in different images and models of charts "
+NA
+"I think the purpose was to attempt estimating percentages in a bar graph. I also thought it was a way to see how close we can get to the right answer. I found myself making educated guesses more than probably getting the right answer, but it made me think critically. I think this was another goal as well, critically thing of the graphs we normally see. "
+"To determine how different types of statistical charts are used and understood"
+NA
+"To test the depth of perception of each person as they estimated the distance between the shortest set of units and the tallest set of units in the set. "
+"Figure out how well people can read graphics made online or if real world examples work better
+
+ 
+
+ 
+
+ 
+
+I DONT KNOW WHERE TO PUT THE CODE SO HERE IT is 
+
+project id 22579
+
+complettion code is like 20 digits but the last is 22895"
+"To determine whether people can “eyeball” the correct proportion."
+NA
+"To see how accurately people can determine dimensions based on different angles. "
+"I think the purpose of this experiment is to determine whether or not people with knowledge/experience with statistics are \"better\" at estimating ratios by observing graphs and models."
+"To see how different students estimate reading bar graphs with no units on the side to help them figure it out."
+"To be able to judge and estimate the size of the the different columns an estimate how much smaller the short was was compared the bigger 100 sized one."
+"To figure out if college students can accurately estimate the difference between two bars. "
+"I think it was to look at bar graphs in a way."
+"I think the purpose of the experiment was to determine how a student interprets the size of a bar within a 3D graph model. "
+"I guess just to figure out how well people were at interpreting data that wasn't given to you based on what we had. Like how we were able to approximate how tall one of the towers was based on the other. "
+"I think the purpose was to determine how people interpret different charts and different percentages in relation to each other. "
+"To see if people understand 2D or 3D graphs better "
+"I think that I couldn't really find a true purpose other than collecting random data. The data was from different classes so it somehow connects with that."
+NA
+"To replicate partial results from Cleveland and Mcgill and to extend their study."
+"see if people perceive graphs differently if online or in person. Also if 2d or 3d have effect on how it’s perceived."
+"The experiment aimed to see how well people can compare bar heights in different types of charts—2D digital, 3D digital, and 3D printed. The researchers wanted to find out if using physical 3D charts could help people make more accurate judgments, especially compared to the often-criticized 3D graphs on screens. They were testing whether hands-on, printed visuals might actually make understanding data easier. "
+"I think the purpose of the experiment was to investigate how well individuals can replicate models coming from two platforms (physical model to online model)."
+"I think the purpose of the experiment was to see the difference between how someone can read a 2D or 3D graph. "
+"The purpose of the experiment was to analyze how accurate my perception of 3D graphics is and analyze and study this data to find the best ways to convey data accurately."
+"At the beginning of the experiment, I was completely lost and did not know what the purpose of the experiment was. During around the middle of answering the questions, I thought it would be about if a person can identify the correct images from the printed models to the 3d images as well as the 2d images. Now, I think the purpose of the experiment is to see what different mediums of data visualization can be more accurately portrayed. "
+"To depict whether a participant will be able to tell how small one part of the blocks are compared to the others in 2D vs 3D. "
+"The purpose of the experiment was to understand why we did this experiment and what we learned from it. "
+"To determine whether physical 3D graphs are easier for people to correctly read than digital 3D graphs."
+"I think that the purpose of the experiment was to see whether or not we could identify different graphs when they look different. "
+NA
+"I think the purpose of this experiment was for us participants to determine how the depth of objects without any clear indications. To be able to estimate lengths and heights of different objects."
+"Figuring out which medium allowed the most accurate judging of difference in the length of the bars."
+"To determine whether people interpret 3D graphs better than 2D ones."
+"to see the amount of hours that a student slept. I and I was comparing different values given to me."
+"To see how viewing a two-dimensional object and a dimensional object can skew our perception."
+"The experiment tests how easy one can identify the target in the graph."
+"I think the purpose of the experiment was to identify whether or not 3D graphs are easier to read compared to other types of graphs. "
+"The purpose of this experiment was to see which graph had a great value between graph A and graph B. "
+NA
+"I think the purpose of the experiment was to see how people were able to understand graphs and 3d data. How people are able to visualize differences "
+"To see if people could identify 2d online or 3d printed bar graphs better."
+"I thought the purpose of the experiment was to see if people could accurately guess the difference in height/ length between two objects. "
+"If I were to wager a guess, it was to replicate a past study examining the effect of visual depth on perceiving three dimensional data visualization."
+"The purpose of this experiment was to determine how well people could perceive and compare data using 3D printed bar charts compared to 2D versions. Aiming to explore whether the depth in 3D formats improved or hindered the accuracy in interpreting visual data. "
+"To allow for the researchers to make a conclusion about which type of graph (2d, 3d, or 3d printed) is better for conveying information."
+NA
+"I think the purpose of this experiment was to better understand how to get students to recognize information/data better. It was to figure out whether 2D or 3D graphs work better for students understanding."
+"The purpose of the experiment was to identify perceptual differences in how 3D and 2D data models are presented."
+"To see how different people visualize numbers."
+"To see how well people can guess or estimate the height of things. "
+"I think the purpose was to compare the effectiveness of 3d printed bar charts to digital charts."
+"I think the purpose of this experiment was to identify the percentage of correctly guessing the distance between two graphs and the average guesses on the percentages. "
+"to gather statistical data about how people viewed the graphs"
+"To determine if it is more accurate to determine size and ratio from a 2d perspective compared to a 3d perspective."
+"I think the purpose of the experiment was to see the difference between how someone can read a 2D or 3D graph. "
+"To replicate partial results from Cleveland and Mcgill and to extend their study."
+"I think that the purpose of the experiment was to see whether or not we could identify different graphs when they look different. "
+"I think the purpose of the experiment was to investigate how well individuals can replicate models coming from two platforms (physical model to online model)."
+"To determine whether physical 3D graphs are easier for people to correctly read than digital 3D graphs."
+"At the beginning of the experiment, I was completely lost and did not know what the purpose of the experiment was. During around the middle of answering the questions, I thought it would be about if a person can identify the correct images from the printed models to the 3d images as well as the 2d images. Now, I think the purpose of the experiment is to see what different mediums of data visualization can be more accurately portrayed. "
+"The experiment aimed to see how well people can compare bar heights in different types of charts—2D digital, 3D digital, and 3D printed. The researchers wanted to find out if using physical 3D charts could help people make more accurate judgments, especially compared to the often-criticized 3D graphs on screens. They were testing whether hands-on, printed visuals might actually make understanding data easier. "
+"I think that I couldn't really find a true purpose other than collecting random data. The data was from different classes so it somehow connects with that."
+"The purpose of the experiment was to analyze how accurate my perception of 3D graphics is and analyze and study this data to find the best ways to convey data accurately."
+"To see if people understand 2D or 3D graphs better "
+"I guess just to figure out how well people were at interpreting data that wasn't given to you based on what we had. Like how we were able to approximate how tall one of the towers was based on the other. "
+"The purpose of the experiment was to understand why we did this experiment and what we learned from it. "
+"I think the purpose was to determine how people interpret different charts and different percentages in relation to each other. "
+NA
+"see if people perceive graphs differently if online or in person. Also if 2d or 3d have effect on how it’s perceived."
+"To depict whether a participant will be able to tell how small one part of the blocks are compared to the others in 2D vs 3D. "
+NA
+NA
+"I think the purpose of this experiment was to see if students taking STAT 218 can understand scale and proportion when reading graphs."
+NA
+"I think that the purpose of this experiment is a continuation/expansion of an experiment that has previously occurred. More data is being collected in order to further the knowledge and statistical evidence that has already been collected. As a participant in this experiment, I can identify the component of the population of interest, being students enrolled in STAT218 (and there may be an age requirement of 19 and older). I am not sure of the duration of this experiment, but I know that we have given permission for our data to be in the UNL records for 3 years, so this experiment is most likely on-going for longer, yet. "
+NA
+"*
+
+expirement .docx"
+NA
+NA
+"The purpose of this experiment was to see how well people can compare data in different types of bar charts—specifically 2D charts, 3D digital charts, and 3D printed charts. The researchers wanted to find out if physically holding and viewing a chart in real 3D space helped people make more accurate judgments compared to looking at a flat or screen-based version. Overall, they were testing whether 3D printed visuals could improve how we understand and interpret data."
+"I think that the purpose of this experiment was to determine how undergraduate students interpret data that is presented graphically."
+"To see if we are understand what graphs have more data entries "
+"To decide what type of graphs are a more effective way to display data for people to understand. Whether humans better interpret a graph based on the way it is presented to them."
+"To better understand how students perceive different heights. "
+NA
+NA
+"To gather statistics on if the triangle or circle bar was taller and we repeated multiple times to see if the triangle or circle bar was taller more of the times."
+"I think it does help you with estimating your percentage in how things can be larger and smaller than one another."
+"To test are abilities to identify different percentages."
+"I think the purpose of the experiment was see the persepective of other students and how they look at graphs. "
+NA
+"To gain insight on how students can mentally measure. "
+"I believe that the purpose of the experiment is to understand how people read graphs and understand what they are looking at. The purpose is to see what amount people think of when they see bar graphs. "
+NA
+"I think the purpose of the experiment was to see how people perceive and estimate numerical values in relation to visual representations, like bar heights, and how accurate those estimations are. "
+"The purpose of the experiment was to see  different people see and visualize bar graphs and data."
+"The purpose of this experiment was to evaluate people's ability to observe and compare the size and scaling of objects."
+"I think the purpose was to identify differences in bar sizes in graphs."
+"how good people are at guessing the difference between objects "
+"I think the purpose of the experiment was to see how the height of the towers next to the ones we were guessing the height of influenced how tall we thought it was. To see how we analyzed the whole situation. "
+NA
+"To compare old studies to new studies. I think the big idea was to perform a nearly identical experiment to one done in the past and compare the results. "
+"I think the purpose of the experiment was to see how people on average perceive proportions without any reference numbers. It could also be to see which age group seems to guess proportions more effectively as well."
+"to see if students can tell the difference between online charts and physical charts"
+"Determining the accuracy of students' observations."
+"I think that the purpose of the experiment was to evaluate how individuals perceive size of the different lengths of the block towers."
+"To determine if people could determine the difference between graphs. "
+"To see how well students are at makes educated guesses about the height of the bars. "
+"The purpose of the experiment was to see how different students can perceive different heights. "
+"To gather information about a certain thing. "
+"Too evaluate how people perceive things differently. "
+"I think the purpose of the experiment was to see how accurately we can estimate the percentages and heights of the bars/blocks based on each other's heights. I also think it is testing how differently each of us sees the heights and how our answers may change throughout the experiment. "
+"I think that the purpose of the experiment was to familiarize ourselves with the context of how we can see statistics in real life. "
+"To interpret how people view graphs. "
+"I think it was to see how college students who are taking statistics can estimate percentages compared to those who are not taking statistics. "
+"to understand how people interpret statistical graphics and how accurately the information can be represented. "
+"To evaluate the accuracy between people to be able to make perceptual judgements. For example, comparing bar heights pf 2D and 3D charts."
+"To test peoples height judgement "
+"The goal of the experiment was to see how people understand and compare data when it's shown in different types of bar charts—like regular 2D charts, 3D charts on a screen, and even 3D printed charts you can touch."
+"to gather students thoughts. "
+"I really think the purpose of this experiment was to see how accurately different people can judge the difference between bar heights, depending on how the graph is set up and how the graph is shown for an example whether the graph is a 3-D or a 2D or physically printed in 3-D they wanted to see if certain types of different graphs make it easier or harder to understand the data that is set before you just by looking at it. It looks like they were testing whether the information that was represented affects how the different people interpret it, especially when comparing the numbers on a visual basis."
+"na"
+"The purpose was to see how well people can understand and compare numbers when they are shown in different kinds of bar graphs. There were comparing regular 2D digital, 3D bar graphs on the screen, and 3D bar graphs printed. Ultimately, they are trying to figure out if the way the data is presented affects how accurately people can read and understand it. "
+"To see if people could tell a difference in the way a graph looked online vs in person"
+"I think the purpose of the design was to tell perception and how that differs between different people. Having a representative block to base one's perception of another block off is something that can be variable between people. Although we all have a general sense and idea of perception, guessing can only be so precise. "
+"To gain an understanding on how bar graphs can be interpreted by different minds"
+NA
+"Improve people‘s perception of space and proportion"
+NA
+"The purpose of the experiment was to evaluate and compare the accuracy of perceptual judgments in interpreting data from 2D bar charts, 3D digital bar charts, and 3D printed bar charts, replicating and extending Cleveland and McGill’s position-length experiment."
+"I think the purpose of this experiment was to depict how others view perceptions of others and see how accurately we differ heights in 3D bar graphs. "
+"To analyze if 2D or 3D graphs are easier to understand. "
+NA
+"I think the point of the experiment was to see if 3D graphs have gotten better over time and if they are useful for data measurement. "
+NA
+"To engage us and learn more about the research. To help us understand how people interpret 2D and 3D printed graphs. "
+"To see if the general population over or underestimates quantities "
+"I think the purpose of the experiment was to challenge students thinking on a deeper level. "
+"I think the purpose of the experiment was to see if we could interpret data better in a 3D way or 2D."
+"I think this experiment aimed to help us (stats 218 students) understand how different variables in a 3D scatterplot, such as shape and color, affect perception and interpretation of multidimensional data in visuals.
+
+ "
+"To better understand statistical concepts such as writing hypothesis, probability, p values, and standardized statistics. "
+"The purpose of this experiment was comparing how accurately people judge data using 2D, digital 3D, and 3D printed bar charts."
+"The purpose of the experiment was to see how well people could compare bar heights in 2D, digital 3D, and 3D printed graphs. The researchers wanted to know if 3D printed graphs help people understand the data better."
+"To understand/test our vision/perception of bar graphs, but I didn't understand why they chose bar graphs. "
+"The purpose of this experiment is to see how well people are able to examine 2D and 3D models. There was some previous data showing that people have a harder time examining 3D models, so this study is trying to replicate these results or see if they are different. "
+"This study aimed to:
+
+*
+
+Replicate and extend the foundational work by Cleveland and McGill on graphical perception.
+
+*
+
+Determine whether 3D printed charts could improve perceptual accuracy compared to 2D or digital 3D charts.
+
+*
+
+Assess how well participants could judge which bar was smaller and estimate the ratio between bar heights across the different formats."
+"To clarify the differences between 2D printed bar charts in relation to their heights, and 3D bar charts."
+"to evaluate how accurately people can interpret and compare data using different types of bar charts, specifically 2D graphs, 3D digital graphs, and 3D printed graphs. It aimed to determine whether 3D printed charts offered perceptual advantages or disadvantages compared to their 2D counterparts, especially with how well participants could judge and compare bar heights representing numerical values. "
+"The purpose of the experiment was to estimate the percentage of students who understand statistical differences by being presented 3D models, versus typical 2D models. "
+"To determine the long run proportion of how many successes students produce in the perceptual ability test."
+"The purpose of this experiment was to gather data on how students interpret different types of charts and graphs. As well as to see how accurate students can interpret different type of charts and graphs. "
+NA
+"To determine how accurately visual, statistical information is perceived across multiple mediums of presentation (2D, 3D, and 3D printed)."
+"To determine how people view 2D and 3D differently."
+"The purpose of this could have been to understand human estimation and its accuracy or inaccuracy without the aid of tools. "
+"I think the experiment was trying to see how people act or think when something changes. The researchers wanted to know if doing one thing would make people react a certain way."
+"I think the purpose of the experiment was to analyze how people respond to percentages given different size pillars."
+"To test a hypothesis or investigate a research question."
+"I think the purpose of the experiement was to see how many people could identify different proportions and shapes between graphs, etc. With little to no information provided. Just based on observations "
+"The experiment was testing which type of graph 2D, 3D on a screen, or 3D printed helps people compare bars more accurately. It was to see if 3D printed graphs work better than screen versions."
+"I think the purpose was to see which kind of graph2D, 3D on screen, or 3D printedhelps people understand data the best."
+"To examine how accurately subjects perceive the size of bars in a 2D, 3D, and a 3D printed chart not only for size but dimension as well."
+"I think the purpose of this experiment was to show that 3D experiments that are printed allow you to get better data compared to ones that are digital. "
+"The purpose of the experiment was to see if people can better determine the size difference between two bars better with a 3D model or a computer model."
+"To determine how different demographics of people understand statistical charts and how they perceive statistical differences."
+"To see which age group has the sharpest/most accurate approximations of visual scaling and/or which graph display (physical, 2-D, 3-D interactive) was the most effective in approximating accurate guesses. To see if the positioning of the irrelevant bars not asked about in each graph helped improve accuracy as references. Possibly also contrasted duration spent on each graph with accuracy and/or age. "
+"I think the purpose of this experiment is to understand how accurately and effectively people interpret data from three-dimensional representations compared to traditional two dimensional representations."
+NA
+"To see how well we can eyes ball measurements and differences between heights "
+"To see if the different visuals of the same graph have different outcomes of how tall the smaller bars are compared to one another."
+"To see which method of presenting graphs showed the most accurate depiction of the data."
+"to see if wed catch onto the repetition."
+"I think the purpose of the experiment was to see how students read bar graphs when they are presented differently."
+"To see the difference between how students picked what they picked for an estimation."
+"to determine the statistics on how people judge comparative sizes."
+"The purpose of the experiment was to identify if men or women can interpret graphs. "
+"I think the purpose is to see how much people can estimate size of graphs in a 3D space since generally they aren't presented to us like that. "
+"To understand how our perception of what the hypothesis per block differed to the actual correct answer. "
+"to familiarize us with looking at and reading graphs, but I think the measured variable is how accurate we are at eyeballing heights and ratios."
+"I think the purpose was to see if people estimate numerical values better from 3D graphs in person or on a screen. This could help instructors when determining class curriculum to decide what form of graphs to provide their students with. "
+"to view graphs in person or in different views on screen to trick your mind into thinking how big a graph was compared to another graph."
+"To demonstrate that people see things differently and there isn't always one correct answer. "
+"I genuinely have no idea."
+"I think the purpose of the experiment was to test what stats has taught us."
+"If you're able to properly estimate based on a given data, compared to another data."
+"I think the purpose of the experiment was to be able to determine if students were able to identify and understand and interpret statistical graphs."
+"I feel as though the purpose of the experiment was to determine our understanding on how we can view the differences in values given on the 3D printed objects. "
+"I think the experiment was to examine whether people can better identify proportions based on a physical or digital model. "
+"The purpose of this study is a little unclear to me, but I think it was to potentially understand the strategies used amongst stats 218 students in choosing the \"taller\" figure. I would assume students' results from this study were compared to the grades of students. "
+"The project aimed to investigate how students comprehend and analyze data given using visual tools such as block-based graphics or models. Its goal was to integrate statistical principles from Stat 218 to real-world visual representations and measure how well students understood them."
+"I was pretty confused about what the goal of the experiment was, but perhaps it was for instructors to gain a better understanding of how students perceive objects. "
+NA
+"The purpose of the experiment was to demonstrate how estimation techniques are used to make inferences about a population and to explore whether an observed effect suggests a causal relationship."
+"I think that the purpose of the experiment was to test how students perceive the height and percentages of different bar graphs."
+"I think the purpose of the experiment was to make you think critically about data analysis and proportions based on graphs/models. "
+"The purpose of the experiment was to investigate how accurately people perceive and compare data using different forms of bar charts—specifically traditional 2D charts, 3D digital visualizations, and physical 3D printed versions. By examining participants’ ability to judge which bar is smaller and estimate the ratio between bars, the researchers aimed to assess whether physical depth and tactile interaction in 3D printed charts improve perceptual accuracy compared to screen-based 3D and flat 2D representations."
+"I think the purpose of the experiment was to retest an old experiment to see if anything had shifted in society since the original experiment was conducted."
+"To see if the results have changed through generations of students at UNL. "
+"I think the purpose of the experiment was to see if different students would read the graphs differently. "
+NA
+"The purpose of the experiment seemed to be testing how individuals interact with or respond to different 3D model designs. It may have aimed to explore how certain features—like shape, clarity, or usability—affect perception or performance when using a model. Overall, the experiment likely intended to gather data to improve design effectiveness or learning outcomes."
+NA
+"I think the purpose of the experiment was to see if people were more accurate with either 2-D charts or 3-D charts in terms of inputting data. "
+"I think the purpose was to see if a 2D or a 3D was easier for people to understand and read."
+"I think the purpose of the experirment was to see the variations on peoples choices. It also showed how everyone thinks and chooses differently."
+"I think the purpose of the experiment was to see how well are college students are able to interpret and estimate the values of bar graphs based off of pictures versus an in person model."
+"I was a little confused in the beginning of the experiment but I feel that the purpose was to see our perspective on how we saw the blocks we used. More specifically to see how people estimate proportions/ percentages and seeing how accurate they are. "
+"how individuals analyze objects on a computer versus physical form. "
+NA
+"I think the purpose of the experiment was to give students a hands-on experience with data collection and interpretation to reinforce concepts learned throughout the course "
+NA
+"A purpose of the experiment is to test a hypothesis."
+"To identify which object was larger/smaller and estimate how much larger and or smaller."
+"I think the purpose of this experiment was to see which bar graph was smaller. You had to chose on, either the triangle or the circle. Another point would be to see how people interpret sizes, if people are more accurate or less."
+"The purpose was to choose which column was smaller. The column associated with a triangle or with a dot next to it.
+
+At least that's what it looked like on the surface."
+"I think that the purpose of this experiment was to test how students perceive the distance of the graphs after taking a stats course."
+"The purpose of the experiment was to see if you could see the shapes in the structures or not."
+"To determine how people view graphs and the most effective graph to show data. "
+NA
+"I think the purpose of the experiment was to see if the person was paying attention to each question."
+NA
+"The purpose was to test out if people can tell the difference in sizes from a 2D to a 3D model."
+"my iq"
+"I thought that the purpose of the experiment may have been to study people's depth perception."
+"The purpose of the experiment was to determine how surrounding influences and proximity affect how one perceives objects. "
+"I think the purpose of the experiment was to test our minds and see if it sees proportions the same when looking at them in different ways. "
+"To see how well people can tell size differences in 2D vs 3D"
+"The goal of this study is to comprehend how we interpret statistical graphics and how precisely we can decipher data from various types of charts.
+
+ "
+"I think they used this experiment to study how individuals see the different regions without a set of numerical data. "
+"I believe that the purpose of this experiment was to grasp a better understanding of how we judge differences based on three-dimensional examples and two-dimensional examples. "
+"The purpose of the experiment was to see how people interpret 2D charts versus 3D charts. "
+"To see if people can accurately correlate relative distance with shades of colors. "
+"I think the purpose of this experiment was to see how people perceive and interpret quantitative information presented in different visual formats."
+"To test our understanding."
+"The purpose of the experiment was to gather information about how well people are able to interpret maps/graphs , specifically color coded maps. This helps researchers create graphs that are easier to understand to people who do not work with this kind of stuff every day. "
+"I believe that the purpose of this experiment was to gauge our understanding of spacial and color awareness."
+"The goal was to see how people read and interpret heat maps, specifically whether they could correctly figure out which letter on the grid represented the larger quantity. It was basically testing our ability to make quick, accurate judgments based on visual data."
+"To observe how accurately people can estimate differences in values from heat maps and 3-D block charts."
+"i think the purpose of the experiment was to work on depth perception and how well someone can tell whether one color on a depth scale is higher/lower than another "
+"I think the purpose of the experiment was to see how well people can understand 3D graphs or charts, especially when they're shown on a screen. It probably also wanted to find out if having a physical 3D-printed version of the chart helps people understand the data better. Overall, it seemed like the experiment was about how different ways of showing data affect how people read and make sense of it."
+"The purpose seemed to be testing how accurately and quickly people can interpret and compare values represented visually in a heat map. It might have been aimed at understanding whether people can judge relative magnitudes from color intensity and spatial location without seeing the actual numeric values."
+"I am not completely sure what the purpose was, I generally struggled with the information that was presented for us to make decisions off of. If I had to venture a guess, I would imagine that could be part of the experiment. The hypothesis was not stated, but could be inferred that given the heat variant maps, and limited data sets, students would incorrectly or correctly answer the questions. We, the students would be the experimental group. The controlled variable is that each student is taking the same \"quiz\" with the same questions and the same information. Variables would be that each student may answer the questions differently. "
+"I think the experiments purpose was to use statistical evaluation and probability of which would have a higher amount based on its Heat color from the map. This can help identify differences."
+"I think that the purpose of this experiment was to allow us to understand how different variables can be represented in data. We then could use our resources given to see which variable was bigger and by how much. "
+"To identify which graph type is more accurately interpreted/ more clearly communicates the results to viewers."
+"I think the purpose of the experiment was to evaluate the ability for the human mind to successfully differentiate between color shade differences and 3-D height differences when analyzing a graph. "
+"To test how we read graphs and statistical charts in different ways. "
+"The purpose of the experiment was to compare our answers from the 2-D and 3-D designs. One design was easier to answer while the other one was more difficult. With comparing our answers it can show what model is easier to get accurate information from. "
+"to read 3D plots and see how different things affect quantity"
+"I think the purpose is to determine what type of data visualization is most easily/accurately understood, or perhaps what type is most misleading."
+"The purpose was to compare data in a visual way, which represented heights and colors."
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+"To see which type of graph is easier to decipher."
+"I think the purpose of the experiment is to test people's perception of size when using different shapes. "
+NA
+"To see how student interpret t the question and it there answers change even when the difference in space between bars is the same."
+"To see if students got progressively inaccurate as the graphs went on"
+"Personally, i can identify that they are separating results based on different age groups, as far as the charts that were involved my only guess in the experiment is that they were studying aproximation within different age groups, the goal is to see how well different age groups can determine approximately how high a certain bar is in conjunction with another."
+"I think the purpose of this experiment was to determine how well we can differentiate smaller and larger bars on 3D bar graphs. "
+"To determine how different mediums (3D vs 2D) affect the visualization of data."
+"I think the purpose of the experiment was to see whether your perception of the size of the graphs changed based on the size of the bars next to the bars. "
+"The purpose is to evaluate if different formats of presenting data affects people's accuracy in making comparisons and perceptual judgements based on bar charts."
+"To see how well the general population interprets data between 2-D graphs and 3-D graphs. "
+"The purpose of this experiment was to measure perception judgement in a population currently in statistics."
+"I think this experiment was about understanding people perceptions based on size and understanding."
+"To see how humans are able to perceptualize different graphs "
+"I believe the purpose of this experiment was to test vision/perception by asking the participant to see which bar is smaller and by how small it is from different perspectives (2D/3D)."
+"I think the purpose of this experiment was to see if people who are in a statistics class differ at all from others in this study. Also the study was able to get a larger sample size with people in STATS 218 participating in the study. "
+"The purpose of the experiment was to see if 2D and 3D models can affect the perception of those who are currently looking at the graph. Will 3D graphs make the participant exaggerate the difference in two bars? "
+"I think the purpose was explore how data is interpreted by students and what interpretations/conclusions we can make from graphs."
+"To gage students skills at estimating relative size ratios."
+"test how accurately we could get the sliders"
+"To see if we could identify which graph was smaller and by how much by looking at different graphs in different ways. "
+"To gauge how visual distractions affect perception of size. "
+"To see how accurate one can assume the specific height of a ar is to another on the same graph "
+"I think the purpose of this experiment was to be able to demonstrate how angles alter an individuals perception. "
+"To measure the difference in how well participants analyze data presented in 2D graphs compared to 3D graphs. "
+"I think the purpose of this experiment was to test if taking statistics makes a person able to differentiate and compare the two bars better than someone not taking stats 218."
+"To test how someone measures two variable in front of them "
+"I think the purpose of the experiment was to study differences in size estimation between different visuals representations."
+"I think the purpose of this experiment was to determine if bar graphs can be more correctly interpreted in either two-dimensions or three-dimensions.  "
+"To test how much people perceive the percentage of something to smaller "
+"To see if there is a preference when displaying data. Is there a better route to be taking. "
+"I think that the purpose of this study was to get a visual on what perspectives people see certain graphs. "
+"I think the purpose of this experiment was to get a better understanding of where STAT218 students land. "
+"To investigate how different forms of graphs are interpreted by individuals. "
+"To see if we could accurately read the 3D printed, 3D, and 2D graphs "
+"To determine if 3D-printed bar charts were easier to interpret and/or affected judgement than 2D bar charts. "
+"I think the purpose of this experiment was to explore whether or not participants could determine the size difference between the two bars.  "
+"I think that the importance of this experiment was to determine if visual depths is a limiting factor in peoples ability to correctly distinguish between graphs with different values. "
+"When evaluating the experiment in Stat 218, focus on key elements: clear research question, randomization, control group, treatment variables, sample size, data collection, experimental procedure, statistical analysis, ethical considerations, and meaningful conclusions. Assess these aspects to determine the experiment's validity and any potential limitations.
+
+ "
+"To understand which bar graphs are easier to determine what is being shown on the graph. "
+"To find out if students can identify heights of bars and comparisons in 2D and 3D / also if colors make a difference in what we see."
+"Reading graphs"
+NA
+"The purpose of this experiment was to see if we can accurately guess how much taller or shorter one of the bars are compared to the other. "
+"To evaluate how students choose variation in shapes. "
+NA
+"I think that the. purpose. of the experiment was to investigate how different groups of students both read and understand statistical graphs. I think they want to see what graphs allow for people to read information from charts and what the easiest way to present information via statistical charts."
+"The purpose of the experiment was to test if people could trust their eyes and estimations. "
+NA
+"The purpose of this experiment was likely to explore how effectively 3D-printed visualizations can help students understand and interpret statistical data. By providing students with physical 3D models, the experiment might have aimed to assess whether interacting with tangible representations of charts or graphs enhances comprehension of statistical concepts—particularly those related to evidence strength, effect estimation, confidence, causation, and comparison of proportions and means. Additionally, using the app to guide students through the steps ensured that each participant followed a standardized process, allowing for consistent data collection on how these 3D visuals impact learning outcomes."
+NA
+"To see how people view optical illusions and how it affects people ability to know the true size."
+NA
+NA
+NA
+NA
+NA
+NA
+"I believe the purpose of this experiment was to understand how accurately STAT218 students can perceive statistical graphics when asked questions related to comparisons of objects. "
+"I think the purpose of the experiment was to see if there was a difference between 2D and 3D models when comparing two different sized objects. Essentially how the dimension of an object affects the perception of an object's height."
+"The purpose of the experiment was likely to determine the difference in perceptive ability in 3D versus 2D models. "
+"To see how people in stats perceived graphs. "
+"It seemed like the experiment was trying to determine how well students could approximate height proprotions of blocks relative to one another in different formats.  "
+NA
+NA
+NA
+"The purpose of the experiment was to see how people perceived each graph to be a certain number. I think that as the experiment changed which graph was considered like the controlled variable to see how that changed what your judgement was towards the the sizing of the other graphs. "
+"I think the purpose of this experiment was to count the graphs and the proportions."
+"To collect data on people’s brains "
+NA
+NA
+NA
+"I think the purpose of the experiment was to see how different people see and analyze different sets of data "
+"I think the purpose of this experiment was to show how people perceive different shapes and the size of them. I was used to compare sizes that someone sees with the naked eye.  They were also trying to see if a 2D or 3D look had an affect on the responses. "
+NA
+"To accumulate data while maintaining system structure and organization. "
+"The purpose of this experiment was to gather data for a study."
+NA
+NA
+NA
+"To explore how accurately we read data visualizations and understand the effectiveness of different statistical graphics."
+"\"The purpose of this experiment most likely was to explore the precision with which participants can compare the size of visual elements, like bars, when one acts as a reference. This present study can look at asking participants to make estimates regarding the height of a smaller bar in relation to a larger one.
+perceptual biases, estimation accuracy, and how the visual context influences the ability to judge relative sizes. A finding such as this may help explain common errors made in visual perception and judgment."
+"I think that the purpose of this assignment is to see how students view data differently. "
+"The purpose seems to be about whether or not people have a sense of interpreting graphs with confidence and accuracy. This study could help cut down on mistakes that might come from overanalyzing or getting lost in minor details to make it easier to interpret graphs where data visualization is used.
+
+ 
+
+ 
+
+ "
+"The purpose of this experiment might have been to assess how well students can visually judge relative sizes, such as height or volume, and quantify them in proportion to a standard value. The experiment could also explore the cognitive processes or biases that affect visual estimations, especially in a statistical learning context."
+"I think the point of the experiment was to test our common sense to a degree and see if we can tell the difference between different sizes by estimation."
+"I think the purpose of this experiment was to look deeper into how people read statistical data to further improve the way data is shared."
+"To determine if the original study stayed true over time, or if we developed better technology for 3D rendering of graphs and the ratios they represent. "
+"To gauge how people perceive bar charts based on whether they are 2D or 3D"
+"This experiment was to investigate how the different data between the printed version and the digital one affect the guessing or accuracy participants made.   "
+"I think that the purpose of this experiment was to see whether our vision would be different compared to different models. We were given 3 different kinds of models, one that was flat, one that was physically 3d, and one that was a digital object you could move on your computer. By choosing which tower was larger, and what percentage that would be, how would it be different through out the 3 groups."
+"To explore how we interpret 3D graphs different than 2D. "
+NA
+"I am still a little unsure what the purpose was because we did not get a hypothesis but I assume it was to see how well we could guess heights based on specific views. They did ask our favorite animal at the beginning as well as age and gender but I do not know how those questions affected the experiment. "
+"The purpose of this experiment was to see if there was a difference in the way people read graphs."
+"For the researchers of this experiment to see what students observed in their judgement to 3D sizes"
+"To compare the efficacy of 3D rendered models, 2D models, and 3D models on a 2D plane at identifying the scale of the data values."
+NA
+"The purpose of this experiment was to emphasize the connection between statistics and scientific research and to connect the information taught in Stat 218 to current scientific investigations in statistics. The purpose was also to understand how we perceive statistical graphics and how accurately we can read information from charts represented in different ways."
+"I think the purpose of the experiment was to see how students viewed different graphs and to see our perception of how much larger a bar graph is compared to one side by side."
+"Researchers can evaluate participants' understanding of data and interpretation by having them compare the heights of two bars and then estimate the height of one bar based on the information provided. This can include generating estimates based on insufficient data and comprehending statistical concepts like mean."
+"I think the purpose was to examine students' ability to correctly estimate size differences and proportions. There could be an added part of seeing if estimates are more accurate on computers or with the 3D models depending on if the research just wants to look at in person responses 
+
+ 
+
+ "
+"I think the purpose of the experiment was to see how people perceive and judge relative sizes."
+"To judge if certain presentation styles made it harder to interpret data shown on the graph.  "
+NA
+"I think that the purpose of this experiment was to see if participants ability to estimate the height of the bar by comparing it to another bar with a known height is impacted by whether or not the bars are right next to each other or if there are bars in between. "
+"To determine the purpose of the experiment, I would need more specific details about the experiment itself, such as its design, hypothesis, and the variables involved."
+"The experiment likely aims to gather data on perception and estimation accuracy,"
+"i think that the purpose was to see how well students can infer the size of the smaller graph"
+"To determine whether or not we can gauge the ratio of shapes based off images. "
+"The purpose of the experiment could have been to determine how closely students can estimate using bar graphs."
+NA
+"The propose was to see if we can acccuretly guess the amount "
+"I think the purpose of the experiment was to see how well people can read information when they are shown in different forms. "
+NA
+NA
+"I think the purpose of this experiment was to better determine how good people are at guessing percentages of bar graphs. "
+"To determine how people interpret the size of bars on a bar graph."
+"How well the participant can identify the size difference between each bar."
+NA
+"I'd imagine it was to determine if there is a correlation in the perception of size based on other objects around that said object and possibly by age and gender as well."
+NA
+"to test how we evaluate proportions when they are side by side vs apart vs 3D vs 2D and how the bars next to them can effect our answers"
+"The purpose of this experiment was to see if people could identify the height of one of two different bars if given one of their heights "
+"To see how close to accurate we got measuring sizes of the bars when they are apart or around other sized bars. "
+"To observe how students view the height of the bar compared to another."
+"to get data and estimate how students will see graphs"
+NA
+"To categorize, based on demographics, who could reasonably tell the difference between the two structures. "
+"Not very sure. Maybe to compare sizes of different bar graphs 2D and 3D."
+"to see if people pay attention to the other bars instead of the bars that were indicated with the shapes"
+"The purpose of the experiment likely aimed to investigate a specific research question or hypothesis within a particular field or domain. It may have sought to explore the effects of certain variables, test the efficacy of a new intervention or technology, or contribute new insights to existing knowledge. Overall, the experiment likely aimed to advance understanding within its respective field and potentially offer practical implications or applications based on its findings."
+NA
+"To compare the two different bar graphs participants chose to see which graphs produced a more accurate answer from the participant. "
+"I would think that the purpose of the experiment was to see how changing the shape, length of the block, length apart from each other and perspective (3d or not) of the blocks affect how the blocks are perceived by the audience. "
+"To test hypothesis and The purpose of an experiment is to gather data to determine if the results support or contradict the theory."
+"To see which graph was longer. "
+"Maybe understanding the perception of accuracy maybe the wanted to investigate how accurate individuals perceive and estimate the height of graphical representations. Or the purpose could of been understanding and assessing the graphical designs of the bar graphs they may have wanted to understand and evaluate the effectiveness of different graphical designs and how us viewers would convey them."
+NA
+"to get a statistic of what the average answer was for each question"
+"I think it’s purpose was to to see how well people could gauge based on sight. "
+NA
+"I do not remember the question that the experiment was testing as I participated in the experiment a week or two prior to this questionnaire being posted. I believe it was something to do with testing whether gender played a role in if one can accurately guess the percentage of area. Object 1 compared to object 2, whichever is smaller, what percentage of area does the smaller object cover of the larger object.
+
+ 
+
+Purpose was to see if gender had an effect on one’s accuracy to guess this."
+NA
+NA
+NA
+"I think that the purpose of the experiment was to see how accurate people can be at guessing somethings height/value."
+NA
+"I think that the purpose of this experiment was to see how accurately people can identify the difference in heights of the bars in bar graphs. It shows how we can have a skewed perception of data shown on bar graphs, as we cannot tell how much different they are. "
+"To identify whether the naked human eye can detect skewed differentiations. "
+NA
+NA
+NA
+NA
+"The purpose of the experiment was to test pattern recognition. To see the trends in problems and how to solve them."
+"I think the purpose of this experiment was to see how students in the statistcs class could estimate values and use problem solving. "
+"The possible purpose of the experiment could be to gauge the accuracy of a population's perception of ratios between objects."
+NA
+"The purpose of the experiment was to determine how accurately students could estimate proportional relationships using 2D and 3D models."
+"To generalize an experimental unit. "
+"to determine students' ability to identify shape of samples and ability to calculate. "
+"To see the ability to make predictions."
+"the purpose of the experiment was to measure blocks and to see which variation was taller or shorter. "
+"To see how well students in Stat 218 estimate the height of an unknown amount when given a height you can compare it to."
+"to measure how well people can measure the different in height between items "
+NA
+NA
+"To see how we judge sizes."
+"I think the purpose was to see how well each person can determine height differences. "
+"I think the purpose of this experiment is to see how far people's perception of data could be. This is a good example of standard deviation. "
+"Understand estimation skills and depth perception in participants."
+"To find how accurately people can read bar graphs"
+"To see how accurately people can estimate the size of the graph."
+"I think the purpose was to see how the surrounding size of bars in a bar graph can make the chosen bar look smaller or larger than it actually is."
+"To determine if people can understand and read heat graphs. Or maybe if we can see this differences in colors.
+
+ "
+"To test if the participant would be able to read graphs."
+"If I am being completely honest, I don't know, but if I had to respond, it would be if we stick to our main answer. Being asked the same questions over and over makes us question if we are doing it correctly. "
+"Truthfully I have no clue what the experiment was about simply because it was something that felt like it was common sense. I wonder if they were analyzing different individuals interpretations on the problems we were given. "
+"I think the purpose of the study was to be able to identify statistics without numbers and just looking at boxes"
+NA
+"I think the purpose of the experiment was to see if people are able to understand which value is bigger of two variables in the space "
+"The purpose of the experiment was to prove that people are better able to undestand variation when provided with a physical model."
+"I think the purpose of this experiment was to test how well people can compare numbers when shown in different charts like 2D heatmaps and 3D models."
+"I think this experiment was to focus on learning how to recognize the difference between numerical statistic results and to show the difference between different results and their relation on the graph. "
+"To gage human depth and graph perception. "
+"Testing people's abilities to accurately assess height differences and hue differences (as in x and so much taller or lighter than y)"
+"To see if students interpret better through the use of technology or their hands."
+"To see if we can follow instructions "
+"I think the purpose of the experiment is to test our thinking, it was thinking relaying with patterns which has different designs and colors."
+NA
+"I honestly don't know.  Without prior knowledge, I would say it was for measuring how well people can interpret 2d vs 3d structures and color scales.  However, the Pre-reflection didn't ask about that but rather the participants' feelings on stats.  However, I also could be overthinking, so I truly don't know."
+"Not sure, maybe answer assurance or repetition of the same answer with different povs."
+"To see how we analyze statistical figures. "
+"I think the point of this was to be able to tell how well student interpret graphs without context. "
+"I think the purpose of the experiment had something to do with how we correlate color and rankings or height and rankings. Or it could be something about the difference in accuracy when looking at an in-person 3D model vs an online one. "
+NA
+"I think the experiment was to test if students are better able to understand if there is a physical model to examine.  "
+"to see how people would interpret a graph based on colours vs a 3 dimensional graph.  "
+"To observe patterns of the two variables. "
+"Testing students understandings of reading graphs."
+"To test our understanding of the depth of data on a computer-based or a handheld basis. Or to test how computer-generated cubes are harder to read data off of."
+"To see the change in answers over time."
+"To see if a change in certain colors initiated a certain response, not just based on numbers. "
+NA
+NA
+"I think the purpose of the experiment was to see hands-on what the different values can be. "
+"To text how people see the different heights of the letters."
+NA
+"The purpose of this experiment might have been to test the ability of respondents to compare heat map values."
+NA
+"To gather information on how people decide between the letters and sizing."
+"To see how the estimates people make about differences in size would change based on the format they are shown in."
+NA
+"I think the purpose was to see if college students could find the pattern and apply what was being asked. "
+"I think the purpose of the experiment was to observe how different people observe and estimate by looking at something. The different colors were sometimes difficult to differentiate from each other, and often the blocks weren't right next to each other which made it harder to decide the size difference between them. "
+"I think that the purpose of the experiment was to determine the relationship between peoples perception of value and depth with the deepness of colors. "
+NA
+"To see how people would make decisions based on different measurement gauges "
+"To see if students understand heat maps. "
+"I do not know "
+"Judge the classes overall grade on what information we have retained from the curriculum up to this point. "
+"To observe/compare the way people observe objects, and what values they give to two points on the object. "
+"I think the purpose of the experiment was to observe the differences in observation of the heat maps based on the medium they were presented to us, and how this shaped our potential bias."
+NA
+"I think the purpose of the experiment was to evaluate how these models could accurately explain data.  "
+"I think the purpose was to see how people digest information in both a physical and an observing plane and how that can influence our perspective on mass and dimension. "
+"In order to see student's knowledge of statistics and their understanding of graphs and density. I think this study was supposed to pinpoint where students believe each spot on the graphs to be and what can confound each graph."
+NA
+"I think the purpose of the experiment is to see how different your answers were when looking at the different heights of the different numbers"
+"If we were able to correctly judge how significant of a difference there was in elevation of each spot."
+"To get to see a real life scatterplot of info that you found relevant to research on, and to put our knowledge to use. "
+"I thought the purpose of the experiment was to determine the data analysis understanding of the average student."
+"To see what we knew and how we looked at the certain figures."
+NA
+"I think the purpose was to see if depth perception is different on a screen and in real life"
+NA
+"To determine the average person's ability to read and interpret graphs "
+"See if technology makes it easier to identify heights or if in person models are better. "
+"To see how most people read graphs and if most people are thinking the same distance for graphs."
+"To evaluate whether or not people can read graphs with confidence and accuracy. "
+"I think the purpose of this experiment is to see if people know how to guess the size of different bars if one bars measurement is given to you. "
+"Visual perception"
+NA
+"To see if different people were able to determine the size difference between the blocks that they chose."
+NA
+"I think the purpose of the experiment was to take statistical charting on different students how the different types of statistical charts are used and understood. "
+"To see how well students in Stats 218 can understand and visualize graphs. "
+"To see how other people might view the bars differently."
+"To better evaluate how the general public understands graphs. "
+"Figuring out our problem solving skills. Maybe testing our eyesight, how accurate we are when seeing things in real life as opposed to a 3d Model on the screen, or a 2d image on the screen. "
+NA
+"Our observational skills. "
+"I think the purpose is to compare how graphs look physically vs virtually. It probably has something to do with making sure graphs look accurate to the data."
+NA
+"to test if we could tell the difference between heights  "
+NA
+"to test if the other blocks affected how we perceive things right next to it"
+NA
+"I think the purpose of the experiment was to determine how well people could determine the different heights when comparing two bar graphs and how they were different or similar."
+"I think that the purpose of this experiment was to see the average number of either the triangle or circle bar. "
+"It can help us learn more knowledge about plane graphics and stereo graphics."
+"I think the purpose of this experiment was to evaluate our analytical abilities when concerning graphs."
+"The purpose of the experiment was to catalogue how accurately people are able to read graphical representations of data depending on the medium in which this data is presented (digital 2D, digital 3D, digital 3D interactive, and real life 3D)"
+"The trick of a person's feeling. Following a 2D model, 3D model or a actually figure, the person would give different feelings of size."
+"My guess is that it was either about graph reading ability or fatigue in estimation over long periods of test taking. "
+"i think that the purpose of this experiment was to see our sense of perception while also testing our cognition about thought processes. "
+"The purpose of the experiment was to identify which type of graph people can interpret more accurately (e.g. the 2D graph, the 3D adjustable graph, or the physical 3D printed graph). "
+"To gather data about what method of communicating data to others is best for comprehension."
+"To see how well a 3d model did vs a 2d graph on a screen to convey information/data to people. "
+"To see how a person and gauges differences. "
+"It was to see how well people can judge proportions off sight alone."
+"I think the purpose of the experiment is to find how students accurately predict a percentage of a bar graph."
+"I think the purpose is to se how college students correctly tell where the bars are at compared to each other. "
+NA
+"I believe the purpose of this experiment was likely to investigate how people perceive and make judgements about three-dimensional objects when presented with two-dimensional representations. "
+"To learn more about students "
+"Recognizing how perspectives and conclusions can change with context/additional data."
+NA
+"The purpose of the experiment was to compare the results of this study to a replica of a study conducted in the past. "
+"To determine the efficacy of different graphical representations of data in conveying the intended information."
+"To see if a specific group of people are better able to visually identify numerical difference over another group of people "
+"I think the purpose was to find out if what different students thought the amount was based on a picture and then what it was based on the corresponding 3-D model lined up. If they have a bar graph and one value is 100, it would then ask what our perception of the value was of a graph with a different size next to it. "
+"Finding the stats of how people perceived different heights."
+"I think the purpose of the experiment could have been the see the different ways data could be visualized (2D graphs and 3D printed graphs, and 3D digital graphs). 
+
+They wanted to replicate the findings of Clevland and McGill's work and are trying their best to replicate it as best as possible. "
+"I am not sure to be honest, but to see who gets the most right, maybe even by sex. "
+"To identify how people visualize graph heights off of other hieghts. "
+NA
+NA
+NA
+"To find out if the person had a different vision as other people, meaning that the shapes were different seeing if people with dyslexia could figure out the shapes. "
+"To determine how well students can evaluate the height of bar graphs when looking at physical models compared to pictures on the screen. "
+"To determine how well stats students can interpret physical distributions. "
+"determine whether people can more acurrately estimate the height of a bar in a bar graph if the graph is Physcial (4d?), 3d or 2d.
+
+ 
+
+iv: physical graphs vs 3d graphs, vs 2d graphs 
+
+dv: accuracy of bar height estimation when compaired to another bar on the graph"
+NA
+"To see how well students can read and differentiate graphs."
+"I think that the purpose of the experiment was to estimate to the closest value possible. "
+NA
+"To allow students to analyze the differences in heights of the blocks in the experimental design"
+"To gain a understanding of how one may assume and estimate a quantity. "
+"I think the purpose of the experiment was to see what colors and what shapes students picked out first. "
+"I think that the purpose of the experiment was to compare different individuals' answers to the questions. "
+"To determine which method of interpreting graphs provided more accurate results."
+"I think the purpose of the experiment was to see how 3D models would affect spatial calculations and estimations"
+"Determining the population's ability to determine proportion in comparison to actual proportions"
+"To test perception based on a physical diagram vs a visual "
+"I think the purpose of this experiment was to have as many outcomes as possible, allowing the researcher to be able to repeat it as many times as they would like. Given this, experimental probabilities of serval outcomes can be measured and calculated. "
+NA
+NA
+NA
+"To check how accurate students are at reading bars. The experiments might also have a hidden purpose because scientists sometimes hide the actual purpose until the experiment is over to avoid biases. "
+NA
+"To see how each participants perception works"
+"To measure how students or individuals perceive distances in bar graphs. "
+"Experiment that I had in class is learning about how stat is really important in this world. purpose of the experiment was when you learned what you need to learn about."
+"To determine how people visualize the numerical amount of data on bar graphs "
+"I think the purpose of the experiment was to determine if physical models make it easier for students to interpret values based on relative size of the bars of a bar graph. "
+"to see if we can acurately guess the height of the blocks
+
+ "
+NA
+NA
+"I think the purpose of the experiment was to test perspectives about the distribution of the bars. "
+NA
+NA
+NA
+NA
+"I think the purpose of this experiment was to collect data on how participants interpreted the values of different bars in comparison to different lengths/heights."
+"To see how accurately people could guess the sizes "
+NA
+"I think the purpose of the experiment was to look at how we view graphs and how we can evaluate and estiamte results given a specific graph. "
+"I think the purpose of the experiment was to see how individuals visualize data in real life 3D printed form versus how they view it in an online or 2D space and to see if there was any drastic differences between the two."
+"I think the purpose was to see how we view an interpret the different shapes"
+"I think it could've been seeing how different people perceive things in different ways. "
+NA
+"I think the purpose was to investigate whether people can estimate quantitative values of 3D graphs and compare it to the values people estimate for 2D graphs."
+"To see how well our depth perception is/ spacial awareness."
+"To see how college students make assumptions based on comparison of size. "
+"the purpose of this experiment was to determine judgements between 2d and 3d printed bar charts"
+NA
+NA
+"I think the purpose of this experiment was to test how people view different graphs. This is tested by graphs online and 3D printed graphs. "
+"To determine which type of bar graph people can better understand and what group can interpret the graphs better (statistic students or not statistic students). "
+"To see whether people were more easily able to identify the difference in height between two surfaces in 2D, electronic 3D, or physical 3D."
+"To compare the people's answers"
+"To see if there is a statistically significant difference between the accuracy of interpreting 3D data visualizations rendered in a 2D environment versus 3D data charts rendered in a 3D environment."
+"I think the purpose of the experiment was to determine our ability of approximation, and how extreme our eyes skew the truth of size. "
+"To determine the difference in perceived difference of 2 graphs from the actual difference, and if it differed between digital and physical graphs."
+NA
+NA
+"I think the purpose of this experiment was to see how the answers varied between physical bar graphs, stationary and 2D, and 3D but located on a computer. Even though the graphs were the same, the perceptions were different. "
+"To understand perception guesses of blocks between different 3D models. "
+"The purpose of the experiment was to use statistics students to determine a certain probability or statistic of guessing the heights of the bar graphs. "
+NA
+NA
+"To evaluate how people interpret data from 3 different visuals."
+"To judge which graph is smaller or larger using 2d and 3d bar graphs."
+"The purpose of the experiment was to assess the effectiveness of 3D printed bar charts compared to traditional 2D and digital 3D charts in conveying information accurately. While also extending previous research on judgments in data visualization.
+
+ "
+NA
+"Possibly to see if a physical or online image serves best in physical length estimation. "
+NA
+"I think the purpose of the experiment was to evaluate our Stats knowledge in comparing two different objects mathematically."
+"The purpose of this study was to replicate the results that were present in the Cleveland and McGill study from 1984. This study was to experiment perceptional judgement of different 3D graphs."
+"To find how accurate people were at guessing using different visuals."
+"I think the purpose of the experiment was to find out how near to the actual value of the smaller bar on the graph people typically can guess, from different perspectives. The point of view, nearness to the taller bar, and other factors changes from question to question, so I assume the experiment is analyzing how that affects the choices of values. "
+NA
