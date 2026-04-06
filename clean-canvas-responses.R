@@ -33,7 +33,8 @@ semester_info <- df_cleaner %>%
            month(mean_date) %in% 6:8 ~ 'Summer',
            month(mean_date) %in% 9:12 ~ 'Fall'
          )) %>%
-  mutate(experiment = ifelse(year == 2025 & semester == 'Fall', 'Heat map', 'Bar chart')) %>%
+  mutate(experiment = ifelse(year == 2025 & semester == 'Fall', 'Heat map', 'Bar chart'),
+         section = as.numeric(section)) %>%
   arrange(year, semester, section) %>%
   select(-mean_date)
 
@@ -55,4 +56,6 @@ df_cleaner %>%
   type_convert() %>%
   filter(attempt == max(attempt)) %>%   #One participant responded twice
   filter(`As of today I am at least 19 years of age` == T & `My instructor may share my reflection responses with the researchers in this study` == 'I agree') %>%
+  left_join(semester_info) %>%
+  distinct() %>% #Make sure there are no duplicates since files are recursively selected
   write_csv('data/student-responses.csv')
