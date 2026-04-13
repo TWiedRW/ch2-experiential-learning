@@ -1,16 +1,6 @@
 ---
-title: "CHAPTER 2"
-bibliography: references.bib
+title: "Experiential Learning (PLACEHOLDER)"
 ---
-
-## Abstract
-
-A key component of statistics courses is to teach students how to interpret data visualizations.
-Although many research-based recommendations exist for creating graphs, the technological advances for creating such graphs have outpaced studies that evaluate their effectiveness, especially when considering 3D graphs.
-Here, we describe a process for integrating an experiment on 3D graphs as part of a project on statistical investigations for students enrolled in an introductory statistics course and gathered responses as students reflected on their experience of being a participant in the experiment and then being a reviewer of empirical evidence about the experiment A total of 82 students participated in our graphics project.
-As participants in an experiment, they displayed a pattern of not fully grasping research objectives as evidenced by widely varied responses.
-However, as reviewers of material from a pilot study of the same design, they tended to gain a clearer understanding of the purpose of the experiment and its role in the realm of data visualizations by correctly interpreting an extended abstract and video presentation of the pilot study.
-The project we presented to students shows promise as an educational tool for helping students gain a more holistic view of statistical research, which is important in both the contributions to data visualizations and the education of statistics.
 
 ## Introduction
 
@@ -23,7 +13,7 @@ This process can expose students to concepts such as randomization and let stude
 @loy2021a has demonstrated that student participants often recalled their experiment in later concepts, showing some evidence that students can benefit from the hands-on experience.
 
 In addition to using experiential learning broadly, a key aspect in the statistics classroom is teaching students to interpret data through graphs.
-Nearly 40 years ago, @cleveland1984 began the process of establishing good practices for making graphs.
+Nearly 40 years ago, @cleveland1984 began the process of establishing good practices for making graphs, although characteristics of creating graphs have been studied for nearly a century [@vanderplas2020].
 While their findings have been replicated [@heer2010], many areas in data visualization remain underdeveloped that can benefit from the framework used by @cleveland1984.
 One such area is the projections of 3D data visualizations.
 The current mantra is to avoid 3D graphs when possible and studies around the 1990s seem to provide some valid skepticism of their use [@barfield1989; @fisher1997].
@@ -141,7 +131,7 @@ knitr::opts_chunk$set(echo = F, warning = F, message = F)
 
 # Read data
 library(tidyverse)
-res <- read_csv('responsesAGRO.csv')
+res <- read_csv('../../manuscript/responsesAGRO.csv')
 ```
 
 ```{r}
