@@ -1,0 +1,72 @@
+---
+title: "Q11 Classification"
+format: pdf
+fontsize: 12pt
+geometry: margin=1in
+header-includes:
+  - \usepackage{amssymb}   % for \square
+  - \usepackage{setspace}
+  - \setstretch{1.2}
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+```{r}
+library(tidyverse)
+res <- read_csv('../../data/student-responses.csv') %>% 
+  filter(experiment == 'Bar chart')
+q_pos <- c(13, 8, 10, 11, 12, 9, 4, 14, 16, 17, 15) + 1 #Zero index, so add 1
+q_lab <- factor(paste0('Q', 1:length(q_pos)), 
+                levels = paste0('Q', 1:length(q_pos)),
+                ordered = T)
+q_df <- data.frame(
+  question = names(res[q_pos]),
+  label = q_lab,
+  module = c('Pre-experiment', 
+             rep('Post-experiment', 5), 
+             rep('Abstract', 1), 
+             rep('Presentation', 4))
+)
+  
+df <- res %>% 
+  pivot_longer(q_pos, names_to = 'question', values_to = 'response') %>% 
+  select(id, section, question, response) %>% 
+  left_join(q_df) %>% 
+  filter(label == 'Q11' & !is.na(response))
+```
+
+
+```{r}
+#| echo: false
+#| results: 'asis'
+df$response <- gsub("\n", " ", df$response)
+
+for (i in seq_len(nrow(df))) {
+  cat(paste0(
+    "\\noindent\\textbf{ID:} ", df$id[i], "\n\n",
+    
+    "\\textbf{Response:}\n\n",
+    df$response[i], "\n\n",
+    
+    "\\vspace{0.75em}\n",
+    "\\textbf{Preference:}\n\n",
+    "$\\square$ Prefer Abstract \\hspace{2em} $\\square$ Prefer Presentation\n\n",
+    
+    "\\vspace{0.75em}\n",
+    "\\textbf{Better for Evaluating Design:}\n\n",
+    "$\\square$ Abstract \\hspace{2em} $\\square$ Presentation \n\n",
+    
+    "\\vspace{1.5em}\n",
+    "\\hrule\n",
+    "\\vspace{1.5em}\n"
+  ))
+  
+  # Page break after every 2 responses
+  if (i %% 2 == 0) {
+    cat("\\newpage\n")
+  }
+}
+```
+

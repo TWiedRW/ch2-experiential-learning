@@ -1,0 +1,9 @@
+{
+  "question": "q9",
+  "n_documents": 404,
+  "n_outliers": 1,
+  "outlier_rate": 0.0024752475247524753,
+  "n_topics_excluding_outlier": 3,
+  "has_probabilities": true,
+  "exported_document_topic_probabilities": true
+}

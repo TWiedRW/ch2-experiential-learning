@@ -1,0 +1,98 @@
+Question,Topic_ID,Response_Count,Label
+Q1,-1,172,General reflections on scientific investigation
+Q1,0,87,Contrasting researcher vs public understanding
+Q1,1,49,Individual perspectives on research steps
+Q1,2,45,Systematic research process and peer review
+Q1,3,42,Science as discovery vs consumption
+Q1,4,40,How researchers conduct investigations
+Q1,5,40,"Hypotheses, testing, and evidence-based science"
+Q1,6,38,Rigorous scientific methodology
+Q1,7,38,Research methodology and hypothesis formation
+Q1,8,29,Researcher approach to scientific questions
+Q1,9,28,Conducting and sharing research
+Q1,10,24,Scientific research as a formal process
+Q2,-1,47,General thoughts on depth and perception
+Q2,0,144,Testing how students understand experiments
+Q2,1,135,Interpreting graphs and visualizing data
+Q2,2,68,Understanding differences in how things appear
+Q2,3,53,Comparing bar graphs across conditions
+Q2,4,28,Testing experimental differences
+Q2,5,26,Comparing 2D and 3D chart formats
+Q2,6,20,How perception affects size judgment
+Q3,-1,135,Describing bar graph properties
+Q3,0,151,Testing how people judge sizes and differences
+Q3,1,149,Comparing 2D vs 3D graph perception
+Q3,2,29,Precise measurement of bar relationships
+Q3,3,22,Statistical testing concepts
+Q3,4,16,Formal hypothesis testing terminology
+Q3,5,15,Student accuracy in graph reading
+Q4,-1,129,General errors in experiments
+Q4,0,163,Sample size and measurement validity
+Q4,1,62,Physical aspects of 3D materials
+Q4,2,51,Graph-related measurement issues
+Q4,3,38,Human perception and measurement accuracy
+Q4,4,23,Sampling bias and random error
+Q4,5,19,Data variability across participants
+Q4,6,17,Visual ability and eyesight limitations
+Q4,7,15,Individual differences in perception
+Q5,-1,90,Mixing quantitative and categorical concepts
+Q5,0,62,Identifying quantitative variables in graphs
+Q5,1,56,Bar height as quantitative variable
+Q5,2,52,Size comparing as quantitative measure
+Q5,3,43,Mixed quantitative and categorical variables
+Q5,4,40,Graph types and quantitative data
+Q5,5,40,Variable classification in the experiment
+Q5,6,37,Categorical and quantitative distinctions
+Q5,7,37,Student responses to category questions
+Q5,8,31,Type of chart and numerical ratios
+Q5,9,27,Demographic characteristics as categorical
+Q6,-1,61,Design features and randomization methods
+Q6,0,144,Control groups and experimental treatments
+Q6,1,97,How randomization was implemented
+Q6,2,60,Randomization in student assignments
+Q6,3,30,Randomization in experiment setup
+Q6,4,26,Random selection from blocks/kits
+Q6,5,24,Chart types in the experiment
+Q6,6,21,Selection through random assignment
+Q6,7,21,Random sampling procedures
+Q6,8,17,Treatment effects and experimental validity
+Q6,9,13,Randomization in participant grouping
+Q7,-1,107,General commentary on graphics
+Q7,0,71,Now understand the experiment's purpose
+Q7,1,51,3D visualization and representation
+Q7,2,46,Depth perception in 3D designs
+Q7,3,42,Comparing 2D vs 3D charts
+Q7,4,42,Reading and interpreting experimental graphs
+Q7,5,40,Different chart formats compared
+Q7,6,36,Understanding data from graphs
+Q7,7,20,Physical 3D printed models
+Q7,8,20,Purpose and significance of experiment
+Q7,9,20,Design benefits for accessibility
+Q8,-1,61,Reflections on learning progression
+Q8,0,99,Visual differences between 2D and 3D
+Q8,1,34,Design elements across components
+Q8,2,33,Pre and post-study design understanding
+Q8,3,33,Information gain from different formats
+Q8,4,32,How each project component added value
+Q8,5,31,Participation vs. reading components
+Q8,6,21,Abstract vs. presentation format
+Q8,7,18,Project helped with learning
+Q8,8,15,Presentation provided new insights
+Q8,9,15,Noticed differences between methods
+Q8,10,13,Key findings and broader implications
+Q9,-1,1,Uncommon topic
+Q9,0,222,Presentation and abstract covered similar content
+Q9,1,154,Presentation added emphasis and detail
+Q9,2,27,Presentation format with visual aids
+Q10,-1,48,Purpose and study participation comments
+Q10,0,150,Critiques of results and methodology
+Q10,1,90,Study design could be improved
+Q10,2,50,Study population and sample issues
+Q10,3,50,Study methodology and data collection
+Q10,4,17,Sample size and generalizability
+Q11,-1,4,Rare response
+Q11,0,242,Prefer the extended abstract format
+Q11,1,58,Presentation explained better
+Q11,2,58,Prefer watching the presentation
+Q11,3,23,Mixed preference between formats
+Q11,4,20,Presentation helps with learning

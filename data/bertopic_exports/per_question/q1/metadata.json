@@ -1,0 +1,9 @@
+{
+  "question": "q1",
+  "n_documents": 632,
+  "n_outliers": 172,
+  "outlier_rate": 0.2721518987341772,
+  "n_topics_excluding_outlier": 11,
+  "has_probabilities": true,
+  "exported_document_topic_probabilities": true
+}

@@ -1,0 +1,9 @@
+{
+  "question": "q4",
+  "n_documents": 517,
+  "n_outliers": 129,
+  "outlier_rate": 0.2495164410058027,
+  "n_topics_excluding_outlier": 8,
+  "has_probabilities": true,
+  "exported_document_topic_probabilities": true
+}

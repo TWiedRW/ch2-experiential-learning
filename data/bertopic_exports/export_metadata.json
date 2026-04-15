@@ -1,0 +1,23 @@
+{
+  "exported_at_utc": "2026-04-14T06:00:04.536695Z",
+  "export_dir": "/Users/tylerwiederich/Library/CloudStorage/OneDrive-UniversityofNebraska-Lincoln/4 - Obsidian Vault/Research/dissertation/ch2-experiential-learning/data/bertopic_exports",
+  "use_llm_labels": true,
+  "llm_model": "mistral",
+  "secondary_topic_threshold": 0.2,
+  "questions": [
+    "q1",
+    "q2",
+    "q3",
+    "q4",
+    "q5",
+    "q6",
+    "q7",
+    "q8",
+    "q9",
+    "q10",
+    "q11"
+  ],
+  "n_topic_rows": 97,
+  "n_doc_rows": 5330,
+  "n_prob_rows": 4584
+}
