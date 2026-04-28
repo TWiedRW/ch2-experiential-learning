@@ -15,7 +15,7 @@ editor:
 
 Statistical education emphasizes the use of real data and its application in answering research questions.
 Students in introductory statistics courses are mainly exposed to elementary methods and textbook examples that demonstrate the application of these methods, which is used, in part, because of the emphasis on teaching students to think statistically using real data [@carver].
-Many textbooks use scenarios and ask students to perform the corresponding inferential test.
+Many textbooks, such as *Introduction to Statistical Investigations* [@tintle2021], use scenarios and ask students to perform the corresponding inferential test.
 This process is then repeated over the course material without much deviation in the instructional method.
 In some cases, however, students can participate and benefit from well-designed classroom experiments [@mcgowan2011].
 This process can expose students to concepts such as randomization and let students see the specifics of experimental design through their participation.
@@ -33,7 +33,7 @@ However, participants were generally more confident with their answers for 2D gr
 @fisher1997 observed a similar preference for 2D graphs over 3D graphs when extracting information, but found no preference for visual appeal for the type of graph.
 While these results provided valid skepticism toward the use of 3D graphs, the results are generalized to the projections of the 3D graphs.
 The area of "true" 3D graphs is largely unexplored, but advances in technology allow for easier access to explore the 3D projections of these graphs.
-Some studies have explored the use of 3D graphs in virtual reality [e.g., @krause2020], but the environment of virtual reality is different than objects produced in the physical world.
+Some studies have explored the use of 3D graphs in virtual reality [e.g., @kraus2020], but the environment of virtual reality is different than objects produced in the physical world.
 
 Because the use of "true" 3D graphs remains largely unexplored, it provides an opportunity to be used as an experiential learning opportunity for statistics students using active research.
 Not only can students benefit from the exposure to different graph types, including "true" 3D graphs, but they can also experience a more personable method of learning, which is more likely to be beneficial to reinforce statistical ways of thinking.
@@ -169,7 +169,7 @@ The results of the graphics experiment are presented by @wiederich as an extensi
 
 In addition to qualitative analyses, we incorporate topic modeling to uncover common themes in student responses.
 BERTopic is a modern topic modeling approach that combines transformer-based embeddings with clustering to identify topics from text data.
-We selected BERTopic over alternatives like Latent Dirichlet allocation (LDA) and Top2Vec because our responses contain both short and long-form answers with an unknown number of topics (XXX).
+We selected BERTopic over alternatives like Latent Dirichlet allocation (LDA) and Top2Vec because our responses contain both short and long-form answers with an unknown number of topics [@kumari2026].
 The method is highly modular, allowing independent parameter tuning at each stage.
 While the formulation of BERTopic is outside the scope of this paper, we describe the overview of the process and our parameter choices in the following sections.
 
@@ -177,15 +177,15 @@ While the formulation of BERTopic is outside the scope of this paper, we describ
 
 The first step of BERTopic converts text into numerical representations in a high-dimensional space using sentence transformers, which capture the semantic meaning of documents.
 Many open-weight models exist for this purpose, although the training and pipeline is sometimes not open.
-BERTopic's default transformer is `all-MiniLM-L6-v2`, but we used `all-mpnet-base-v2` (XXX), which has been shown to perform better on semantic similarity tasks at the cost of computational speed and memory (XXX).
-Our sample size is small enough that the computational times between the two transformers is not largely different.
+BERTopic's default transformer is `all-MiniLM-L6-v2`, but we used `all-mpnet-base-v2`, which has been shown to perform better on semantic similarity tasks at the cost of computational speed and memory [@colangelo2025].
+Our sample size is small enough that the computational times between the two transformers is not largely different, so we opt for the better sentence
 
 ##### Dimensional Reduction
 
-High-dimensional embeddings often benefit from dimensionality reduction prior to clustering to mitigate the curse of dimensionality while preserving meaningful semantic structure (XXX).
-BERTopic uses UMAP by default, which constructs a weighted k-nearest neighbor graph to approximate the local topological structure of the embedding space and optimizes a low-dimensional representation that preserves this structure.
+High-dimensional embeddings often benefit from dimensionality reduction prior to clustering to mitigate the curse of dimensionality while preserving meaningful semantic structure.
+BERTopic uses UMAP by default [@mcinnes], which constructs a weighted k-nearest neighbor graph to approximate the local topological structure of the embedding space and optimizes a low-dimensional representation that preserves this structure.
 
-Two UMAP hyperparameters are tuned based on the number of responses: `n_neighbors` (default: 15) and `n_components` (default: 5).
+Two UMAP hyperparameters are tuned based on the number of responses: `n_neighbors` (default: 15) and `n_components` (default: 5).
 The `n_neighbors` parameter controls the balance between local and global structure in the underlying graph.
 Smaller values emphasize local relationships and can yield more fine-grained but potentially noisier topic separation, while larger values produce smoother structure that may merge related topics.
 This parameter is tuned to balance topic granularity without excessive fragmentation or over-aggregation.
@@ -194,11 +194,11 @@ For our dataset, these parameters are adjusted per prompt.
 
 ##### Clustering
 
-BERTopic's default clustering method, HDBSCAN, identifies clusters by modeling regions with different densities (XXX).
+BERTopic's default clustering method, HDBSCAN, identifies clusters by modeling regions with different densities [@mcinnes2017].
 This approach has two key advantages: clusters are not constrained to specific shapes, and it can identify outliers without forcing them into clusters where they don't belong.
 The flexibility of HDBSCAN makes it more suitable for clustering semantic embeddings than other methods, such as k-means clustering and model-based clustering, where stronger distributional assumptions are required.
 
-The primary tuning parameter is `min_cluster_size`, which specifies the minimum number of observations required to form a cluster.
+The primary tuning parameter is `min_cluster_size`, which specifies the minimum number of observations required to form a cluster.
 Smaller values allow for more fine-grained topic detection, which is useful when only a few respondents mention a shared concept, but may increase sensitivity to noise.
 We therefore set this parameter relatively low to capture smaller clusters and increased it until we achieved a balance granularity and cluster stability
 
@@ -206,7 +206,7 @@ We therefore set this parameter relatively low to capture smaller clusters and i
 
 Once clusters are identified, all documents are combined and have frequently occurring terms identified.
 We use n-grams to capture phrases up to two words long to obtain statistics terminology like "sample size" and "hypothesis testing".
-We also remove common stop words ("the", "and", etc.) that add no thematic value using the English stop words provided by `sklearn`.
+We also remove common stop words ("the", "and", etc.) that add no thematic value using the English stop words provided by `sklearn` [@scikit].
 
 There may be phrases in each assigned document that appear infrequently or too often that they dominate the text representation of the topic.
 To address this, `max_df` and `min_df` are two parameters that filter out phrases.
@@ -246,7 +246,7 @@ Our chosen models can be found in @tbl-representation-models.
 
 | Method | Summary | Notes |
 |-------------------|--------------------------------|---------------------|
-| KeyBERT Inspired | Uses principles of KeyBERT (XXX) for keyword extraction |  |
+| KeyBERT Inspired | Uses principles of KeyBERT [@sharma] for keyword extraction |  |
 | Part Of Speech | Extracts words using part of speech | Valid patterns: adj noun, noun, adj |
 | Maximal Marginal Relevance | Maximizes the difference between topic words |  |
 
@@ -330,7 +330,7 @@ q_df <- data.frame(
 We recruited `r length(unique(res$section))` sections of STAT 218 to participate in the experiential learning project.
 Each instructor offered the project as participation credit or extra credit in their course and student participation for data collection was entirely voluntary.
 A total of `r nrow(res)` students participated in the project.
-@fig-student-resopnses-count displays the counts of responses per question.
+@fig-student-responses-count displays the counts of responses per question.
 
 ```{r}
 #| label: fig-student-responses-count
@@ -356,7 +356,7 @@ res_long %>%
 
 As expected, the number of completions decreased as the project progressed.
 The pre-experiment module was provided at the start of each semester during the withdrawal window for courses at the University of Nebraska, so some students would likely drop out of the course before completing later modules.
-The lower completion rates for the presentation module is largely attributed to the first few sections of STAT that participated in the project since the video presentation was under development for the first few sections that participated in the project.
+The lower completion rates for the presentation module is largely attributed to the first few sections of STAT 218 that participated in the project since the video presentation was under development for the first few sections that participated in the project.
 
 ### Responses from Experiment Participation
 
@@ -384,18 +384,24 @@ Students were initially prompted to write 3-5 sentences in response to the quest
 ```{r}
 #| label: fig-q1-wordcloud
 #| fig-cap: "Wordcloud of pre-experiment reflection. Stop words and prompt words were removed."
+#| fig-scap: "Pre-experiment reflection wordcloud"
+#| fig-width: 5
+
 library(webshot)
 library(htmlwidgets)
 
-res_long %>% 
-  filter(label == 'Q1') %>% 
-  unnest_tokens(word, response) %>% 
-  group_by(word) %>% 
-  count(sort = T) %>% 
-  filter(!(word %in% stop_words$word),
-         !(word %in% c('process', 'public', 'researcher', 'results', 'investigation', 'scientific', 'perspective', 'general', 'consumer', 'science'))) %>% 
-  wordcloud2() %>% 
-  saveWidget(file = 'q1-wordcloud.html')
+# res_long %>% 
+#   filter(label == 'Q1') %>% 
+#   unnest_tokens(word, response) %>% 
+#   group_by(word) %>% 
+#   count(sort = T) %>% 
+#   filter(!(word %in% stop_words$word),
+#          !(word %in% c('process', 'public', 'researcher', 'results', 'investigation', 'scientific', 'perspective', 'general', 'consumer', 'science'))) %>% 
+#   wordcloud2() %>% 
+#   saveWidget(file = 'q1-wordcloud.html')
+
+# webshot('q1-wordcloud.html', 'q1-wordcloud.png')
+knitr::include_graphics('q1-wordcloud.png')
 
 ```
 
@@ -406,6 +412,7 @@ The most common phrase groupings included variations of "scientific research," "
 ```{r}
 #| label: fig-q1-bigram
 #| fig-cap: "Top 20 bigrams from pre-experiment reflection"
+#| fig-scap: "Top 20 pre-experiment reflection bigrams"
 #| fig-width: 5.5
 #| fig-height: 3
 #| fig-dpi: 600
@@ -436,6 +443,7 @@ The remaining topics had fewer distinct keywords and seemed to track more closel
 #| fig-height: 6
 #| fig-dpi: 600
 #| fig-cap: "Top 5 words from pre-experiment reflection topics using c-TF-IDF score."
+#| fig-scap: "Top pre-experiment reflection topic words"
 
 # 1: document with top probability
 # 2: document with all probability, long
@@ -457,18 +465,19 @@ q[[1]][[5]] %>%
 
 #### Post-Experiment Reflection
 
-After participating in the experiment, students responded to prompts about the goals of the study, which were to evaluate errors in ratio judgments between 2D and 3D graph types under different comparison conditions in a randomized block design.
+After participating in the experiment, students responded to prompts about the research objectives, which were to evaluate errors in ratio judgments between 2D and 3D graph types under different comparison conditions in a randomized block design.
 Many students identified parts of the experiment correctly, but most missed at least one key component of what would count as a complete answer.
 
 For example, when asked, "What do you think the purpose of the experiment was?", a complete response would have referred to the comparison of ratio judgments across 2D and 3D graphs.
 One student gave a strong response by saying, "I think this experiment aimed to test if it was easier to compare two graphs in 2D or 3D." Another student was mostly correct, writing, "I think the purpose of this experiment was for the researcher to gather data on how people perceive, interpret, and understand 3D graphs." However, some responses reflected misunderstandings of the research question, such as student swho suggested the study was about demographic differences in perception.
 
-There were `r nrow(q[[2]][[5]])-1` distinct topics identified from the BERTopic model for Q2 responses.
+There were `r nrow(q[[2]][[4]])-1` distinct topics identified from the BERTopic model for Q2 responses.
 These topics generally reflected how accurately people estimated values from different chart types, as well as comparisons among chart types and the process of estimating chart values.
 
 ```{r}
 #| label: q2-bertopic
-#| fig-label: "Top 5 words from Q2 reflection topics using c-TF-IDF score."
+#| fig-cap: "Top 5 words from Q2 reflection topics using c-TF-IDF score."
+#| fig-scap: "Top Q2 reflection topic words"
 #| fig-width: 5.5
 #| fig-height: 5.5
 #| fig-dpi: 300
@@ -505,11 +514,14 @@ q23 <- res_long %>%
   count()
 ```
 
-In general, many students responded to Q2 and Q3 with answers that included the dimensionality of the charts. Of the `r nrow(num_students_q23)` responses to these questions, `r nrow(q23)` included some mention of the words 2D, 3D, digital, physical, or dimension. This value is lower than what we would expect, but many other responses tended to include mentions of accuracy or estimating values when reading charts. 
+In general, many students responded to Q2 and Q3 with answers that included the dimensionality of the charts.
+Of the `r nrow(num_students_q23)` responses to these questions, `r nrow(q23)` included some mention of the words 2D, 3D, digital, physical, or dimension.
+This value is lower than what we would expect, but many other responses tended to include mentions of accuracy or estimating values when reading charts.
 
 ```{r}
 #| label: q3-bertopic
-#| fig-label: "Top 5 words from Q3 reflection topics using c-TF-IDF score."
+#| fig-cap: "Top 5 words from Q3 reflection topics using c-TF-IDF score."
+#| fig-scap: "Top Q3 reflection topic words"
 #| fig-width: 5.5
 #| fig-height: 5.5
 #| fig-dpi: 300
@@ -532,7 +544,8 @@ Some students recognized sources of error and variable structure accurately, whi
 
 ```{r}
 #| label: q4-bertopic
-#| fig-label: "Top 5 words from Q4 reflection topics using c-TF-IDF score."
+#| fig-cap: "Top 5 words from Q4 reflection topics using c-TF-IDF score."
+#| fig-scap: "Top Q4 reflection topic words"
 #| fig-width: 5.5
 #| fig-height: 5.5
 #| fig-dpi: 300
@@ -551,7 +564,8 @@ q[[4]][[5]] %>%
 
 ```{r}
 #| label: q5-bertopic
-#| fig-label: "Top 5 words from Q5 reflection topics using c-TF-IDF score."
+#| fig-cap: "Top 5 words from Q5 reflection topics using c-TF-IDF score."
+#| fig-scap: "Top Q5 reflection topic words"
 #| fig-width: 5.5
 #| fig-height: 5.5
 #| fig-dpi: 300
@@ -578,7 +592,8 @@ One student responded that randomization was through "random students in the sta
 
 ```{r}
 #| label: q6-bertopic
-#| fig-label: "Top 5 words from Q6 reflection topics using c-TF-IDF score."
+#| fig-cap: "Top 5 words from Q6 reflection topics using c-TF-IDF score."
+#| fig-scap: "Top Q6 reflection topic words"
 #| fig-dpi: 600
 #| fig-width: 5.5
 #| fig-height: 5.5
@@ -607,6 +622,7 @@ A bigram plot of the student responses to the abstract reflection prompt is show
 ```{r}
 #| label: fig-q7-bigram
 #| fig-cap: "Top 20 bigrams from abstract reflection"
+#| fig-scap: "Top 20 abstract reflection bigrams"
 #| fig-width: 5.5
 #| fig-height: 3
 #| fig-dpi: 600
@@ -648,7 +664,6 @@ q[[7]][[5]] %>%
   theme(plot.title = element_textbox_simple(hjust = 0.5, margin = margin(b=10)))
 ```
 
-
 When discussing critiques of the study and its design, students frequently commented on a lack of initial information and concerns about generalizability to broader populations.
 Many reported that they did not fully understand the purpose of the study, which limited their ability to engage with or evaluate the design effectively.
 Students also emphasized that the sample from an introductory-level statistics restricted generalizability.
@@ -678,7 +693,6 @@ q[[10]][[5]] %>%
   theme(plot.title = element_textbox_simple(hjust = 0.5, margin = margin(b=10)))
 ```
 
-
 ```{r}
 #| eval: false
 q11 <- res_long %>% 
@@ -703,10 +717,7 @@ q11 <- res_long %>%
          )
 ```
 
-
-Lastly, many students responded that they preferred the presentation over the extended abstract when asked "If you had to hear about this study using only the extended abstract or only the presentation, which one would you prefer? Which one would be better for determining whether the experiment was well designed?" One student responded "I am a visual learner so I would have rather heard about in through the presentation. It also broke down the steps which is easier for me to understand. I think the presentation as a whole would be better for determining how the experiment is designed." On the other hand, there was another student said "Personally I like the abstract better. If I get confused on something it is so much easier to go back and reread to understand what is going on. If I ask myself questions about it, it is much easier to go back and find answers to the questions as well." A common theme for students who prefered the presentation was that it included the results, which were not a part of the extended abstract. 
-
-
+Lastly, many students responded that they preferred the presentation over the extended abstract when asked "If you had to hear about this study using only the extended abstract or only the presentation, which one would you prefer? Which one would be better for determining whether the experiment was well designed?" One student responded "I am a visual learner so I would have rather heard about in through the presentation. It also broke down the steps which is easier for me to understand. I think the presentation as a whole would be better for determining how the experiment is designed." On the other hand, there was another student said "Personally I like the abstract better. If I get confused on something it is so much easier to go back and reread to understand what is going on. If I ask myself questions about it, it is much easier to go back and find answers to the questions as well." A common theme for students who prefered the presentation was that it included the results, which were not a part of the extended abstract.
 
 ## Discussion
 
